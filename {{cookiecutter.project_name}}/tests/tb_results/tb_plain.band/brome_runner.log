@@ -1,0 +1,17 @@
+[plain.band]The test batch is ready.
+[plain.band]Startup
+[plain.band]Tear down
+[plain.band]The test batch is finished.
+[plain.band]******* TEST BATCH SUMMARY ********
+[plain.band]Total_test: 5; Total_test_successful: 5; Total_test_failed: 0
+[plain.band]Total execution time: 0:00:23.564000
+[plain.band]---------------------
+[plain.band]Failed tests:
+[plain.band]No test failed!
+[plain.band]---------------------
+[plain.band]Test Translation Firefox-46_0-Darwin
+[plain.band]Test execution time: 0:00:20.125000
+[plain.band]Total_test: 5; Total_test_successful: 5; Total_test_failed: 0
+[plain.band]No crash!
+[plain.band]---------------------
+[plain.band]Finished

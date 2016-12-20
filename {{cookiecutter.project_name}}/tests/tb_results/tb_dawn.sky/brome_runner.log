@@ -1,0 +1,43 @@
+[dawn.sky]The test batch is ready.
+[dawn.sky]Startup
+[dawn.sky]Tear down
+[dawn.sky]The test batch is finished.
+[dawn.sky]******* TEST BATCH SUMMARY ********
+[dawn.sky]Total_test: 2; Total_test_successful: 2; Total_test_failed: 0
+[dawn.sky]Total execution time: 0:05:37.754000
+[dawn.sky]---------------------
+[dawn.sky]Failed tests:
+[dawn.sky]No test failed!
+[dawn.sky]---------------------
+[dawn.sky]Test Navigation Firefox-46_0-Darwin
+[dawn.sky]Test execution time: 0:05:34.332000
+[dawn.sky]Total_test: 2; Total_test_successful: 2; Total_test_failed: 0
+[dawn.sky][!]Test Navigation Firefox crashed: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 532, in wait_until_visible
+    (getattr(By, _selector.find_by), _selector.get_selector())
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpg9oicqb_/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at FirefoxDriver.prototype.findElement (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpg9oicqb_/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+    at DelayedCommand.prototype.executeInternal_/h (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpg9oicqb_/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+    at DelayedCommand.prototype.executeInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpg9oicqb_/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+    at DelayedCommand.prototype.execute/< (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpg9oicqb_/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_navigation.py", line 36, in run
+    self.app.logout()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 179, in logout
+    self.pdriver.wait_until_visible("sv:header_register_link")
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 548, in wait_until_visible
+    raise exceptions.TimeoutException(msg)
+selenium.common.exceptions.TimeoutException: Message: wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is still not visible
+
+
+[dawn.sky]---------------------
+[dawn.sky]Finished

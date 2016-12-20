@@ -1,0 +1,10 @@
+{
+  "project_name": "Webbase",
+  "include_registration": "y",
+  "_copy_without_render": [
+    "*.html",
+    "*.json",
+    "*.yml",
+    "Makefile-cookiecutter"
+  ]
+}

@@ -1,0 +1,38 @@
+[small.recipe]The test batch is ready.
+[small.recipe]Startup
+[small.recipe][error]Exception in run of the grid runner: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/runner/local_runner.py", line 32, in execute
+    self.run()
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/runner/local_runner.py", line 72, in run
+    index=1
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 90, in __init__
+    self.pdriver = self.init_driver()
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 334, in init_driver
+    desired_capabilities=self._browser_config.config
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 90, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 177, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 236, in execute
+    self.error_handler.check_response(response)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 163, in check_response
+    raise exception_class(value)
+selenium.common.exceptions.WebDriverException: Message: Sauce Labs Authentication Error.
+You used username 'parent.j.f@gmail.com' and access key 'XXXXXXXX-XXXX-XXXX-XXXX-XXXX04385457' to authenticate, which are not valid Sauce Labs credentials.
+
+The following desired capabilities were received:
+{'browserName': 'MicrosoftEdge',
+ 'platform': 'Windows 10',
+ 'saucelabs': True,
+ 'version': '13.10586'}
+
+
+[small.recipe]The test batch is finished.
+[small.recipe]******* TEST BATCH SUMMARY ********
+[small.recipe]Total_test: 0; Total_test_successful: 0; Total_test_failed: 0
+[small.recipe]Total execution time: 0:00:01.689000
+[small.recipe]---------------------
+[small.recipe]Failed tests:
+[small.recipe]No test failed!
+[small.recipe]---------------------
+[small.recipe]Finished

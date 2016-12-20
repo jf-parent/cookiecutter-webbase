@@ -1,0 +1,12 @@
+[flat.pine]The test batch is ready.
+[flat.pine]Startup
+[flat.pine]Test batch interrupted
+[flat.pine]The test batch is finished.
+[flat.pine]******* TEST BATCH SUMMARY ********
+[flat.pine]Total_test: 4; Total_test_successful: 3; Total_test_failed: 1
+[flat.pine]Total execution time: 0:01:24.669000
+[flat.pine]---------------------
+[flat.pine]Failed tests:
+[flat.pine][#32] Register: has-success & has-error input validation.
+[flat.pine]---------------------
+[flat.pine]Finished

@@ -1,0 +1,383 @@
+[dark.disk](Test Navigation):Loading state...
+[dark.disk](Test Navigation):State loaded.
+[dark.disk](Test Navigation):Running...
+[dark.disk](Test Navigation):[App] Registering user...
+[dark.disk](Test Navigation):[App] Going to home...
+[dark.disk](Test Navigation):[debug]Initializing javascript error interception
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):[App] Register...
+[dark.disk](Test Navigation):[App] Going to the register page...
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:header_register_link
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:header_register_link
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:header_register_link)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:header_register_link): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[dark.disk](Test Navigation):Waiting until clickable (sv:header_register_link)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:register_email_input
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:register_email_input
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:register_email_input)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:register_email_input): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:register_name_input
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:register_name_input
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:register_name_input)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:register_name_input): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:register_password_input
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:register_password_input
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:register_password_input)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:register_password_input): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:register_submit_btn
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:register_submit_btn
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:register_submit_btn)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:register_submit_btn): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[dark.disk](Test Navigation):Waiting until clickable (sv:register_submit_btn)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is clickable
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):[App] Going to home...
+[dark.disk](Test Navigation):[debug]Initializing javascript error interception
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):[App] Going to the profile page...
+[dark.disk](Test Navigation):[App] Opening the user dropdown...
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[dark.disk](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[dark.disk](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:header_profile_link)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[dark.disk](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):[App] Going to home...
+[dark.disk](Test Navigation):[debug]Initializing javascript error interception
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#25)
+[dark.disk](Test Navigation):[debug]effective highlight: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]effective wait_until_present: False
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: False
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[dark.disk](Test Navigation):Taking a screenshot...
+[dark.disk](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_dark.disk/assertion_screenshots/Firefox_46_0_Darwin/succeed_25_2016-10-14-14-32-15_Firefox_46_0_Darwin.png)
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):[App] Going to home...
+[dark.disk](Test Navigation):[debug]Initializing javascript error interception
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):[debug]Initializing javascript error interception
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):[App] Going to the profile page...
+[dark.disk](Test Navigation):[App] Opening the user dropdown...
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[dark.disk](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[dark.disk](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:header_profile_link)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[dark.disk](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#26)
+[dark.disk](Test Navigation):[debug]effective highlight: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]effective wait_until_present: False
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: False
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[dark.disk](Test Navigation):Taking a screenshot...
+[dark.disk](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_dark.disk/assertion_screenshots/Firefox_46_0_Darwin/succeed_26_2016-10-14-14-32-20_Firefox_46_0_Darwin.png)
+[dark.disk](Test Navigation):[App] Logout...
+[dark.disk](Test Navigation):[App] Opening the user dropdown...
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[dark.disk](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[dark.disk](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[dark.disk](Test Navigation):[debug]Finding element with selector: sv:header_logout_btn
+[dark.disk](Test Navigation):[debug]Finding elements with selector: sv:header_logout_btn
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]effective wait_until_present: True
+[dark.disk](Test Navigation):[debug]effective wait_until_visible: True
+[dark.disk](Test Navigation):Waiting until visible (sv:header_logout_btn)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: False
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[dark.disk](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[dark.disk](Test Navigation):[debug]find (sv:header_logout_btn): Element found
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[dark.disk](Test Navigation):Waiting until clickable (sv:header_logout_btn)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[dark.disk](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[dark.disk](Test Navigation):[App] Waiting until loaded...
+[dark.disk](Test Navigation):Waiting until present (sv:app_root_div)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.disk](Test Navigation):Waiting until not visible (sv:app_loader)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.disk](Test Navigation):Waiting until visible (sv:header_register_link)
+[dark.disk](Test Navigation):[debug]effective timeout: 5
+[dark.disk](Test Navigation):[debug]effective raise_exception: True
+[dark.disk](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is still not visible
+[dark.disk](Test Navigation):[error]Test failed
+[dark.disk](Test Navigation):[error]Crash: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 532, in wait_until_visible
+    (getattr(By, _selector.find_by), _selector.get_selector())
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpuc6dgo70/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at FirefoxDriver.prototype.findElement (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpuc6dgo70/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+    at DelayedCommand.prototype.executeInternal_/h (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpuc6dgo70/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+    at DelayedCommand.prototype.executeInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpuc6dgo70/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+    at DelayedCommand.prototype.execute/< (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpuc6dgo70/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_navigation.py", line 36, in run
+    self.app.logout()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 178, in logout
+    self.pdriver.wait_until_visible("sv:header_register_link")
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 548, in wait_until_visible
+    raise exceptions.TimeoutException(msg)
+selenium.common.exceptions.TimeoutException: Message: wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is still not visible
+
+
+[dark.disk](Test Navigation):Creating a crash report
+[dark.disk](Test Navigation):Taking a screenshot...
+[dark.disk](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_dark.disk/crashes/Firefox_46.0_Darwin_-_Test_Navigation.png)
+[dark.disk](Test Navigation):Test ended
+[dark.disk](Test Navigation):Quitting the browser...
+[dark.disk](Test Navigation):Ending timestamp: 2016-10-14 11:32:33.102863+00:00

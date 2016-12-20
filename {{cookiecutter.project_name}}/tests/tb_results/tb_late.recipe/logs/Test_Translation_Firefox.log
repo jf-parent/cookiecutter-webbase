@@ -1,0 +1,106 @@
+[late.recipe](Test Translation):Loading state...
+[late.recipe](Test Translation):No state found.
+[late.recipe](Test Translation):Running...
+[late.recipe](Test Translation):[App] Going to home...
+[late.recipe](Test Translation):[debug]Initializing javascript error interception
+[late.recipe](Test Translation):[App] Waiting until loaded...
+[late.recipe](Test Translation):Waiting until present (sv:app_root_div)
+[late.recipe](Test Translation):[debug]effective timeout: 5
+[late.recipe](Test Translation):[debug]effective raise_exception: True
+[late.recipe](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[late.recipe](Test Translation):Waiting until not visible (sv:app_loader)
+[late.recipe](Test Translation):[debug]effective timeout: 5
+[late.recipe](Test Translation):[debug]effective raise_exception: True
+[late.recipe](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[late.recipe](Test Translation):[App] Changing locale...
+[late.recipe](Test Translation):[debug]Finding element with selector: sv:locale_en_btn
+[late.recipe](Test Translation):[debug]Finding elements with selector: sv:locale_en_btn
+[late.recipe](Test Translation):[debug]effective raise_exception: True
+[late.recipe](Test Translation):[debug]effective wait_until_present: True
+[late.recipe](Test Translation):[debug]effective wait_until_visible: True
+[late.recipe](Test Translation):Waiting until visible (sv:locale_en_btn)
+[late.recipe](Test Translation):[debug]effective timeout: 5
+[late.recipe](Test Translation):[debug]effective raise_exception: False
+[late.recipe](Test Translation):[debug]wait_until_visible (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): element is visible
+[late.recipe](Test Translation):[debug]find_all (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): Element found
+[late.recipe](Test Translation):[debug]find (sv:locale_en_btn): Element found
+[late.recipe](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "en"]') (class: 'btn btn-link')] Clicking on element
+[late.recipe](Test Translation):Waiting until clickable (sv:locale_en_btn)
+[late.recipe](Test Translation):[debug]effective timeout: 5
+[late.recipe](Test Translation):[debug]effective raise_exception: True
+[late.recipe](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): element is clickable
+[late.recipe](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "en"]') (class: 'btn btn-link')] Highlighting element
+[late.recipe](Test Translation):Assert visible selector(xp://*[contains(text(), 'Home')]) testid(#30)
+[late.recipe](Test Translation):[debug]effective highlight: True
+[late.recipe](Test Translation):[debug]effective wait_until_visible: True
+[late.recipe](Test Translation):Waiting until visible (xp://*[contains(text(), 'Home')])
+[late.recipe](Test Translation):[debug]effective timeout: 5
+[late.recipe](Test Translation):[debug]effective raise_exception: False
+[late.recipe](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(text(), 'Home')]), raw selector (xp://*[contains(text(), 'Home')])): element is visible
+[late.recipe](Test Translation):[debug]Finding element with selector: xp://*[contains(text(), 'Home')]
+[late.recipe](Test Translation):[debug]Finding elements with selector: xp://*[contains(text(), 'Home')]
+[late.recipe](Test Translation):[debug]effective raise_exception: False
+[late.recipe](Test Translation):[debug]effective wait_until_present: False
+[late.recipe](Test Translation):[debug]effective wait_until_visible: False
+[late.recipe](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(text(), 'Home')]), raw selector (xp://*[contains(text(), 'Home')])): Element found
+[late.recipe](Test Translation):[debug]find (xp://*[contains(text(), 'Home')]): Element found
+[late.recipe](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] Is displayed
+[late.recipe](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] is displayed
+[late.recipe](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] Highlighting element
+[late.recipe](Test Translation):Taking a screenshot...
+[late.recipe](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_late.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_30_2016-09-23-15-43-44_Firefox_46_0_Darwin.png)
+[late.recipe](Test Translation):[App] Changing locale...
+[late.recipe](Test Translation):[debug]Finding element with selector: sv:locale_fr_btn
+[late.recipe](Test Translation):[debug]Finding elements with selector: sv:locale_fr_btn
+[late.recipe](Test Translation):[debug]effective raise_exception: True
+[late.recipe](Test Translation):[debug]effective wait_until_present: True
+[late.recipe](Test Translation):[debug]effective wait_until_visible: True
+[late.recipe](Test Translation):Waiting until visible (sv:locale_fr_btn)
+[late.recipe](Test Translation):[debug]effective timeout: 5
+[late.recipe](Test Translation):[debug]effective raise_exception: False
+[late.recipe](Test Translation):[debug]wait_until_visible (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): element is visible
+[late.recipe](Test Translation):[debug]find_all (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): Element found
+[late.recipe](Test Translation):[debug]find (sv:locale_fr_btn): Element found
+[late.recipe](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "fr"]') (class: 'btn btn-link')] Clicking on element
+[late.recipe](Test Translation):Waiting until clickable (sv:locale_fr_btn)
+[late.recipe](Test Translation):[debug]effective timeout: 5
+[late.recipe](Test Translation):[debug]effective raise_exception: True
+[late.recipe](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): element is clickable
+[late.recipe](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "fr"]') (class: 'btn btn-link')] Highlighting element
+[late.recipe](Test Translation):Assert visible selector(xp://*[contains(text(), 'Page d'acceuil')]) testid(#30)
+[late.recipe](Test Translation):[debug]effective highlight: True
+[late.recipe](Test Translation):[debug]effective wait_until_visible: True
+[late.recipe](Test Translation):Waiting until visible (xp://*[contains(text(), 'Page d'acceuil')])
+[late.recipe](Test Translation):[debug]effective timeout: 5
+[late.recipe](Test Translation):[debug]effective raise_exception: False
+[late.recipe](Test Translation):[error]Test failed
+[late.recipe](Test Translation):[error]Crash: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/selector.py", line 42, in __init__
+    xpath_test.xpath(self.get_selector())
+  File "lxml.etree.pyx", line 2175, in lxml.etree._ElementTree.xpath (src/lxml/lxml.etree.c:59914)
+  File "xpath.pxi", line 359, in lxml.etree.XPathDocumentEvaluator.__call__ (src/lxml/lxml.etree.c:152551)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src/lxml/lxml.etree.c:150914)
+  File "xpath.pxi", line 213, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src/lxml/lxml.etree.c:150767)
+lxml.etree.XPathEvalError: Invalid expression
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_translation.py", line 25, in run
+    "#30"
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 1192, in assert_visible
+    self.wait_until_visible(selector, raise_exception=False)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 526, in wait_until_visible
+    _selector = Selector(self, selector)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/selector.py", line 44, in __init__
+    raise Exception("Invalid xpath: %s" % self.get_selector())
+Exception: Invalid xpath: //*[contains(text(), 'Page d'acceuil')]
+
+[late.recipe](Test Translation):Creating a crash report
+[late.recipe](Test Translation):Taking a screenshot...
+[late.recipe](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_late.recipe/crashes/Firefox_46.0_Darwin_-_Test_Translation.png)
+[late.recipe](Test Translation):Test ended
+[late.recipe](Test Translation):Quitting the browser...
+[late.recipe](Test Translation):Ending timestamp: 2016-09-23 12:43:48.365865+00:00

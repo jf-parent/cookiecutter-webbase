@@ -1,0 +1,12 @@
+[calm.base]The test batch is ready.
+[calm.base]Startup
+[calm.base]Test batch interrupted
+[calm.base]The test batch is finished.
+[calm.base]******* TEST BATCH SUMMARY ********
+[calm.base]Total_test: 14; Total_test_successful: 14; Total_test_failed: 0
+[calm.base]Total execution time: 0:00:20.297000
+[calm.base]---------------------
+[calm.base]Failed tests:
+[calm.base]No test failed!
+[calm.base]---------------------
+[calm.base]Finished

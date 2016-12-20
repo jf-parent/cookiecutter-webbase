@@ -1,0 +1,892 @@
+[flat.cell](Test Login):Loading state...
+[flat.cell](Test Login):No state found.
+[flat.cell](Test Login):Running...
+[flat.cell](Test Login):[App] Registering user...
+[flat.cell](Test Login):[App] Going to home...
+[flat.cell](Test Login):[debug]Initializing javascript error interception
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):[App] Register...
+[flat.cell](Test Login):[App] Going to the register page...
+[flat.cell](Test Login):[debug]Finding element with selector: sv:header_register_link
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:header_register_link
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:header_register_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[flat.cell](Test Login):[debug]find (sv:header_register_link): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:header_register_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:register_email_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:register_email_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:register_email_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:register_email_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):[debug]Finding element with selector: sv:register_name_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:register_name_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:register_name_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:register_name_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):[debug]Finding element with selector: sv:register_password_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:register_password_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:register_password_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:register_password_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):[debug]Finding element with selector: sv:register_submit_btn
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:register_submit_btn
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:register_submit_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[flat.cell](Test Login):[debug]find (sv:register_submit_btn): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:register_submit_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):[App] Logout...
+[flat.cell](Test Login):[App] Opening the user dropdown...
+[flat.cell](Test Login):[debug]Finding element with selector: sv:header_user_dropdown
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:header_user_dropdown
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:header_user_dropdown)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[flat.cell](Test Login):[debug]find (sv:header_user_dropdown): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:header_user_dropdown)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[flat.cell](Test Login):Waiting until present (sv:header_user_dropdown_open)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[flat.cell](Test Login):[debug]Finding element with selector: sv:header_logout_btn
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:header_logout_btn
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:header_logout_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[flat.cell](Test Login):[debug]find (sv:header_logout_btn): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:header_logout_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):Waiting until visible (sv:header_register_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[flat.cell](Test Login):[App] Going to the login page...
+[flat.cell](Test Login):[debug]Finding element with selector: sv:header_login_link
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:header_login_link
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:header_login_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[flat.cell](Test Login):[debug]find (sv:header_login_link): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:header_login_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):Assert visible selector(sv:login_forgotten_password_link) testid(#12)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_forgotten_password_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_forgotten_password_link
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_forgotten_password_link
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_forgotten_password_link): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_12_2016-10-14-15-07-18_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_forgotten_password_link
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_forgotten_password_link
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_forgotten_password_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_forgotten_password_link): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:login_forgotten_password_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):Assert present selector(sv:forgottenpassword_page) testid(#12)
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):Waiting until present (sv:forgottenpassword_page)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@name = "forgotten-password-page"]), raw selector (sv:forgottenpassword_page)): element is present
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_12_2016-10-14-15-07-19_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[App] Going to the login page...
+[flat.cell](Test Login):[debug]Finding element with selector: sv:header_login_link
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:header_login_link
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:header_login_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[flat.cell](Test Login):[debug]find (sv:header_login_link): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:header_login_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):Assert visible selector(sv:login_dont_have_account_link) testid(#11)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_dont_have_account_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_dont_have_account_link
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_dont_have_account_link
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_dont_have_account_link): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_11_2016-10-14-15-07-20_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_dont_have_account_link
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_dont_have_account_link
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_dont_have_account_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_dont_have_account_link): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:login_dont_have_account_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):Assert visible selector(sv:register_submit_btn) testid(#11)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:register_submit_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:register_submit_btn
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:register_submit_btn
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[flat.cell](Test Login):[debug]find (sv:register_submit_btn): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_11_2016-10-14-15-07-21_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[debug]Initializing javascript error interception
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):Assert visible selector(sv:login_submit_btn_disabled) testid(#4)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_submit_btn_disabled)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_submit_btn_disabled): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_4_2016-10-14-15-07-22_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_email_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_email_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):Assert visible selector(sv:login_submit_btn_disabled) testid(#4)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_submit_btn_disabled)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_submit_btn_disabled): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_4_2016-10-14-15-07-24_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_password_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_password_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):Assert not visible selector(sv:login_submit_btn_disabled) testid(#5)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_not_visible: True
+[flat.cell](Test Login):Waiting until not visible (sv:login_submit_btn_disabled)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is not visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): No element found
+[flat.cell](Test Login):[debug]find (sv:login_submit_btn_disabled): No element found
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_5_2016-10-14-15-07-24_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):Assert visible selector(sv:login_email_input_has_warning) testid(#33)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_email_input_has_warning)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:login_email_input_has_warning)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_email_input_has_warning
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_email_input_has_warning
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:login_email_input_has_warning)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_email_input_has_warning): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-10-14-15-07-25_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):Assert visible selector(sv:login_password_input_has_warning) testid(#33)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_password_input_has_warning)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:login_password_input_has_warning)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_password_input_has_warning
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_password_input_has_warning
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:login_password_input_has_warning)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_password_input_has_warning): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-10-14-15-07-26_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[debug]Initializing javascript error interception
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_password_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_password_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_email_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_email_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):Assert visible selector(sv:login_email_input_has_error) testid(#33)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_email_input_has_error)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:login_email_input_has_error)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_email_input_has_error
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_email_input_has_error
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:login_email_input_has_error)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_email_input_has_error): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-10-14-15-07-28_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):Assert visible selector(sv:login_password_input_has_success) testid(#33)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_password_input_has_success)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:login_password_input_has_success)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_password_input_has_success
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_password_input_has_success
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:login_password_input_has_success)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_password_input_has_success): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-10-14-15-07-29_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):Assert visible selector(sv:login_submit_btn_disabled) testid(#6)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_submit_btn_disabled)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_submit_btn_disabled): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_6_2016-10-14-15-07-29_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[debug]Initializing javascript error interception
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_email_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_email_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_password_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_password_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):Assert visible selector(sv:login_email_input_has_success) testid(#33)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_email_input_has_success)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:login_email_input_has_success)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_email_input_has_success
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_email_input_has_success
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:login_email_input_has_success)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_email_input_has_success): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-10-14-15-07-32_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):Assert visible selector(sv:login_password_input_has_error) testid(#33)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_password_input_has_error)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:login_password_input_has_error)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_password_input_has_error
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_password_input_has_error
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:login_password_input_has_error)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_password_input_has_error): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-10-14-15-07-32_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):Assert visible selector(sv:login_submit_btn_disabled) testid(#7)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_submit_btn_disabled)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_submit_btn_disabled): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_7_2016-10-14-15-07-33_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[debug]Initializing javascript error interception
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_email_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_email_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_password_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_password_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_submit_btn
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_submit_btn
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_submit_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_submit_btn): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:login_submit_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[flat.cell](Test Login):Assert visible selector(xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']) testid(#8)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException'])
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = 'errorMsg.WrongEmailOrPasswordException']), raw selector (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException'])): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']
+[flat.cell](Test Login):[debug]Finding elements with selector: xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = 'errorMsg.WrongEmailOrPasswordException']), raw selector (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException'])): Element found
+[flat.cell](Test Login):[debug]find (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = 'errorMsg.WrongEmailOrPasswordException']') (name: 'errorMsg.WrongEmailOrPasswordException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = 'errorMsg.WrongEmailOrPasswordException']') (name: 'errorMsg.WrongEmailOrPasswordException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = 'errorMsg.WrongEmailOrPasswordException']') (name: 'errorMsg.WrongEmailOrPasswordException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_8_2016-10-14-15-07-36_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[debug]Initializing javascript error interception
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):[App] Login...
+[flat.cell](Test Login):[App] Going to the login page...
+[flat.cell](Test Login):[debug]Finding element with selector: sv:header_login_link
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:header_login_link
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:header_login_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[flat.cell](Test Login):[debug]find (sv:header_login_link): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link') (class: 'active')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:header_login_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link') (class: 'active')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_email_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_email_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_password_input)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_password_input): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[flat.cell](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[flat.cell](Test Login):[debug]Finding element with selector: sv:login_submit_btn
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:login_submit_btn
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:login_submit_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[flat.cell](Test Login):[debug]find (sv:login_submit_btn): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:login_submit_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):Assert visible selector(xp://span[@name= 'user-name' and text() = 'Laura Smith']) testid(#1)
+[flat.cell](Test Login):[debug]effective highlight: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (xp://span[@name= 'user-name' and text() = 'Laura Smith'])
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//span[@name= 'user-name' and text() = 'Laura Smith']), raw selector (xp://span[@name= 'user-name' and text() = 'Laura Smith'])): element is visible
+[flat.cell](Test Login):[debug]Finding element with selector: xp://span[@name= 'user-name' and text() = 'Laura Smith']
+[flat.cell](Test Login):[debug]Finding elements with selector: xp://span[@name= 'user-name' and text() = 'Laura Smith']
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]effective wait_until_present: False
+[flat.cell](Test Login):[debug]effective wait_until_visible: False
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//span[@name= 'user-name' and text() = 'Laura Smith']), raw selector (xp://span[@name= 'user-name' and text() = 'Laura Smith'])): Element found
+[flat.cell](Test Login):[debug]find (xp://span[@name= 'user-name' and text() = 'Laura Smith']): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//span[@name= 'user-name' and text() = 'Laura Smith']') (name: 'user-name')] Is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//span[@name= 'user-name' and text() = 'Laura Smith']') (name: 'user-name')] is displayed
+[flat.cell](Test Login):[debug][WebElement (selector: '//span[@name= 'user-name' and text() = 'Laura Smith']') (name: 'user-name')] Highlighting element
+[flat.cell](Test Login):Taking a screenshot...
+[flat.cell](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_1_2016-10-14-15-07-40_Firefox_46_0_Darwin.png)
+[flat.cell](Test Login):[App] Logout...
+[flat.cell](Test Login):[App] Opening the user dropdown...
+[flat.cell](Test Login):[debug]Finding element with selector: sv:header_user_dropdown
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:header_user_dropdown
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:header_user_dropdown)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[flat.cell](Test Login):[debug]find (sv:header_user_dropdown): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:header_user_dropdown)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[flat.cell](Test Login):Waiting until present (sv:header_user_dropdown_open)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[flat.cell](Test Login):[debug]Finding element with selector: sv:header_logout_btn
+[flat.cell](Test Login):[debug]Finding elements with selector: sv:header_logout_btn
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]effective wait_until_present: True
+[flat.cell](Test Login):[debug]effective wait_until_visible: True
+[flat.cell](Test Login):Waiting until visible (sv:header_logout_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: False
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[flat.cell](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[flat.cell](Test Login):[debug]find (sv:header_logout_btn): Element found
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[flat.cell](Test Login):Waiting until clickable (sv:header_logout_btn)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[flat.cell](Test Login):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[flat.cell](Test Login):[App] Waiting until loaded...
+[flat.cell](Test Login):Waiting until present (sv:app_root_div)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Login):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Login):Waiting until visible (sv:header_register_link)
+[flat.cell](Test Login):[debug]effective timeout: 5
+[flat.cell](Test Login):[debug]effective raise_exception: True
+[flat.cell](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[flat.cell](Test Login):Test ended
+[flat.cell](Test Login):Quitting the browser...
+[flat.cell](Test Login):Ending timestamp: 2016-10-14 12:07:42.249715+00:00

@@ -1,0 +1,139 @@
+[square.salad](Test Privacy Policy):Loading state...
+[square.salad](Test Privacy Policy):No state found.
+[square.salad](Test Privacy Policy):Running...
+[square.salad](Test Privacy Policy):[App] Going to home...
+[square.salad](Test Privacy Policy):[debug]Initializing javascript error interception
+[square.salad](Test Privacy Policy):[App] Waiting until loaded...
+[square.salad](Test Privacy Policy):Waiting until present (sv:app_root_div)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[square.salad](Test Privacy Policy):Waiting until not visible (sv:app_loader)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[square.salad](Test Privacy Policy):Assert visible selector(sv:header_privacy_policy_banner) testid(#31)
+[square.salad](Test Privacy Policy):[debug]effective highlight: True
+[square.salad](Test Privacy Policy):[debug]effective wait_until_visible: True
+[square.salad](Test Privacy Policy):Waiting until visible (sv:header_privacy_policy_banner)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): element is visible
+[square.salad](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner
+[square.salad](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]effective wait_until_present: False
+[square.salad](Test Privacy Policy):[debug]effective wait_until_visible: False
+[square.salad](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): Element found
+[square.salad](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner): Element found
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]') (class: 'react-cookie-banner')] Is displayed
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]') (class: 'react-cookie-banner')] is displayed
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]') (class: 'react-cookie-banner')] Highlighting element
+[square.salad](Test Privacy Policy):Taking a screenshot...
+[square.salad](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_square.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_31_2016-09-23-16-02-36_Firefox_46_0_Darwin.png)
+[square.salad](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner_link
+[square.salad](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner_link
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]effective wait_until_present: True
+[square.salad](Test Privacy Policy):[debug]effective wait_until_visible: True
+[square.salad](Test Privacy Policy):Waiting until visible (sv:header_privacy_policy_banner_link)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]), raw selector (sv:header_privacy_policy_banner_link)): element is visible
+[square.salad](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]), raw selector (sv:header_privacy_policy_banner_link)): Element found
+[square.salad](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner_link): Element found
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]') (class: 'cookie-link')] Clicking on element
+[square.salad](Test Privacy Policy):Waiting until clickable (sv:header_privacy_policy_banner_link)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]wait_until_clickable (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]), raw selector (sv:header_privacy_policy_banner_link)): element is clickable
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]') (class: 'cookie-link')] Highlighting element
+[square.salad](Test Privacy Policy):[App] Waiting until loaded...
+[square.salad](Test Privacy Policy):Waiting until present (sv:app_root_div)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[square.salad](Test Privacy Policy):Waiting until not visible (sv:app_loader)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[square.salad](Test Privacy Policy):Assert visible selector(sv:privacy_page) testid(#31)
+[square.salad](Test Privacy Policy):[debug]effective highlight: True
+[square.salad](Test Privacy Policy):[debug]effective wait_until_visible: True
+[square.salad](Test Privacy Policy):Waiting until visible (sv:privacy_page)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@name = "privacy-policy-page"]), raw selector (sv:privacy_page)): element is visible
+[square.salad](Test Privacy Policy):[debug]Finding element with selector: sv:privacy_page
+[square.salad](Test Privacy Policy):[debug]Finding elements with selector: sv:privacy_page
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]effective wait_until_present: False
+[square.salad](Test Privacy Policy):[debug]effective wait_until_visible: False
+[square.salad](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@name = "privacy-policy-page"]), raw selector (sv:privacy_page)): Element found
+[square.salad](Test Privacy Policy):[debug]find (sv:privacy_page): Element found
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@name = "privacy-policy-page"]') (name: 'privacy-policy-page')] Is displayed
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@name = "privacy-policy-page"]') (name: 'privacy-policy-page')] is displayed
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@name = "privacy-policy-page"]') (name: 'privacy-policy-page')] Highlighting element
+[square.salad](Test Privacy Policy):Taking a screenshot...
+[square.salad](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_square.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_31_2016-09-23-16-02-38_Firefox_46_0_Darwin.png)
+[square.salad](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner_gotit_btn
+[square.salad](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner_gotit_btn
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]effective wait_until_present: True
+[square.salad](Test Privacy Policy):[debug]effective wait_until_visible: True
+[square.salad](Test Privacy Policy):Waiting until visible (sv:header_privacy_policy_banner_gotit_btn)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "button-close"]), raw selector (sv:header_privacy_policy_banner_gotit_btn)): element is visible
+[square.salad](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "button-close"]), raw selector (sv:header_privacy_policy_banner_gotit_btn)): Element found
+[square.salad](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner_gotit_btn): Element found
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "button-close"]') (class: 'button-close')] Clicking on element
+[square.salad](Test Privacy Policy):Waiting until clickable (sv:header_privacy_policy_banner_gotit_btn)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]wait_until_clickable (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "button-close"]), raw selector (sv:header_privacy_policy_banner_gotit_btn)): element is clickable
+[square.salad](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "button-close"]') (class: 'button-close')] Highlighting element
+[square.salad](Test Privacy Policy):Assert not visible selector(sv:header_privacy_policy_banner) testid(#31)
+[square.salad](Test Privacy Policy):[debug]effective highlight: True
+[square.salad](Test Privacy Policy):[debug]effective wait_until_not_visible: True
+[square.salad](Test Privacy Policy):Waiting until not visible (sv:header_privacy_policy_banner)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): element is not visible
+[square.salad](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner
+[square.salad](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]effective wait_until_present: False
+[square.salad](Test Privacy Policy):[debug]effective wait_until_visible: False
+[square.salad](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): No element found
+[square.salad](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner): No element found
+[square.salad](Test Privacy Policy):Taking a screenshot...
+[square.salad](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_square.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_31_2016-09-23-16-02-39_Firefox_46_0_Darwin.png)
+[square.salad](Test Privacy Policy):[App] Waiting until loaded...
+[square.salad](Test Privacy Policy):Waiting until present (sv:app_root_div)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[square.salad](Test Privacy Policy):Waiting until not visible (sv:app_loader)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: True
+[square.salad](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[square.salad](Test Privacy Policy):Assert not visible selector(sv:header_privacy_policy_banner) testid(#31)
+[square.salad](Test Privacy Policy):[debug]effective highlight: True
+[square.salad](Test Privacy Policy):[debug]effective wait_until_not_visible: True
+[square.salad](Test Privacy Policy):Waiting until not visible (sv:header_privacy_policy_banner)
+[square.salad](Test Privacy Policy):[debug]effective timeout: 5
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): element is not visible
+[square.salad](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner
+[square.salad](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner
+[square.salad](Test Privacy Policy):[debug]effective raise_exception: False
+[square.salad](Test Privacy Policy):[debug]effective wait_until_present: False
+[square.salad](Test Privacy Policy):[debug]effective wait_until_visible: False
+[square.salad](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): No element found
+[square.salad](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner): No element found
+[square.salad](Test Privacy Policy):Taking a screenshot...
+[square.salad](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_square.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_31_2016-09-23-16-02-39_Firefox_46_0_Darwin.png)
+[square.salad](Test Privacy Policy):Test ended
+[square.salad](Test Privacy Policy):Quitting the browser...
+[square.salad](Test Privacy Policy):Ending timestamp: 2016-09-23 13:02:40.120477+00:00

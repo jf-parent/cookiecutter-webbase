@@ -1,0 +1,352 @@
+[divine.hill](Test Navigation):Loading state...
+[divine.hill](Test Navigation):State loaded.
+[divine.hill](Test Navigation):Running...
+[divine.hill](Test Navigation):[App] Registering user...
+[divine.hill](Test Navigation):[App] Going to home...
+[divine.hill](Test Navigation):[debug]Initializing javascript error interception
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):[App] Register...
+[divine.hill](Test Navigation):[App] Going to the register page...
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:header_register_link
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:header_register_link
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:header_register_link)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:header_register_link): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[divine.hill](Test Navigation):Waiting until clickable (sv:header_register_link)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:register_email_input
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:register_email_input
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:register_email_input)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:register_email_input): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:register_name_input
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:register_name_input
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:register_name_input)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:register_name_input): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:register_password_input
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:register_password_input
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:register_password_input)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:register_password_input): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:register_submit_btn
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:register_submit_btn
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:register_submit_btn)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:register_submit_btn): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[divine.hill](Test Navigation):Waiting until clickable (sv:register_submit_btn)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is clickable
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):[App] Going to home...
+[divine.hill](Test Navigation):[debug]Initializing javascript error interception
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):[App] Going to the profile page...
+[divine.hill](Test Navigation):[App] Opening the user dropdown...
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[divine.hill](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[divine.hill](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:header_profile_link)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[divine.hill](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):[App] Going to home...
+[divine.hill](Test Navigation):[debug]Initializing javascript error interception
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#25)
+[divine.hill](Test Navigation):[debug]effective highlight: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]effective wait_until_present: False
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: False
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[divine.hill](Test Navigation):Taking a screenshot...
+[divine.hill](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_divine.hill/assertion_screenshots/Firefox_46_0_Darwin/succeed_25_2016-10-14-14-34-27_Firefox_46_0_Darwin.png)
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):[App] Going to home...
+[divine.hill](Test Navigation):[debug]Initializing javascript error interception
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):[debug]Initializing javascript error interception
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):[App] Going to the profile page...
+[divine.hill](Test Navigation):[App] Opening the user dropdown...
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[divine.hill](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[divine.hill](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:header_profile_link)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[divine.hill](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[divine.hill](Test Navigation):[App] Waiting until loaded...
+[divine.hill](Test Navigation):Waiting until present (sv:app_root_div)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[divine.hill](Test Navigation):Waiting until not visible (sv:app_loader)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[divine.hill](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#26)
+[divine.hill](Test Navigation):[debug]effective highlight: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]effective wait_until_present: False
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: False
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[divine.hill](Test Navigation):Taking a screenshot...
+[divine.hill](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_divine.hill/assertion_screenshots/Firefox_46_0_Darwin/succeed_26_2016-10-14-14-34-32_Firefox_46_0_Darwin.png)
+[divine.hill](Test Navigation):[App] Logout...
+[divine.hill](Test Navigation):[App] Opening the user dropdown...
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[divine.hill](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[divine.hill](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[divine.hill](Test Navigation):[debug]Finding element with selector: sv:header_logout_btn
+[divine.hill](Test Navigation):[debug]Finding elements with selector: sv:header_logout_btn
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]effective wait_until_present: True
+[divine.hill](Test Navigation):[debug]effective wait_until_visible: True
+[divine.hill](Test Navigation):Waiting until visible (sv:header_logout_btn)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: False
+[divine.hill](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[divine.hill](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[divine.hill](Test Navigation):[debug]find (sv:header_logout_btn): Element found
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[divine.hill](Test Navigation):Waiting until clickable (sv:header_logout_btn)
+[divine.hill](Test Navigation):[debug]effective timeout: 5
+[divine.hill](Test Navigation):[debug]effective raise_exception: True
+[divine.hill](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[divine.hill](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[divine.hill](Test Navigation):[error]Test failed
+[divine.hill](Test Navigation):[error]Crash: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_navigation.py", line 36, in run
+    self.app.logout()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 175, in logout
+    sleep(2)
+NameError: name 'sleep' is not defined
+
+[divine.hill](Test Navigation):Creating a crash report
+[divine.hill](Test Navigation):Taking a screenshot...
+[divine.hill](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_divine.hill/crashes/Firefox_46.0_Darwin_-_Test_Navigation.png)
+[divine.hill](Test Navigation):Test ended
+[divine.hill](Test Navigation):Quitting the browser...
+[divine.hill](Test Navigation):Ending timestamp: 2016-10-14 11:34:37.690899+00:00

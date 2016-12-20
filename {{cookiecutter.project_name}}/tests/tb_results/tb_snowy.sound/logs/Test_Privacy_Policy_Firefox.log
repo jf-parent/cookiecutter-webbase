@@ -1,0 +1,90 @@
+[snowy.sound](Test Privacy Policy):Loading state...
+[snowy.sound](Test Privacy Policy):No state found.
+[snowy.sound](Test Privacy Policy):Running...
+[snowy.sound](Test Privacy Policy):[App] Going to home...
+[snowy.sound](Test Privacy Policy):[debug]Initializing javascript error interception
+[snowy.sound](Test Privacy Policy):[App] Waiting until loaded...
+[snowy.sound](Test Privacy Policy):Waiting until present (sv:app_root_div)
+[snowy.sound](Test Privacy Policy):[debug]effective timeout: 5
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: True
+[snowy.sound](Test Privacy Policy):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[snowy.sound](Test Privacy Policy):Waiting until not visible (sv:app_loader)
+[snowy.sound](Test Privacy Policy):[debug]effective timeout: 5
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: True
+[snowy.sound](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[snowy.sound](Test Privacy Policy):Assert visible selector(sv:header_privacy_policy_banner) testid(#31)
+[snowy.sound](Test Privacy Policy):[debug]effective highlight: True
+[snowy.sound](Test Privacy Policy):[debug]effective wait_until_visible: True
+[snowy.sound](Test Privacy Policy):Waiting until visible (sv:header_privacy_policy_banner)
+[snowy.sound](Test Privacy Policy):[debug]effective timeout: 5
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: False
+[snowy.sound](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): element is visible
+[snowy.sound](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner
+[snowy.sound](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: False
+[snowy.sound](Test Privacy Policy):[debug]effective wait_until_present: False
+[snowy.sound](Test Privacy Policy):[debug]effective wait_until_visible: False
+[snowy.sound](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): Element found
+[snowy.sound](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner): Element found
+[snowy.sound](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]') (class: 'react-cookie-banner')] Is displayed
+[snowy.sound](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]') (class: 'react-cookie-banner')] is displayed
+[snowy.sound](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]') (class: 'react-cookie-banner')] Highlighting element
+[snowy.sound](Test Privacy Policy):Taking a screenshot...
+[snowy.sound](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_snowy.sound/assertion_screenshots/Firefox_46_0_Darwin/succeed_31_2016-09-23-16-01-59_Firefox_46_0_Darwin.png)
+[snowy.sound](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner_link
+[snowy.sound](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner_link
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: True
+[snowy.sound](Test Privacy Policy):[debug]effective wait_until_present: True
+[snowy.sound](Test Privacy Policy):[debug]effective wait_until_visible: True
+[snowy.sound](Test Privacy Policy):Waiting until visible (sv:header_privacy_policy_banner_link)
+[snowy.sound](Test Privacy Policy):[debug]effective timeout: 5
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: False
+[snowy.sound](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]), raw selector (sv:header_privacy_policy_banner_link)): element is visible
+[snowy.sound](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]), raw selector (sv:header_privacy_policy_banner_link)): Element found
+[snowy.sound](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner_link): Element found
+[snowy.sound](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]') (class: 'cookie-link')] Clicking on element
+[snowy.sound](Test Privacy Policy):Waiting until clickable (sv:header_privacy_policy_banner_link)
+[snowy.sound](Test Privacy Policy):[debug]effective timeout: 5
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: True
+[snowy.sound](Test Privacy Policy):[debug]wait_until_clickable (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]), raw selector (sv:header_privacy_policy_banner_link)): element is clickable
+[snowy.sound](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]') (class: 'cookie-link')] Highlighting element
+[snowy.sound](Test Privacy Policy):[App] Waiting until loaded...
+[snowy.sound](Test Privacy Policy):Waiting until present (sv:app_root_div)
+[snowy.sound](Test Privacy Policy):[debug]effective timeout: 5
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: True
+[snowy.sound](Test Privacy Policy):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[snowy.sound](Test Privacy Policy):Waiting until not visible (sv:app_loader)
+[snowy.sound](Test Privacy Policy):[debug]effective timeout: 5
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: True
+[snowy.sound](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[snowy.sound](Test Privacy Policy):Assert visible selector(sv:privacy_page) testid(None)
+[snowy.sound](Test Privacy Policy):[debug]effective highlight: True
+[snowy.sound](Test Privacy Policy):[debug]effective wait_until_visible: True
+[snowy.sound](Test Privacy Policy):Waiting until visible (sv:privacy_page)
+[snowy.sound](Test Privacy Policy):[debug]effective timeout: 5
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: False
+[snowy.sound](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@name = "privacy-policy-page"]), raw selector (sv:privacy_page)): element is visible
+[snowy.sound](Test Privacy Policy):[debug]Finding element with selector: sv:privacy_page
+[snowy.sound](Test Privacy Policy):[debug]Finding elements with selector: sv:privacy_page
+[snowy.sound](Test Privacy Policy):[debug]effective raise_exception: False
+[snowy.sound](Test Privacy Policy):[debug]effective wait_until_present: False
+[snowy.sound](Test Privacy Policy):[debug]effective wait_until_visible: False
+[snowy.sound](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@name = "privacy-policy-page"]), raw selector (sv:privacy_page)): Element found
+[snowy.sound](Test Privacy Policy):[debug]find (sv:privacy_page): Element found
+[snowy.sound](Test Privacy Policy):[debug][WebElement (selector: '//*[@name = "privacy-policy-page"]') (name: 'privacy-policy-page')] Is displayed
+[snowy.sound](Test Privacy Policy):[debug][WebElement (selector: '//*[@name = "privacy-policy-page"]') (name: 'privacy-policy-page')] is displayed
+[snowy.sound](Test Privacy Policy):[debug][WebElement (selector: '//*[@name = "privacy-policy-page"]') (name: 'privacy-policy-page')] Highlighting element
+[snowy.sound](Test Privacy Policy):[error]Test failed
+[snowy.sound](Test Privacy Policy):[error]Crash: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_privacy_policy.py", line 26, in run
+    "sv:privacy_page"
+AttributeError: 'bool' object has no attribute 'click'
+
+[snowy.sound](Test Privacy Policy):Creating a crash report
+[snowy.sound](Test Privacy Policy):Taking a screenshot...
+[snowy.sound](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_snowy.sound/crashes/Firefox_46.0_Darwin_-_Test_Privacy_Policy.png)
+[snowy.sound](Test Privacy Policy):Test ended
+[snowy.sound](Test Privacy Policy):Quitting the browser...
+[snowy.sound](Test Privacy Policy):Ending timestamp: 2016-09-23 13:02:04.647273+00:00

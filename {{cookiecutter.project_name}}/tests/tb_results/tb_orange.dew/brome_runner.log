@@ -1,0 +1,12 @@
+[orange.dew]The test batch is ready.
+[orange.dew]Startup
+[orange.dew]Test batch interrupted
+[orange.dew]The test batch is finished.
+[orange.dew]******* TEST BATCH SUMMARY ********
+[orange.dew]Total_test: 4; Total_test_successful: 3; Total_test_failed: 1
+[orange.dew]Total execution time: 0:01:35.426000
+[orange.dew]---------------------
+[orange.dew]Failed tests:
+[orange.dew][#29] Navigation: if the user tried to access a restricted page before being logged in, he is redirect to that page after being logged in.
+[orange.dew]---------------------
+[orange.dew]Finished

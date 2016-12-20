@@ -1,0 +1,884 @@
+[jolly.firefly](Test Login):Loading state...
+[jolly.firefly](Test Login):No state found.
+[jolly.firefly](Test Login):Running...
+[jolly.firefly](Test Login):[App] Registering user...
+[jolly.firefly](Test Login):[App] Going to home...
+[jolly.firefly](Test Login):[debug]Initializing javascript error interception
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):[App] Register...
+[jolly.firefly](Test Login):[App] Going to the register page...
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:header_register_link
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:header_register_link
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:header_register_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:header_register_link): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:header_register_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:register_email_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:register_email_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:register_email_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:register_email_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:register_name_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:register_name_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:register_name_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:register_name_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:register_password_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:register_password_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:register_password_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:register_password_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:register_submit_btn
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:register_submit_btn
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:register_submit_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:register_submit_btn): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:register_submit_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):[App] Logout...
+[jolly.firefly](Test Login):[App] Opening the user dropdown...
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:header_user_dropdown
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:header_user_dropdown
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:header_user_dropdown)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:header_user_dropdown): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:header_user_dropdown)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[jolly.firefly](Test Login):Waiting until present (sv:header_user_dropdown_open)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:header_logout_btn
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:header_logout_btn
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:header_logout_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:header_logout_btn): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:header_logout_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):[App] Going to the login page...
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:header_login_link
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:header_login_link
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:header_login_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:header_login_link): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:header_login_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):Assert visible selector(sv:login_forgotten_password_link) testid(#12)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_forgotten_password_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_forgotten_password_link
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_forgotten_password_link
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_forgotten_password_link): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_12_2016-09-23-16-23-24_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_forgotten_password_link
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_forgotten_password_link
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_forgotten_password_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_forgotten_password_link): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:login_forgotten_password_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "forgottenpassword-link"]), raw selector (sv:login_forgotten_password_link)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "forgottenpassword-link"]') (name: 'forgottenpassword-link')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):Assert present selector(sv:forgottenpassword_page) testid(#12)
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):Waiting until present (sv:forgottenpassword_page)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@name = "forgotten-password-page"]), raw selector (sv:forgottenpassword_page)): element is present
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_12_2016-09-23-16-23-25_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[App] Going to the login page...
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:header_login_link
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:header_login_link
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:header_login_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:header_login_link): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:header_login_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):Assert visible selector(sv:login_dont_have_account_link) testid(#11)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_dont_have_account_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_dont_have_account_link
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_dont_have_account_link
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_dont_have_account_link): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_11_2016-09-23-16-23-26_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_dont_have_account_link
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_dont_have_account_link
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_dont_have_account_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_dont_have_account_link): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:login_dont_have_account_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "dont-have-account-link"]), raw selector (sv:login_dont_have_account_link)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "dont-have-account-link"]') (name: 'dont-have-account-link')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):Assert visible selector(sv:register_submit_btn) testid(#11)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:register_submit_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:register_submit_btn
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:register_submit_btn
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:register_submit_btn): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_11_2016-09-23-16-23-27_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[debug]Initializing javascript error interception
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):Assert visible selector(sv:login_submit_btn_disabled) testid(#4)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_submit_btn_disabled)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_submit_btn_disabled): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_4_2016-09-23-16-23-28_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_email_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_email_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):Assert visible selector(sv:login_submit_btn_disabled) testid(#4)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_submit_btn_disabled)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_submit_btn_disabled): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_4_2016-09-23-16-23-29_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_password_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_password_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):Assert not visible selector(sv:login_submit_btn_disabled) testid(#5)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_not_visible: True
+[jolly.firefly](Test Login):Waiting until not visible (sv:login_submit_btn_disabled)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is not visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): No element found
+[jolly.firefly](Test Login):[debug]find (sv:login_submit_btn_disabled): No element found
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_5_2016-09-23-16-23-30_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):Assert visible selector(sv:login_email_input_has_warning) testid(#33)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_email_input_has_warning)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:login_email_input_has_warning)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_email_input_has_warning
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_email_input_has_warning
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:login_email_input_has_warning)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_email_input_has_warning): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-09-23-16-23-31_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):Assert visible selector(sv:login_password_input_has_warning) testid(#33)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_password_input_has_warning)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:login_password_input_has_warning)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_password_input_has_warning
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_password_input_has_warning
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:login_password_input_has_warning)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_password_input_has_warning): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-09-23-16-23-31_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[debug]Initializing javascript error interception
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_password_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_password_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_email_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_email_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):Assert visible selector(sv:login_email_input_has_error) testid(#33)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_email_input_has_error)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:login_email_input_has_error)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_email_input_has_error
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_email_input_has_error
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:login_email_input_has_error)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_email_input_has_error): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-09-23-16-23-34_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):Assert visible selector(sv:login_password_input_has_success) testid(#33)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_password_input_has_success)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:login_password_input_has_success)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_password_input_has_success
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_password_input_has_success
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:login_password_input_has_success)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_password_input_has_success): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-09-23-16-23-34_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):Assert visible selector(sv:login_submit_btn_disabled) testid(#6)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_submit_btn_disabled)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_submit_btn_disabled): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_6_2016-09-23-16-23-35_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[debug]Initializing javascript error interception
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_email_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_email_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_password_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_password_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):Assert visible selector(sv:login_email_input_has_success) testid(#33)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_email_input_has_success)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:login_email_input_has_success)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_email_input_has_success
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_email_input_has_success
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:login_email_input_has_success)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_email_input_has_success): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-09-23-16-23-37_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):Assert visible selector(sv:login_password_input_has_error) testid(#33)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_password_input_has_error)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:login_password_input_has_error)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_password_input_has_error
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_password_input_has_error
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:login_password_input_has_error)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_password_input_has_error): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_33_2016-09-23-16-23-37_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):Assert visible selector(sv:login_submit_btn_disabled) testid(#7)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_submit_btn_disabled)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_submit_btn_disabled
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn" and @disabled]), raw selector (sv:login_submit_btn_disabled)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_submit_btn_disabled): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn" and @disabled]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_7_2016-09-23-16-23-38_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[debug]Initializing javascript error interception
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_email_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_email_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_password_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_password_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_submit_btn
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_submit_btn
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_submit_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_submit_btn): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:login_submit_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[jolly.firefly](Test Login):Assert visible selector(xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']) testid(#8)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException'])
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = 'errorMsg.WrongEmailOrPasswordException']), raw selector (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException'])): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']
+[jolly.firefly](Test Login):[debug]Finding elements with selector: xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = 'errorMsg.WrongEmailOrPasswordException']), raw selector (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException'])): Element found
+[jolly.firefly](Test Login):[debug]find (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = 'errorMsg.WrongEmailOrPasswordException']') (name: 'errorMsg.WrongEmailOrPasswordException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = 'errorMsg.WrongEmailOrPasswordException']') (name: 'errorMsg.WrongEmailOrPasswordException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = 'errorMsg.WrongEmailOrPasswordException']') (name: 'errorMsg.WrongEmailOrPasswordException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_8_2016-09-23-16-23-41_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[debug]Initializing javascript error interception
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):[App] Login...
+[jolly.firefly](Test Login):[App] Going to the login page...
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:header_login_link
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:header_login_link
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:header_login_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:header_login_link): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link') (class: 'active')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:header_login_link)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link') (class: 'active')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_email_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_email_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_email_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_password_input
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_password_input)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_password_input): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:login_submit_btn
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:login_submit_btn
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:login_submit_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:login_submit_btn): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:login_submit_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):Assert visible selector(xp://span[@name= 'user-name' and text() = 'Brittney Gates']) testid(#1)
+[jolly.firefly](Test Login):[debug]effective highlight: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (xp://span[@name= 'user-name' and text() = 'Brittney Gates'])
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//span[@name= 'user-name' and text() = 'Brittney Gates']), raw selector (xp://span[@name= 'user-name' and text() = 'Brittney Gates'])): element is visible
+[jolly.firefly](Test Login):[debug]Finding element with selector: xp://span[@name= 'user-name' and text() = 'Brittney Gates']
+[jolly.firefly](Test Login):[debug]Finding elements with selector: xp://span[@name= 'user-name' and text() = 'Brittney Gates']
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]effective wait_until_present: False
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: False
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//span[@name= 'user-name' and text() = 'Brittney Gates']), raw selector (xp://span[@name= 'user-name' and text() = 'Brittney Gates'])): Element found
+[jolly.firefly](Test Login):[debug]find (xp://span[@name= 'user-name' and text() = 'Brittney Gates']): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//span[@name= 'user-name' and text() = 'Brittney Gates']') (name: 'user-name')] Is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//span[@name= 'user-name' and text() = 'Brittney Gates']') (name: 'user-name')] is displayed
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//span[@name= 'user-name' and text() = 'Brittney Gates']') (name: 'user-name')] Highlighting element
+[jolly.firefly](Test Login):Taking a screenshot...
+[jolly.firefly](Test Login):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_jolly.firefly/assertion_screenshots/Firefox_46_0_Darwin/succeed_1_2016-09-23-16-23-45_Firefox_46_0_Darwin.png)
+[jolly.firefly](Test Login):[App] Logout...
+[jolly.firefly](Test Login):[App] Opening the user dropdown...
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:header_user_dropdown
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:header_user_dropdown
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:header_user_dropdown)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:header_user_dropdown): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:header_user_dropdown)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[jolly.firefly](Test Login):Waiting until present (sv:header_user_dropdown_open)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[jolly.firefly](Test Login):[debug]Finding element with selector: sv:header_logout_btn
+[jolly.firefly](Test Login):[debug]Finding elements with selector: sv:header_logout_btn
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]effective wait_until_present: True
+[jolly.firefly](Test Login):[debug]effective wait_until_visible: True
+[jolly.firefly](Test Login):Waiting until visible (sv:header_logout_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: False
+[jolly.firefly](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[jolly.firefly](Test Login):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[jolly.firefly](Test Login):[debug]find (sv:header_logout_btn): Element found
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[jolly.firefly](Test Login):Waiting until clickable (sv:header_logout_btn)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[jolly.firefly](Test Login):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[jolly.firefly](Test Login):[App] Waiting until loaded...
+[jolly.firefly](Test Login):Waiting until present (sv:app_root_div)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[jolly.firefly](Test Login):Waiting until not visible (sv:app_loader)
+[jolly.firefly](Test Login):[debug]effective timeout: 5
+[jolly.firefly](Test Login):[debug]effective raise_exception: True
+[jolly.firefly](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[jolly.firefly](Test Login):Test ended
+[jolly.firefly](Test Login):Quitting the browser...
+[jolly.firefly](Test Login):Ending timestamp: 2016-09-23 13:23:46.312653+00:00

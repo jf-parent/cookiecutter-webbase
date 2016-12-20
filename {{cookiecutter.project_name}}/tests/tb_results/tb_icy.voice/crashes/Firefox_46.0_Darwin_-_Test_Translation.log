@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_translation.py", line 14, in run
+    self.app.change_locale('en')
+AttributeError: 'App' object has no attribute 'change_locale'

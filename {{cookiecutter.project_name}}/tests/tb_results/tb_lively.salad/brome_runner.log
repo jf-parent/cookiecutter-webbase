@@ -1,0 +1,17 @@
+[lively.salad]The test batch is ready.
+[lively.salad]Startup
+[lively.salad]Tear down
+[lively.salad]The test batch is finished.
+[lively.salad]******* TEST BATCH SUMMARY ********
+[lively.salad]Total_test: 17; Total_test_successful: 17; Total_test_failed: 0
+[lively.salad]Total execution time: 0:00:26.176000
+[lively.salad]---------------------
+[lively.salad]Failed tests:
+[lively.salad]No test failed!
+[lively.salad]---------------------
+[lively.salad]Test Register Firefox-46_0-Darwin
+[lively.salad]Test execution time: 0:00:22.777000
+[lively.salad]Total_test: 17; Total_test_successful: 17; Total_test_failed: 0
+[lively.salad]No crash!
+[lively.salad]---------------------
+[lively.salad]Finished

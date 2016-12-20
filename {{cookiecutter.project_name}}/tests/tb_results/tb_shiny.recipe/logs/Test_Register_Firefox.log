@@ -1,0 +1,348 @@
+[shiny.recipe](Test Register):Loading state...
+[shiny.recipe](Test Register):No state found.
+[shiny.recipe](Test Register):Running...
+[shiny.recipe](Test Register):[App] Going to home...
+[shiny.recipe](Test Register):[debug]Initializing javascript error interception
+[shiny.recipe](Test Register):[App] Waiting until loaded...
+[shiny.recipe](Test Register):Waiting until present (sv:app_root_div)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[shiny.recipe](Test Register):Waiting until not visible (sv:app_loader)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[shiny.recipe](Test Register):[App] Going to the register page...
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:header_register_link
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]effective wait_until_present: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:header_register_link)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:header_register_link): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item')] Clicking on element
+[shiny.recipe](Test Register):Waiting until clickable (sv:header_register_link)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item')] Highlighting element
+[shiny.recipe](Test Register):[App] Waiting until loaded...
+[shiny.recipe](Test Register):Waiting until present (sv:app_root_div)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[shiny.recipe](Test Register):Waiting until not visible (sv:app_loader)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[shiny.recipe](Test Register):Assert visible selector(sv:register_already_have_account_link) testid(#19)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-30-13-18-10_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]effective wait_until_present: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Clicking on element
+[shiny.recipe](Test Register):Waiting until clickable (sv:register_already_have_account_link)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is clickable
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[shiny.recipe](Test Register):[App] Waiting until loaded...
+[shiny.recipe](Test Register):Waiting until present (sv:app_root_div)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[shiny.recipe](Test Register):Waiting until not visible (sv:app_loader)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[shiny.recipe](Test Register):Assert visible selector(sv:login_submit_btn) testid(#19)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:login_submit_btn)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:login_submit_btn
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:login_submit_btn
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:login_submit_btn): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-30-13-18-11_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):[App] Going to the register page...
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:header_register_link
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]effective wait_until_present: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:header_register_link)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:header_register_link): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item active')] Clicking on element
+[shiny.recipe](Test Register):Waiting until clickable (sv:header_register_link)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item active')] Highlighting element
+[shiny.recipe](Test Register):[App] Waiting until loaded...
+[shiny.recipe](Test Register):Waiting until present (sv:app_root_div)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[shiny.recipe](Test Register):Waiting until not visible (sv:app_loader)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[shiny.recipe](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#20)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_20_2016-09-30-13-18-12_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):Assert visible selector(sv:register_name_input_has_warning) testid(#32)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_name_input_has_warning)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_name_input_has_warning)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_name_input_has_warning
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_warning
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_name_input_has_warning)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_name_input_has_warning): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-name') (class: 'form-group has-warning')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-name') (class: 'form-group has-warning')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-name') (class: 'form-group has-warning')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-18-13_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):Assert visible selector(sv:register_email_input_has_warning) testid(#32)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_email_input_has_warning)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_email_input_has_warning)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_email_input_has_warning
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_warning
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_email_input_has_warning)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_email_input_has_warning): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-18-13_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):Assert visible selector(sv:register_password_input_has_warning) testid(#32)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_password_input_has_warning)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_password_input_has_warning)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_password_input_has_warning
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_warning
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_password_input_has_warning)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_password_input_has_warning): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-18-14_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_name_input
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]effective wait_until_present: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_name_input)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_name_input): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_password_input
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]effective wait_until_present: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_password_input)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_password_input): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_email_input
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]effective wait_until_present: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_email_input)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_email_input): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[shiny.recipe](Test Register):Assert visible selector(sv:register_name_input_has_success) testid(#32)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_name_input_has_success)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_name_input_has_success
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_success
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_name_input_has_success): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-18-16_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):Assert visible selector(sv:register_password_input_has_success) testid(#32)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_password_input_has_success)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_password_input_has_success
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_success
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_password_input_has_success): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-18-17_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):Assert visible selector(sv:register_email_input_has_error) testid(#32)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_email_input_has_error)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_email_input_has_error)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_email_input_has_error
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_error
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_email_input_has_error)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_email_input_has_error): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-18-17_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#21)
+[shiny.recipe](Test Register):[debug]effective highlight: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]effective wait_until_present: False
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: False
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[shiny.recipe](Test Register):Taking a screenshot...
+[shiny.recipe](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_shiny.recipe/assertion_screenshots/Firefox_46_0_Darwin/succeed_21_2016-09-30-13-18-17_Firefox_46_0_Darwin.png)
+[shiny.recipe](Test Register):[App] Waiting until loaded...
+[shiny.recipe](Test Register):Waiting until present (sv:app_root_div)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[shiny.recipe](Test Register):Waiting until not visible (sv:app_loader)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[shiny.recipe](Test Register):[debug]Finding element with selector: sv:register_email_input
+[shiny.recipe](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[shiny.recipe](Test Register):[debug]effective raise_exception: True
+[shiny.recipe](Test Register):[debug]effective wait_until_present: True
+[shiny.recipe](Test Register):[debug]effective wait_until_visible: True
+[shiny.recipe](Test Register):Waiting until visible (sv:register_email_input)
+[shiny.recipe](Test Register):[debug]effective timeout: 5
+[shiny.recipe](Test Register):[debug]effective raise_exception: False
+[shiny.recipe](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[shiny.recipe](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[shiny.recipe](Test Register):[debug]find (sv:register_email_input): Element found
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[shiny.recipe](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[shiny.recipe](Test Register):Test ended
+[shiny.recipe](Test Register):Quitting the browser...
+[shiny.recipe](Test Register):Ending timestamp: 2016-09-30 10:18:19.512597+00:00

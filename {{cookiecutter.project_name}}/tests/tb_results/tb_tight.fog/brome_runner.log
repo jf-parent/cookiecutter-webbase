@@ -1,0 +1,17 @@
+[tight.fog]The test batch is ready.
+[tight.fog]Startup
+[tight.fog]Tear down
+[tight.fog]The test batch is finished.
+[tight.fog]******* TEST BATCH SUMMARY ********
+[tight.fog]Total_test: 1; Total_test_successful: 1; Total_test_failed: 0
+[tight.fog]Total execution time: 0:00:16.950000
+[tight.fog]---------------------
+[tight.fog]Failed tests:
+[tight.fog]No test failed!
+[tight.fog]---------------------
+[tight.fog]Test Navigation Firefox-46_0-Darwin
+[tight.fog]Test execution time: 0:00:13.497000
+[tight.fog]Total_test: 1; Total_test_successful: 1; Total_test_failed: 0
+[tight.fog]No crash!
+[tight.fog]---------------------
+[tight.fog]Finished

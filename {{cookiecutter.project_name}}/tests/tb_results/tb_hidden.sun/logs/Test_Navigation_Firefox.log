@@ -1,0 +1,149 @@
+[hidden.sun](Test Navigation):Loading state...
+[hidden.sun](Test Navigation):State loaded.
+[hidden.sun](Test Navigation):Running...
+[hidden.sun](Test Navigation):[App] Going to home...
+[hidden.sun](Test Navigation):[debug]Initializing javascript error interception
+[hidden.sun](Test Navigation):[App] Waiting until loaded...
+[hidden.sun](Test Navigation):Waiting until present (sv:app_root_div)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[hidden.sun](Test Navigation):Waiting until not visible (sv:app_loader)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[hidden.sun](Test Navigation):[App] Login...
+[hidden.sun](Test Navigation):[App] Going to the login page...
+[hidden.sun](Test Navigation):[debug]Finding element with selector: sv:header_login_link
+[hidden.sun](Test Navigation):[debug]Finding elements with selector: sv:header_login_link
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_present: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_visible: True
+[hidden.sun](Test Navigation):Waiting until visible (sv:header_login_link)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: False
+[hidden.sun](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[hidden.sun](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[hidden.sun](Test Navigation):[debug]find (sv:header_login_link): Element found
+[hidden.sun](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[hidden.sun](Test Navigation):Waiting until clickable (sv:header_login_link)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[hidden.sun](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[hidden.sun](Test Navigation):[App] Waiting until loaded...
+[hidden.sun](Test Navigation):Waiting until present (sv:app_root_div)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[hidden.sun](Test Navigation):Waiting until not visible (sv:app_loader)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[hidden.sun](Test Navigation):[debug]Finding element with selector: sv:login_email_input
+[hidden.sun](Test Navigation):[debug]Finding elements with selector: sv:login_email_input
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_present: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_visible: True
+[hidden.sun](Test Navigation):Waiting until visible (sv:login_email_input)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: False
+[hidden.sun](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[hidden.sun](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[hidden.sun](Test Navigation):[debug]find (sv:login_email_input): Element found
+[hidden.sun](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[hidden.sun](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[hidden.sun](Test Navigation):[debug]Finding element with selector: sv:login_password_input
+[hidden.sun](Test Navigation):[debug]Finding elements with selector: sv:login_password_input
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_present: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_visible: True
+[hidden.sun](Test Navigation):Waiting until visible (sv:login_password_input)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: False
+[hidden.sun](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[hidden.sun](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[hidden.sun](Test Navigation):[debug]find (sv:login_password_input): Element found
+[hidden.sun](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[hidden.sun](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[hidden.sun](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[hidden.sun](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_present: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_visible: True
+[hidden.sun](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: False
+[hidden.sun](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[hidden.sun](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[hidden.sun](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[hidden.sun](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[hidden.sun](Test Navigation):Waiting until clickable (sv:login_submit_btn)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[hidden.sun](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[hidden.sun](Test Navigation):[App] Waiting until loaded...
+[hidden.sun](Test Navigation):Waiting until present (sv:app_root_div)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[hidden.sun](Test Navigation):Waiting until not visible (sv:app_loader)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[hidden.sun](Test Navigation):[App] Going to the profile page...
+[hidden.sun](Test Navigation):[App] Opening the user dropdown...
+[hidden.sun](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[hidden.sun](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_present: True
+[hidden.sun](Test Navigation):[debug]effective wait_until_visible: True
+[hidden.sun](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: False
+[hidden.sun](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is still not visible
+[hidden.sun](Test Navigation):Waiting until present (sv:header_user_dropdown)
+[hidden.sun](Test Navigation):[debug]effective timeout: 5
+[hidden.sun](Test Navigation):[debug]effective raise_exception: True
+[hidden.sun](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is still not present
+[hidden.sun](Test Navigation):[error]Test failed
+[hidden.sun](Test Navigation):[error]Crash: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 409, in wait_until_present
+    (getattr(By, _selector.find_by), _selector.get_selector())
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp5xedlh5f/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at FirefoxDriver.prototype.findElement (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp5xedlh5f/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+    at DelayedCommand.prototype.executeInternal_/h (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp5xedlh5f/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+    at DelayedCommand.prototype.executeInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp5xedlh5f/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+    at DelayedCommand.prototype.execute/< (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp5xedlh5f/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_navigation.py", line 22, in run
+    self.app.go_to_profile()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 42, in go_to_profile
+    self.open_user_dropdown()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 131, in open_user_dropdown
+    self.pdriver.find("sv:header_user_dropdown").click()
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 168, in find
+    elements = self.find_all(selector, **kwargs)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 270, in find_all
+    raise_exception=raise_exception
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 426, in wait_until_present
+    raise exceptions.TimeoutException(msg)
+selenium.common.exceptions.TimeoutException: Message: wait_until_present (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is still not present
+
+
+[hidden.sun](Test Navigation):Creating a crash report
+[hidden.sun](Test Navigation):Taking a screenshot...
+[hidden.sun](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_hidden.sun/crashes/Firefox_46.0_Darwin_-_Test_Navigation.png)
+[hidden.sun](Test Navigation):Test ended
+[hidden.sun](Test Navigation):Quitting the browser...
+[hidden.sun](Test Navigation):Ending timestamp: 2016-10-14 11:24:54.527873+00:00

@@ -1,0 +1,23 @@
+[snowy.sound]The test batch is ready.
+[snowy.sound]Startup
+[snowy.sound]Tear down
+[snowy.sound]The test batch is finished.
+[snowy.sound]******* TEST BATCH SUMMARY ********
+[snowy.sound]Total_test: 1; Total_test_successful: 1; Total_test_failed: 0
+[snowy.sound]Total execution time: 0:00:09.476000
+[snowy.sound]---------------------
+[snowy.sound]Failed tests:
+[snowy.sound]No test failed!
+[snowy.sound]---------------------
+[snowy.sound]Test Privacy Policy Firefox-46_0-Darwin
+[snowy.sound]Test execution time: 0:00:06.081000
+[snowy.sound]Total_test: 1; Total_test_successful: 1; Total_test_failed: 0
+[snowy.sound][!]Test Privacy Policy Firefox crashed: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_privacy_policy.py", line 26, in run
+    "sv:privacy_page"
+AttributeError: 'bool' object has no attribute 'click'
+
+[snowy.sound]---------------------
+[snowy.sound]Finished

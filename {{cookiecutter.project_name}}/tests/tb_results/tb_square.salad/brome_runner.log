@@ -1,0 +1,17 @@
+[square.salad]The test batch is ready.
+[square.salad]Startup
+[square.salad]Tear down
+[square.salad]The test batch is finished.
+[square.salad]******* TEST BATCH SUMMARY ********
+[square.salad]Total_test: 4; Total_test_successful: 4; Total_test_failed: 0
+[square.salad]Total execution time: 0:00:07.583000
+[square.salad]---------------------
+[square.salad]Failed tests:
+[square.salad]No test failed!
+[square.salad]---------------------
+[square.salad]Test Privacy Policy Firefox-46_0-Darwin
+[square.salad]Test execution time: 0:00:04.185000
+[square.salad]Total_test: 4; Total_test_successful: 4; Total_test_failed: 0
+[square.salad]No crash!
+[square.salad]---------------------
+[square.salad]Finished

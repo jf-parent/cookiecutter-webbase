@@ -1,0 +1,32 @@
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 409, in wait_until_present
+    (getattr(By, _selector.find_by), _selector.get_selector())
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpa9g47_78/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at FirefoxDriver.prototype.findElement (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpa9g47_78/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+    at DelayedCommand.prototype.executeInternal_/h (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpa9g47_78/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+    at DelayedCommand.prototype.executeInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpa9g47_78/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+    at DelayedCommand.prototype.execute/< (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpa9g47_78/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_navigation.py", line 52, in run
+    self.app.login(user)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 157, in login
+    self.go_to_login()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 28, in go_to_login
+    self.pdriver.find("sv:header_login_link").click()
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 168, in find
+    elements = self.find_all(selector, **kwargs)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 270, in find_all
+    raise_exception=raise_exception
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 426, in wait_until_present
+    raise exceptions.TimeoutException(msg)
+selenium.common.exceptions.TimeoutException: Message: wait_until_present (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is still not present
+

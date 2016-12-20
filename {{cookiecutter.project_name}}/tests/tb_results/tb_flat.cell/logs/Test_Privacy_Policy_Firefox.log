@@ -1,0 +1,139 @@
+[flat.cell](Test Privacy Policy):Loading state...
+[flat.cell](Test Privacy Policy):No state found.
+[flat.cell](Test Privacy Policy):Running...
+[flat.cell](Test Privacy Policy):[App] Going to home...
+[flat.cell](Test Privacy Policy):[debug]Initializing javascript error interception
+[flat.cell](Test Privacy Policy):[App] Waiting until loaded...
+[flat.cell](Test Privacy Policy):Waiting until present (sv:app_root_div)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Privacy Policy):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Privacy Policy):Assert visible selector(sv:header_privacy_policy_banner) testid(#31)
+[flat.cell](Test Privacy Policy):[debug]effective highlight: True
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_visible: True
+[flat.cell](Test Privacy Policy):Waiting until visible (sv:header_privacy_policy_banner)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): element is visible
+[flat.cell](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner
+[flat.cell](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_present: False
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_visible: False
+[flat.cell](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): Element found
+[flat.cell](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner): Element found
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]') (class: 'react-cookie-banner')] Is displayed
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]') (class: 'react-cookie-banner')] is displayed
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]') (class: 'react-cookie-banner')] Highlighting element
+[flat.cell](Test Privacy Policy):Taking a screenshot...
+[flat.cell](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_31_2016-10-14-15-08-31_Firefox_46_0_Darwin.png)
+[flat.cell](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner_link
+[flat.cell](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner_link
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_present: True
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_visible: True
+[flat.cell](Test Privacy Policy):Waiting until visible (sv:header_privacy_policy_banner_link)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]), raw selector (sv:header_privacy_policy_banner_link)): element is visible
+[flat.cell](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]), raw selector (sv:header_privacy_policy_banner_link)): Element found
+[flat.cell](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner_link): Element found
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]') (class: 'cookie-link')] Clicking on element
+[flat.cell](Test Privacy Policy):Waiting until clickable (sv:header_privacy_policy_banner_link)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]wait_until_clickable (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]), raw selector (sv:header_privacy_policy_banner_link)): element is clickable
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "cookie-link"]') (class: 'cookie-link')] Highlighting element
+[flat.cell](Test Privacy Policy):[App] Waiting until loaded...
+[flat.cell](Test Privacy Policy):Waiting until present (sv:app_root_div)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Privacy Policy):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Privacy Policy):Assert visible selector(sv:privacy_page) testid(#31)
+[flat.cell](Test Privacy Policy):[debug]effective highlight: True
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_visible: True
+[flat.cell](Test Privacy Policy):Waiting until visible (sv:privacy_page)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@name = "privacy-policy-page"]), raw selector (sv:privacy_page)): element is visible
+[flat.cell](Test Privacy Policy):[debug]Finding element with selector: sv:privacy_page
+[flat.cell](Test Privacy Policy):[debug]Finding elements with selector: sv:privacy_page
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_present: False
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_visible: False
+[flat.cell](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@name = "privacy-policy-page"]), raw selector (sv:privacy_page)): Element found
+[flat.cell](Test Privacy Policy):[debug]find (sv:privacy_page): Element found
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@name = "privacy-policy-page"]') (name: 'privacy-policy-page')] Is displayed
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@name = "privacy-policy-page"]') (name: 'privacy-policy-page')] is displayed
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@name = "privacy-policy-page"]') (name: 'privacy-policy-page')] Highlighting element
+[flat.cell](Test Privacy Policy):Taking a screenshot...
+[flat.cell](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_31_2016-10-14-15-08-32_Firefox_46_0_Darwin.png)
+[flat.cell](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner_gotit_btn
+[flat.cell](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner_gotit_btn
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_present: True
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_visible: True
+[flat.cell](Test Privacy Policy):Waiting until visible (sv:header_privacy_policy_banner_gotit_btn)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]wait_until_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "button-close"]), raw selector (sv:header_privacy_policy_banner_gotit_btn)): element is visible
+[flat.cell](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "button-close"]), raw selector (sv:header_privacy_policy_banner_gotit_btn)): Element found
+[flat.cell](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner_gotit_btn): Element found
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "button-close"]') (class: 'button-close')] Clicking on element
+[flat.cell](Test Privacy Policy):Waiting until clickable (sv:header_privacy_policy_banner_gotit_btn)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]wait_until_clickable (Selector: effective selector (//*[@class = "react-cookie-banner"]//*[@class = "button-close"]), raw selector (sv:header_privacy_policy_banner_gotit_btn)): element is clickable
+[flat.cell](Test Privacy Policy):[debug][WebElement (selector: '//*[@class = "react-cookie-banner"]//*[@class = "button-close"]') (class: 'button-close')] Highlighting element
+[flat.cell](Test Privacy Policy):Assert not visible selector(sv:header_privacy_policy_banner) testid(#31)
+[flat.cell](Test Privacy Policy):[debug]effective highlight: True
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_not_visible: True
+[flat.cell](Test Privacy Policy):Waiting until not visible (sv:header_privacy_policy_banner)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): element is not visible
+[flat.cell](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner
+[flat.cell](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_present: False
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_visible: False
+[flat.cell](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): No element found
+[flat.cell](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner): No element found
+[flat.cell](Test Privacy Policy):Taking a screenshot...
+[flat.cell](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_31_2016-10-14-15-08-33_Firefox_46_0_Darwin.png)
+[flat.cell](Test Privacy Policy):[App] Waiting until loaded...
+[flat.cell](Test Privacy Policy):Waiting until present (sv:app_root_div)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.cell](Test Privacy Policy):Waiting until not visible (sv:app_loader)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: True
+[flat.cell](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.cell](Test Privacy Policy):Assert not visible selector(sv:header_privacy_policy_banner) testid(#31)
+[flat.cell](Test Privacy Policy):[debug]effective highlight: True
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_not_visible: True
+[flat.cell](Test Privacy Policy):Waiting until not visible (sv:header_privacy_policy_banner)
+[flat.cell](Test Privacy Policy):[debug]effective timeout: 5
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]wait_until_not_visible (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): element is not visible
+[flat.cell](Test Privacy Policy):[debug]Finding element with selector: sv:header_privacy_policy_banner
+[flat.cell](Test Privacy Policy):[debug]Finding elements with selector: sv:header_privacy_policy_banner
+[flat.cell](Test Privacy Policy):[debug]effective raise_exception: False
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_present: False
+[flat.cell](Test Privacy Policy):[debug]effective wait_until_visible: False
+[flat.cell](Test Privacy Policy):[debug]find_all (Selector: effective selector (//*[@class = "react-cookie-banner"]), raw selector (sv:header_privacy_policy_banner)): No element found
+[flat.cell](Test Privacy Policy):[debug]find (sv:header_privacy_policy_banner): No element found
+[flat.cell](Test Privacy Policy):Taking a screenshot...
+[flat.cell](Test Privacy Policy):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.cell/assertion_screenshots/Firefox_46_0_Darwin/succeed_31_2016-10-14-15-08-34_Firefox_46_0_Darwin.png)
+[flat.cell](Test Privacy Policy):Test ended
+[flat.cell](Test Privacy Policy):Quitting the browser...
+[flat.cell](Test Privacy Policy):Ending timestamp: 2016-10-14 12:08:34.564569+00:00

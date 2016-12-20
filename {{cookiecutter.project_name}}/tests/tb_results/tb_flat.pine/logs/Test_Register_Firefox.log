@@ -1,0 +1,215 @@
+[flat.pine](Test Register):Loading state...
+[flat.pine](Test Register):No state found.
+[flat.pine](Test Register):Running...
+[flat.pine](Test Register):[App] Going to home...
+[flat.pine](Test Register):[debug]Initializing javascript error interception
+[flat.pine](Test Register):[App] Waiting until loaded...
+[flat.pine](Test Register):Waiting until present (sv:app_root_div)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.pine](Test Register):Waiting until not visible (sv:app_loader)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.pine](Test Register):[App] Going to the register page...
+[flat.pine](Test Register):[debug]Finding element with selector: sv:header_register_link
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]effective wait_until_present: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:header_register_link)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[flat.pine](Test Register):[debug]find (sv:header_register_link): Element found
+[flat.pine](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[flat.pine](Test Register):Waiting until clickable (sv:header_register_link)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[flat.pine](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[flat.pine](Test Register):[App] Waiting until loaded...
+[flat.pine](Test Register):Waiting until present (sv:app_root_div)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.pine](Test Register):Waiting until not visible (sv:app_loader)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.pine](Test Register):Assert visible selector(sv:register_already_have_account_link) testid(#19)
+[flat.pine](Test Register):[debug]effective highlight: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[flat.pine](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]effective wait_until_present: False
+[flat.pine](Test Register):[debug]effective wait_until_visible: False
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[flat.pine](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[flat.pine](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Is displayed
+[flat.pine](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] is displayed
+[flat.pine](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[flat.pine](Test Register):Taking a screenshot...
+[flat.pine](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.pine/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-23-16-08-17_Firefox_46_0_Darwin.png)
+[flat.pine](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]effective wait_until_present: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[flat.pine](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[flat.pine](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Clicking on element
+[flat.pine](Test Register):Waiting until clickable (sv:register_already_have_account_link)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is clickable
+[flat.pine](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[flat.pine](Test Register):[App] Waiting until loaded...
+[flat.pine](Test Register):Waiting until present (sv:app_root_div)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.pine](Test Register):Waiting until not visible (sv:app_loader)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.pine](Test Register):Assert visible selector(sv:login_submit_btn) testid(#19)
+[flat.pine](Test Register):[debug]effective highlight: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:login_submit_btn)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[flat.pine](Test Register):[debug]Finding element with selector: sv:login_submit_btn
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:login_submit_btn
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]effective wait_until_present: False
+[flat.pine](Test Register):[debug]effective wait_until_visible: False
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[flat.pine](Test Register):[debug]find (sv:login_submit_btn): Element found
+[flat.pine](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[flat.pine](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[flat.pine](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[flat.pine](Test Register):Taking a screenshot...
+[flat.pine](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.pine/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-23-16-08-18_Firefox_46_0_Darwin.png)
+[flat.pine](Test Register):[App] Going to the register page...
+[flat.pine](Test Register):[debug]Finding element with selector: sv:header_register_link
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]effective wait_until_present: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:header_register_link)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[flat.pine](Test Register):[debug]find (sv:header_register_link): Element found
+[flat.pine](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[flat.pine](Test Register):Waiting until clickable (sv:header_register_link)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[flat.pine](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[flat.pine](Test Register):[App] Waiting until loaded...
+[flat.pine](Test Register):Waiting until present (sv:app_root_div)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[flat.pine](Test Register):Waiting until not visible (sv:app_loader)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[flat.pine](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#20)
+[flat.pine](Test Register):[debug]effective highlight: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[flat.pine](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]effective wait_until_present: False
+[flat.pine](Test Register):[debug]effective wait_until_visible: False
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[flat.pine](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[flat.pine](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[flat.pine](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[flat.pine](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[flat.pine](Test Register):Taking a screenshot...
+[flat.pine](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.pine/assertion_screenshots/Firefox_46_0_Darwin/succeed_20_2016-09-23-16-08-19_Firefox_46_0_Darwin.png)
+[flat.pine](Test Register):[debug]Finding element with selector: sv:register_name_input
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]effective wait_until_present: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:register_name_input)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[flat.pine](Test Register):[debug]find (sv:register_name_input): Element found
+[flat.pine](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[flat.pine](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[flat.pine](Test Register):[debug]Finding element with selector: sv:register_password_input
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]effective wait_until_present: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:register_password_input)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[flat.pine](Test Register):[debug]find (sv:register_password_input): Element found
+[flat.pine](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[flat.pine](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[flat.pine](Test Register):[debug]Finding element with selector: sv:register_email_input
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[flat.pine](Test Register):[debug]effective raise_exception: True
+[flat.pine](Test Register):[debug]effective wait_until_present: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:register_email_input)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[flat.pine](Test Register):[debug]find (sv:register_email_input): Element found
+[flat.pine](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[flat.pine](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[flat.pine](Test Register):Assert visible selector(sv:register_name_input_has_success) testid(#32)
+[flat.pine](Test Register):[debug]effective highlight: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:register_name_input_has_success)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name" and contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): element is still not visible
+[flat.pine](Test Register):[debug]Finding element with selector: sv:register_name_input_has_success
+[flat.pine](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_success
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):[debug]effective wait_until_present: False
+[flat.pine](Test Register):[debug]effective wait_until_visible: False
+[flat.pine](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name" and contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): No element found
+[flat.pine](Test Register):[debug]find (sv:register_name_input_has_success): No element found
+[flat.pine](Test Register):Taking a screenshot...
+[flat.pine](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_flat.pine/assertion_screenshots/Firefox_46_0_Darwin/failed_32_2016-09-23-16-08-26_Firefox_46_0_Darwin.png)
+[flat.pine](Test Register):Assert visible selector(sv:register_password_input_has_success) testid(#32)
+[flat.pine](Test Register):[debug]effective highlight: True
+[flat.pine](Test Register):[debug]effective wait_until_visible: True
+[flat.pine](Test Register):Waiting until visible (sv:register_password_input_has_success)
+[flat.pine](Test Register):[debug]effective timeout: 5
+[flat.pine](Test Register):[debug]effective raise_exception: False
+[flat.pine](Test Register):Test ended
+[flat.pine](Test Register):Quitting the browser...
+[flat.pine](Test Register):Ending timestamp: 2016-09-23 13:09:37.159258+00:00

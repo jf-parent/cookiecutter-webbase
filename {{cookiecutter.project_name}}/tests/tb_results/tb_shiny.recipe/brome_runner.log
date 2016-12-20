@@ -1,0 +1,12 @@
+[shiny.recipe]The test batch is ready.
+[shiny.recipe]Startup
+[shiny.recipe]Test batch interrupted
+[shiny.recipe]The test batch is finished.
+[shiny.recipe]******* TEST BATCH SUMMARY ********
+[shiny.recipe]Total_test: 10; Total_test_successful: 10; Total_test_failed: 0
+[shiny.recipe]Total execution time: 0:00:14.373000
+[shiny.recipe]---------------------
+[shiny.recipe]Failed tests:
+[shiny.recipe]No test failed!
+[shiny.recipe]---------------------
+[shiny.recipe]Finished

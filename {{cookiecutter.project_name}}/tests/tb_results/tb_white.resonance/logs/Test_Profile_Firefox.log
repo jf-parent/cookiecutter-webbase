@@ -1,0 +1,1027 @@
+[white.resonance](Test Profile):Loading state...
+[white.resonance](Test Profile):No state found.
+[white.resonance](Test Profile):Running...
+[white.resonance](Test Profile):[App] Registering user...
+[white.resonance](Test Profile):[App] Going to home...
+[white.resonance](Test Profile):[debug]Initializing javascript error interception
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[App] Register...
+[white.resonance](Test Profile):[App] Going to the register page...
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_register_link
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_register_link
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_register_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_register_link): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_register_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:register_email_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:register_email_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:register_email_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:register_email_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:register_name_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:register_name_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:register_name_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:register_name_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:register_password_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:register_password_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:register_password_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:register_password_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:register_submit_btn
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:register_submit_btn
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:register_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[white.resonance](Test Profile):[debug]find (sv:register_submit_btn): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:register_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[App] Going to the profile page...
+[white.resonance](Test Profile):[App] Opening the user dropdown...
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_user_dropdown): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[white.resonance](Test Profile):Waiting until present (sv:header_user_dropdown_open)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_profile_link
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_profile_link
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_profile_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_profile_link): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_profile_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):Assert visible selector(sv:profile_email_not_verified_div) testid(#10)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_email_not_verified_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "email-not-verified"]), raw selector (sv:profile_email_not_verified_div)): element is visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_email_not_verified_div
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_email_not_verified_div
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: False
+[white.resonance](Test Profile):[debug]effective wait_until_visible: False
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "email-not-verified"]), raw selector (sv:profile_email_not_verified_div)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_email_not_verified_div): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "email-not-verified"]') (name: 'email-not-verified') (class: 'fa fa-times ComponentStyle__email-not-confirmed___dxkKl')] Is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "email-not-verified"]') (name: 'email-not-verified') (class: 'fa fa-times ComponentStyle__email-not-confirmed___dxkKl')] is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "email-not-verified"]') (name: 'email-not-verified') (class: 'fa fa-times ComponentStyle__email-not-confirmed___dxkKl')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_10_2016-10-14-15-10-11_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_name_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_name_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_name_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:profile_name_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:profile_name_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_name_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Clearing element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_submit_btn): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[white.resonance](Test Profile):Assert visible selector(sv:profile_success_banner) testid(#14)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_success_banner)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile.settingsSaveSuccessfully"]), raw selector (sv:profile_success_banner)): element is visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_success_banner
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_success_banner
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: False
+[white.resonance](Test Profile):[debug]effective wait_until_visible: False
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "profile.settingsSaveSuccessfully"]), raw selector (sv:profile_success_banner)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_success_banner): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile.settingsSaveSuccessfully"]') (name: 'profile.settingsSaveSuccessfully') (class: 'alert alert-success SuccessMsgStyle__success-msg___1liPg')] Is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile.settingsSaveSuccessfully"]') (name: 'profile.settingsSaveSuccessfully') (class: 'alert alert-success SuccessMsgStyle__success-msg___1liPg')] is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile.settingsSaveSuccessfully"]') (name: 'profile.settingsSaveSuccessfully') (class: 'alert alert-success SuccessMsgStyle__success-msg___1liPg')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_14_2016-10-14-15-10-13_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):Assert text equal selector(xp://span[@name= 'user-name']) testid(#9)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):[debug]Finding element with selector: xp://span[@name= 'user-name']
+[white.resonance](Test Profile):[debug]Finding elements with selector: xp://span[@name= 'user-name']
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (xp://span[@name= 'user-name'])
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//span[@name= 'user-name']), raw selector (xp://span[@name= 'user-name'])): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//span[@name= 'user-name']), raw selector (xp://span[@name= 'user-name'])): Element found
+[white.resonance](Test Profile):[debug]find (xp://span[@name= 'user-name']): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//span[@name= 'user-name']') (name: 'user-name')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_9_2016-10-14-15-10-14_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):Assert text equal selector(xp://span[@name= 'user-name']) testid(#9)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):[debug]Finding element with selector: xp://span[@name= 'user-name']
+[white.resonance](Test Profile):[debug]Finding elements with selector: xp://span[@name= 'user-name']
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (xp://span[@name= 'user-name'])
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//span[@name= 'user-name']), raw selector (xp://span[@name= 'user-name'])): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//span[@name= 'user-name']), raw selector (xp://span[@name= 'user-name'])): Element found
+[white.resonance](Test Profile):[debug]find (xp://span[@name= 'user-name']): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//span[@name= 'user-name']') (name: 'user-name')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_9_2016-10-14-15-10-15_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[App] Going to the profile page...
+[white.resonance](Test Profile):[App] Opening the user dropdown...
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_user_dropdown): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[white.resonance](Test Profile):Waiting until present (sv:header_user_dropdown_open)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_profile_link
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_profile_link
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_profile_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_profile_link): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_profile_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_user_icon
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_user_icon
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_user_icon)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//img[@name = "user-icon"]), raw selector (sv:header_user_icon)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//img[@name = "user-icon"]), raw selector (sv:header_user_icon)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_user_icon): Element found
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_email_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_email_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_email_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:profile_email_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:profile_email_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_email_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Clearing element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_submit_btn): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):Assert not present selector(xp://*[@href = 'None']) testid(#13)
+[white.resonance](Test Profile):[debug]effective wait_until_not_present: True
+[white.resonance](Test Profile):Waiting until not present (xp://*[@href = 'None'])
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_not_present (Selector: effective selector (//*[@href = 'None']), raw selector (xp://*[@href = 'None'])): element is not present
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_13_2016-10-14-15-10-19_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):Assert present selector(xp://*[@name = 'email' and @value = 'swalsh@gmail.com']) testid(#13)
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):Waiting until present (xp://*[@name = 'email' and @value = 'swalsh@gmail.com'])
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@name = 'email' and @value = 'swalsh@gmail.com']), raw selector (xp://*[@name = 'email' and @value = 'swalsh@gmail.com'])): element is present
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_13_2016-10-14-15-10-20_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[App] Going to the profile page...
+[white.resonance](Test Profile):[App] Opening the user dropdown...
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_user_dropdown): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[white.resonance](Test Profile):Waiting until present (sv:header_user_dropdown_open)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_profile_link
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_profile_link
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_profile_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_profile_link): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_profile_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_email_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_email_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_email_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:profile_email_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:profile_email_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_email_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Clearing element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_name_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_name_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_name_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:profile_name_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:profile_name_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_name_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Clearing element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_old_password_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_old_password_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_old_password_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "old_password"]), raw selector (sv:profile_old_password_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "old_password"]), raw selector (sv:profile_old_password_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_old_password_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "old_password"]') (name: 'old_password') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "old_password"]') (name: 'old_password') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_new_password_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_new_password_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_new_password_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "new_password"]), raw selector (sv:profile_new_password_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "new_password"]), raw selector (sv:profile_new_password_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_new_password_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "new_password"]') (name: 'new_password') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "new_password"]') (name: 'new_password') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_submit_btn): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[white.resonance](Test Profile):[App] Logout...
+[white.resonance](Test Profile):[App] Opening the user dropdown...
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_user_dropdown): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[white.resonance](Test Profile):Waiting until present (sv:header_user_dropdown_open)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_logout_btn
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_logout_btn
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_logout_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_logout_btn): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_logout_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):Waiting until visible (sv:header_register_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[white.resonance](Test Profile):[App] Login...
+[white.resonance](Test Profile):[App] Going to the login page...
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_login_link
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_login_link
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_login_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_login_link): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_login_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:login_email_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:login_email_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:login_email_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:login_email_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:login_password_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:login_password_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:login_password_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:login_password_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:login_submit_btn
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:login_submit_btn
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:login_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[white.resonance](Test Profile):[debug]find (sv:login_submit_btn): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:login_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):Assert text equal selector(xp://span[@name= 'user-name']) testid(#15)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):[debug]Finding element with selector: xp://span[@name= 'user-name']
+[white.resonance](Test Profile):[debug]Finding elements with selector: xp://span[@name= 'user-name']
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (xp://span[@name= 'user-name'])
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//span[@name= 'user-name']), raw selector (xp://span[@name= 'user-name'])): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//span[@name= 'user-name']), raw selector (xp://span[@name= 'user-name'])): Element found
+[white.resonance](Test Profile):[debug]find (xp://span[@name= 'user-name']): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//span[@name= 'user-name']') (name: 'user-name')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_15_2016-10-14-15-10-29_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[App] Going to the profile page...
+[white.resonance](Test Profile):[App] Opening the user dropdown...
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_user_dropdown): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[white.resonance](Test Profile):Waiting until present (sv:header_user_dropdown_open)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_profile_link
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_profile_link
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_profile_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_profile_link): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_profile_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_new_password_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_new_password_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_new_password_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "new_password"]), raw selector (sv:profile_new_password_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "new_password"]), raw selector (sv:profile_new_password_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_new_password_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "new_password"]') (name: 'new_password') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "new_password"]') (name: 'new_password') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_submit_btn): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[white.resonance](Test Profile):Assert visible selector(xp://*[@name = 'errorMsg.InvalidRequestException']) testid(#17)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (xp://*[@name = 'errorMsg.InvalidRequestException'])
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = 'errorMsg.InvalidRequestException']), raw selector (xp://*[@name = 'errorMsg.InvalidRequestException'])): element is visible
+[white.resonance](Test Profile):[debug]Finding element with selector: xp://*[@name = 'errorMsg.InvalidRequestException']
+[white.resonance](Test Profile):[debug]Finding elements with selector: xp://*[@name = 'errorMsg.InvalidRequestException']
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: False
+[white.resonance](Test Profile):[debug]effective wait_until_visible: False
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = 'errorMsg.InvalidRequestException']), raw selector (xp://*[@name = 'errorMsg.InvalidRequestException'])): Element found
+[white.resonance](Test Profile):[debug]find (xp://*[@name = 'errorMsg.InvalidRequestException']): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = 'errorMsg.InvalidRequestException']') (name: 'errorMsg.InvalidRequestException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] Is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = 'errorMsg.InvalidRequestException']') (name: 'errorMsg.InvalidRequestException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = 'errorMsg.InvalidRequestException']') (name: 'errorMsg.InvalidRequestException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_17_2016-10-14-15-10-31_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_old_password_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_old_password_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_old_password_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "old_password"]), raw selector (sv:profile_old_password_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "old_password"]), raw selector (sv:profile_old_password_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_old_password_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "old_password"]') (name: 'old_password') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "old_password"]') (name: 'old_password') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_new_password_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_new_password_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_new_password_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "new_password"]), raw selector (sv:profile_new_password_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "new_password"]), raw selector (sv:profile_new_password_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_new_password_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "new_password"]') (name: 'new_password') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "new_password"]') (name: 'new_password') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_submit_btn
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_submit_btn): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:profile_submit_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[white.resonance](Test Profile):Assert visible selector(xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']) testid(#17)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException'])
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = 'errorMsg.WrongEmailOrPasswordException']), raw selector (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException'])): element is visible
+[white.resonance](Test Profile):[debug]Finding element with selector: xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']
+[white.resonance](Test Profile):[debug]Finding elements with selector: xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: False
+[white.resonance](Test Profile):[debug]effective wait_until_visible: False
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = 'errorMsg.WrongEmailOrPasswordException']), raw selector (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException'])): Element found
+[white.resonance](Test Profile):[debug]find (xp://*[@name = 'errorMsg.WrongEmailOrPasswordException']): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = 'errorMsg.WrongEmailOrPasswordException']') (name: 'errorMsg.WrongEmailOrPasswordException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] Is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = 'errorMsg.WrongEmailOrPasswordException']') (name: 'errorMsg.WrongEmailOrPasswordException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = 'errorMsg.WrongEmailOrPasswordException']') (name: 'errorMsg.WrongEmailOrPasswordException') (class: 'alert alert-danger ErrorMsgStyle__err-msg___WmKe1')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_17_2016-10-14-15-10-35_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_old_password_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_old_password_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_old_password_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "old_password"]), raw selector (sv:profile_old_password_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "old_password"]), raw selector (sv:profile_old_password_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_old_password_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "old_password"]') (name: 'old_password') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "old_password"]') (name: 'old_password') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):Assert visible selector(sv:profile_submit_btn_disabled) testid(#16)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_submit_btn_disabled)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn" and @disabled]), raw selector (sv:profile_submit_btn_disabled)): element is visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_submit_btn_disabled
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_submit_btn_disabled
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: False
+[white.resonance](Test Profile):[debug]effective wait_until_visible: False
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn" and @disabled]), raw selector (sv:profile_submit_btn_disabled)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_submit_btn_disabled): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn" and @disabled]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn" and @disabled]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn" and @disabled]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_16_2016-10-14-15-10-37_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_email_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_email_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_email_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:profile_email_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:profile_email_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_email_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Clearing element
+[white.resonance](Test Profile):Assert visible selector(sv:profile_submit_btn_disabled) testid(#16)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_submit_btn_disabled)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn" and @disabled]), raw selector (sv:profile_submit_btn_disabled)): element is visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_submit_btn_disabled
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_submit_btn_disabled
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: False
+[white.resonance](Test Profile):[debug]effective wait_until_visible: False
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn" and @disabled]), raw selector (sv:profile_submit_btn_disabled)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_submit_btn_disabled): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn" and @disabled]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn" and @disabled]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn" and @disabled]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_16_2016-10-14-15-10-39_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_name_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_name_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_name_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:profile_name_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:profile_name_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_name_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Clearing element
+[white.resonance](Test Profile):Assert visible selector(sv:profile_submit_btn_disabled) testid(#16)
+[white.resonance](Test Profile):[debug]effective highlight: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_submit_btn_disabled)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn" and @disabled]), raw selector (sv:profile_submit_btn_disabled)): element is visible
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_submit_btn_disabled
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_submit_btn_disabled
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]effective wait_until_present: False
+[white.resonance](Test Profile):[debug]effective wait_until_visible: False
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn" and @disabled]), raw selector (sv:profile_submit_btn_disabled)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_submit_btn_disabled): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn" and @disabled]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn" and @disabled]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[white.resonance](Test Profile):[debug][WebElement (selector: '//button[@name = "profile-btn" and @disabled]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_16_2016-10-14-15-10-41_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:profile_name_input
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:profile_name_input
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:profile_name_input)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:profile_name_input)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:profile_name_input)): Element found
+[white.resonance](Test Profile):[debug]find (sv:profile_name_input): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[white.resonance](Test Profile):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Clearing element
+[white.resonance](Test Profile):Assert present selector(xp://input[@name = 'name' and @value = 'uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu']) testid(#18)
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):Waiting until present (xp://input[@name = 'name' and @value = 'uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu'])
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//input[@name = 'name' and @value = 'uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu']), raw selector (xp://input[@name = 'name' and @value = 'uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu'])): element is present
+[white.resonance](Test Profile):Taking a screenshot...
+[white.resonance](Test Profile):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_white.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_18_2016-10-14-15-10-42_Firefox_46_0_Darwin.png)
+[white.resonance](Test Profile):[App] Logout...
+[white.resonance](Test Profile):[App] Opening the user dropdown...
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_user_dropdown
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_user_dropdown): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_user_dropdown)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[white.resonance](Test Profile):Waiting until present (sv:header_user_dropdown_open)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[white.resonance](Test Profile):[debug]Finding element with selector: sv:header_logout_btn
+[white.resonance](Test Profile):[debug]Finding elements with selector: sv:header_logout_btn
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]effective wait_until_present: True
+[white.resonance](Test Profile):[debug]effective wait_until_visible: True
+[white.resonance](Test Profile):Waiting until visible (sv:header_logout_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: False
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[white.resonance](Test Profile):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[white.resonance](Test Profile):[debug]find (sv:header_logout_btn): Element found
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[white.resonance](Test Profile):Waiting until clickable (sv:header_logout_btn)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[white.resonance](Test Profile):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[white.resonance](Test Profile):[App] Waiting until loaded...
+[white.resonance](Test Profile):Waiting until present (sv:app_root_div)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[white.resonance](Test Profile):Waiting until not visible (sv:app_loader)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[white.resonance](Test Profile):Waiting until visible (sv:header_register_link)
+[white.resonance](Test Profile):[debug]effective timeout: 5
+[white.resonance](Test Profile):[debug]effective raise_exception: True
+[white.resonance](Test Profile):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[white.resonance](Test Profile):Test ended
+[white.resonance](Test Profile):Quitting the browser...
+[white.resonance](Test Profile):Ending timestamp: 2016-10-14 12:10:43.654653+00:00

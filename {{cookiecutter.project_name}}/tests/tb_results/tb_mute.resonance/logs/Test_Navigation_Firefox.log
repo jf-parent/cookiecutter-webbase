@@ -1,0 +1,438 @@
+[mute.resonance](Test Navigation):Loading state...
+[mute.resonance](Test Navigation):State loaded.
+[mute.resonance](Test Navigation):Running...
+[mute.resonance](Test Navigation):[App] Going to home...
+[mute.resonance](Test Navigation):[debug]Initializing javascript error interception
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):[App] Login...
+[mute.resonance](Test Navigation):[App] Going to the login page...
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:header_login_link
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:header_login_link
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:header_login_link)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:header_login_link): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:header_login_link)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:login_email_input
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:login_email_input
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:login_email_input)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:login_email_input): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:login_password_input
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:login_password_input
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:login_password_input)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:login_password_input): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:login_submit_btn)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):[App] Going to the profile page...
+[mute.resonance](Test Navigation):[App] Opening the user dropdown...
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[mute.resonance](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:header_profile_link)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):[App] Going to home...
+[mute.resonance](Test Navigation):[debug]Initializing javascript error interception
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#25)
+[mute.resonance](Test Navigation):[debug]effective highlight: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: False
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: False
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[mute.resonance](Test Navigation):Taking a screenshot...
+[mute.resonance](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_mute.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_25_2016-09-22-18-42-27_Firefox_46_0_Darwin.png)
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):[App] Going to home...
+[mute.resonance](Test Navigation):[debug]Initializing javascript error interception
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):[debug]Initializing javascript error interception
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):[App] Going to the profile page...
+[mute.resonance](Test Navigation):[App] Opening the user dropdown...
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[mute.resonance](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:header_profile_link)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#26)
+[mute.resonance](Test Navigation):[debug]effective highlight: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: False
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: False
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[mute.resonance](Test Navigation):Taking a screenshot...
+[mute.resonance](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_mute.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_26_2016-09-22-18-42-32_Firefox_46_0_Darwin.png)
+[mute.resonance](Test Navigation):[App] Logout...
+[mute.resonance](Test Navigation):[App] Opening the user dropdown...
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[mute.resonance](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:header_logout_btn
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:header_logout_btn
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:header_logout_btn)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:header_logout_btn): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:header_logout_btn)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):[debug]Initializing javascript error interception
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):Assert visible selector(sv:login_submit_btn) testid(#28)
+[mute.resonance](Test Navigation):[debug]effective highlight: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: False
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: False
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[mute.resonance](Test Navigation):Taking a screenshot...
+[mute.resonance](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_mute.resonance/assertion_screenshots/Firefox_46_0_Darwin/succeed_28_2016-09-22-18-42-34_Firefox_46_0_Darwin.png)
+[mute.resonance](Test Navigation):[App] Login...
+[mute.resonance](Test Navigation):[App] Going to the login page...
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:header_login_link
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:header_login_link
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:header_login_link)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:header_login_link): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link') (class: 'active')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:header_login_link)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link') (class: 'active')] Highlighting element
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:login_email_input
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:login_email_input
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:login_email_input)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:login_email_input): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:login_password_input
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:login_password_input
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:login_password_input)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:login_password_input): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[mute.resonance](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[mute.resonance](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_present: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[mute.resonance](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[mute.resonance](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[mute.resonance](Test Navigation):Waiting until clickable (sv:login_submit_btn)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[mute.resonance](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[mute.resonance](Test Navigation):[App] Waiting until loaded...
+[mute.resonance](Test Navigation):Waiting until present (sv:app_root_div)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[mute.resonance](Test Navigation):Waiting until not visible (sv:app_loader)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: True
+[mute.resonance](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[mute.resonance](Test Navigation):Assert visible selector(sv:settings_page) testid(#29)
+[mute.resonance](Test Navigation):[debug]effective highlight: True
+[mute.resonance](Test Navigation):[debug]effective wait_until_visible: True
+[mute.resonance](Test Navigation):Waiting until visible (sv:settings_page)
+[mute.resonance](Test Navigation):[debug]effective timeout: 5
+[mute.resonance](Test Navigation):[debug]effective raise_exception: False
+[mute.resonance](Test Navigation):Test ended
+[mute.resonance](Test Navigation):Quitting the browser...
+[mute.resonance](Test Navigation):Ending timestamp: 2016-09-22 15:42:40.846998+00:00

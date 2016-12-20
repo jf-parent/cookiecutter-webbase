@@ -1,0 +1,32 @@
+[billowing.wood](Test Login):Loading state...
+[billowing.wood](Test Login):No state found.
+[billowing.wood](Test Login):Running...
+[billowing.wood](Test Login):[App] Registering user...
+[billowing.wood](Test Login):[App] Going to home...
+[billowing.wood](Test Login):[debug]Initializing javascript error interception
+[billowing.wood](Test Login):[App] Waiting until loaded...
+[billowing.wood](Test Login):Waiting until present (sv:app_root_div)
+[billowing.wood](Test Login):[debug]effective timeout: 5
+[billowing.wood](Test Login):[debug]effective raise_exception: True
+[billowing.wood](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[billowing.wood](Test Login):Waiting until not visible (sv:app_loader)
+[billowing.wood](Test Login):[debug]effective timeout: 5
+[billowing.wood](Test Login):[debug]effective raise_exception: True
+[billowing.wood](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[billowing.wood](Test Login):[App] Register...
+[billowing.wood](Test Login):[App] Going to the register page...
+[billowing.wood](Test Login):[debug]Finding element with selector: sv:header_register_link
+[billowing.wood](Test Login):[debug]Finding elements with selector: sv:header_register_link
+[billowing.wood](Test Login):[debug]effective raise_exception: True
+[billowing.wood](Test Login):[debug]effective wait_until_present: True
+[billowing.wood](Test Login):[debug]effective wait_until_visible: True
+[billowing.wood](Test Login):Waiting until visible (sv:header_register_link)
+[billowing.wood](Test Login):[debug]effective timeout: 5
+[billowing.wood](Test Login):[debug]effective raise_exception: False
+[billowing.wood](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is still not visible
+[billowing.wood](Test Login):Waiting until present (sv:header_register_link)
+[billowing.wood](Test Login):[debug]effective timeout: 5
+[billowing.wood](Test Login):[debug]effective raise_exception: True
+[billowing.wood](Test Login):Test ended
+[billowing.wood](Test Login):Quitting the browser...
+[billowing.wood](Test Login):Ending timestamp: 2016-09-30 09:42:45.106516+00:00

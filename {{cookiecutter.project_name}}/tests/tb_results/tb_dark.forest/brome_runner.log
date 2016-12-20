@@ -1,0 +1,17 @@
+[dark.forest]The test batch is ready.
+[dark.forest]Startup
+[dark.forest]Tear down
+[dark.forest]The test batch is finished.
+[dark.forest]******* TEST BATCH SUMMARY ********
+[dark.forest]Total_test: 2; Total_test_successful: 2; Total_test_failed: 0
+[dark.forest]Total execution time: 0:00:05.769000
+[dark.forest]---------------------
+[dark.forest]Failed tests:
+[dark.forest]No test failed!
+[dark.forest]---------------------
+[dark.forest]Test Translation Firefox-46_0-Darwin
+[dark.forest]Test execution time: 0:00:02.375000
+[dark.forest]Total_test: 2; Total_test_successful: 2; Total_test_failed: 0
+[dark.forest]No crash!
+[dark.forest]---------------------
+[dark.forest]Finished

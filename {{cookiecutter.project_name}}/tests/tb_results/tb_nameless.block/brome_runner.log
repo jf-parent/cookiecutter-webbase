@@ -1,0 +1,17 @@
+[nameless.block]The test batch is ready.
+[nameless.block]Startup
+[nameless.block]Tear down
+[nameless.block]The test batch is finished.
+[nameless.block]******* TEST BATCH SUMMARY ********
+[nameless.block]Total_test: 5; Total_test_successful: 5; Total_test_failed: 0
+[nameless.block]Total execution time: 0:00:27.626000
+[nameless.block]---------------------
+[nameless.block]Failed tests:
+[nameless.block]No test failed!
+[nameless.block]---------------------
+[nameless.block]Test Navigation Firefox-46_0-Darwin
+[nameless.block]Test execution time: 0:00:24.211000
+[nameless.block]Total_test: 5; Total_test_successful: 5; Total_test_failed: 0
+[nameless.block]No crash!
+[nameless.block]---------------------
+[nameless.block]Finished

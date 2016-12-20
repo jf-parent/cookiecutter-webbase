@@ -1,0 +1,616 @@
+[tight.bird](Test Translation):Loading state...
+[tight.bird](Test Translation):No state found.
+[tight.bird](Test Translation):Running...
+[tight.bird](Test Translation):[App] Going to home...
+[tight.bird](Test Translation):[debug]Initializing javascript error interception
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):[App] Changing locale...
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:locale_en_btn
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:locale_en_btn
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:locale_en_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): Element found
+[tight.bird](Test Translation):[debug]find (sv:locale_en_btn): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "en"]') (class: 'btn btn-link')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:locale_en_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "en"]') (class: 'btn btn-link')] Highlighting element
+[tight.bird](Test Translation):Assert visible selector(xp://*[contains(text(), 'Home')]) testid(#30)
+[tight.bird](Test Translation):[debug]effective highlight: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (xp://*[contains(text(), 'Home')])
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(text(), 'Home')]), raw selector (xp://*[contains(text(), 'Home')])): element is visible
+[tight.bird](Test Translation):[debug]Finding element with selector: xp://*[contains(text(), 'Home')]
+[tight.bird](Test Translation):[debug]Finding elements with selector: xp://*[contains(text(), 'Home')]
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]effective wait_until_present: False
+[tight.bird](Test Translation):[debug]effective wait_until_visible: False
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(text(), 'Home')]), raw selector (xp://*[contains(text(), 'Home')])): Element found
+[tight.bird](Test Translation):[debug]find (xp://*[contains(text(), 'Home')]): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] Is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] Highlighting element
+[tight.bird](Test Translation):Taking a screenshot...
+[tight.bird](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_tight.bird/assertion_screenshots/Firefox_46_0_Darwin/succeed_30_2016-10-14-13-58-34_Firefox_46_0_Darwin.png)
+[tight.bird](Test Translation):[App] Changing locale...
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:locale_fr_btn
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:locale_fr_btn
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:locale_fr_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): Element found
+[tight.bird](Test Translation):[debug]find (sv:locale_fr_btn): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "fr"]') (class: 'btn btn-link')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:locale_fr_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "fr"]') (class: 'btn btn-link')] Highlighting element
+[tight.bird](Test Translation):Assert visible selector(xp://*[contains(text(), 'acceuil')]) testid(#30)
+[tight.bird](Test Translation):[debug]effective highlight: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (xp://*[contains(text(), 'acceuil')])
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(text(), 'acceuil')]), raw selector (xp://*[contains(text(), 'acceuil')])): element is visible
+[tight.bird](Test Translation):[debug]Finding element with selector: xp://*[contains(text(), 'acceuil')]
+[tight.bird](Test Translation):[debug]Finding elements with selector: xp://*[contains(text(), 'acceuil')]
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]effective wait_until_present: False
+[tight.bird](Test Translation):[debug]effective wait_until_visible: False
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(text(), 'acceuil')]), raw selector (xp://*[contains(text(), 'acceuil')])): Element found
+[tight.bird](Test Translation):[debug]find (xp://*[contains(text(), 'acceuil')]): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'acceuil')]')] Is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'acceuil')]')] is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'acceuil')]')] Highlighting element
+[tight.bird](Test Translation):Taking a screenshot...
+[tight.bird](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_tight.bird/assertion_screenshots/Firefox_46_0_Darwin/succeed_30_2016-10-14-13-58-35_Firefox_46_0_Darwin.png)
+[tight.bird](Test Translation):[App] Registering user...
+[tight.bird](Test Translation):[App] Going to home...
+[tight.bird](Test Translation):[debug]Initializing javascript error interception
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):[App] Register...
+[tight.bird](Test Translation):[App] Going to the register page...
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_register_link
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_register_link
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_register_link)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_register_link): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_register_link)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:register_email_input
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:register_email_input
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:register_email_input)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[tight.bird](Test Translation):[debug]find (sv:register_email_input): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:register_name_input
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:register_name_input
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:register_name_input)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[tight.bird](Test Translation):[debug]find (sv:register_name_input): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:register_password_input
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:register_password_input
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:register_password_input)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[tight.bird](Test Translation):[debug]find (sv:register_password_input): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:register_submit_btn
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:register_submit_btn
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:register_submit_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[tight.bird](Test Translation):[debug]find (sv:register_submit_btn): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:register_submit_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):[App] Going to the profile page...
+[tight.bird](Test Translation):[App] Opening the user dropdown...
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_user_dropdown
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_user_dropdown
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_user_dropdown)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_user_dropdown): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_user_dropdown)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[tight.bird](Test Translation):Waiting until present (sv:header_user_dropdown_open)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_profile_link
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_profile_link
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_profile_link)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_profile_link): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_profile_link)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):[App] Selecting locale in profile...
+[tight.bird](Test Translation):[debug]Finding element with selector: xp://*[contains(@class, 'Select-arrow')]
+[tight.bird](Test Translation):[debug]Finding elements with selector: xp://*[contains(@class, 'Select-arrow')]
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (xp://*[contains(@class, 'Select-arrow')])
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(@class, 'Select-arrow')]), raw selector (xp://*[contains(@class, 'Select-arrow')])): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(@class, 'Select-arrow')]), raw selector (xp://*[contains(@class, 'Select-arrow')])): Element found
+[tight.bird](Test Translation):[debug]find (xp://*[contains(@class, 'Select-arrow')]): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(@class, 'Select-arrow')]') (class: 'Select-arrow-zone')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (xp://*[contains(@class, 'Select-arrow')])
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[contains(@class, 'Select-arrow')]), raw selector (xp://*[contains(@class, 'Select-arrow')])): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(@class, 'Select-arrow')]') (class: 'Select-arrow-zone')] Highlighting element
+[tight.bird](Test Translation):[debug]Finding element with selector: xp://*[contains(@class, 'Select-option') and text() = 'Français']
+[tight.bird](Test Translation):[debug]Finding elements with selector: xp://*[contains(@class, 'Select-option') and text() = 'Français']
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (xp://*[contains(@class, 'Select-option') and text() = 'Français'])
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(@class, 'Select-option') and text() = 'Français']), raw selector (xp://*[contains(@class, 'Select-option') and text() = 'Français'])): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(@class, 'Select-option') and text() = 'Français']), raw selector (xp://*[contains(@class, 'Select-option') and text() = 'Français'])): Element found
+[tight.bird](Test Translation):[debug]find (xp://*[contains(@class, 'Select-option') and text() = 'Français']): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(@class, 'Select-option') and text() = 'Français']') (id: 'react-select-2--option-1') (class: 'Select-option is-focused')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (xp://*[contains(@class, 'Select-option') and text() = 'Français'])
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[contains(@class, 'Select-option') and text() = 'Français']), raw selector (xp://*[contains(@class, 'Select-option') and text() = 'Français'])): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(@class, 'Select-option') and text() = 'Français']') (id: 'react-select-2--option-1') (class: 'Select-option is-focused')] Highlighting element
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:profile_submit_btn
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:profile_submit_btn
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:profile_submit_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[tight.bird](Test Translation):[debug]find (sv:profile_submit_btn): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:profile_submit_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:profile_submit_btn
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:profile_submit_btn
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:profile_submit_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[tight.bird](Test Translation):[debug]find (sv:profile_submit_btn): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:profile_submit_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):Assert visible selector(xp://span[contains(text(), 'Paramètres profil')]) testid(#35)
+[tight.bird](Test Translation):[debug]effective highlight: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (xp://span[contains(text(), 'Paramètres profil')])
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//span[contains(text(), 'Paramètres profil')]), raw selector (xp://span[contains(text(), 'Paramètres profil')])): element is visible
+[tight.bird](Test Translation):[debug]Finding element with selector: xp://span[contains(text(), 'Paramètres profil')]
+[tight.bird](Test Translation):[debug]Finding elements with selector: xp://span[contains(text(), 'Paramètres profil')]
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]effective wait_until_present: False
+[tight.bird](Test Translation):[debug]effective wait_until_visible: False
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//span[contains(text(), 'Paramètres profil')]), raw selector (xp://span[contains(text(), 'Paramètres profil')])): Element found
+[tight.bird](Test Translation):[debug]find (xp://span[contains(text(), 'Paramètres profil')]): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//span[contains(text(), 'Paramètres profil')]')] Is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//span[contains(text(), 'Paramètres profil')]')] is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//span[contains(text(), 'Paramètres profil')]')] Highlighting element
+[tight.bird](Test Translation):Taking a screenshot...
+[tight.bird](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_tight.bird/assertion_screenshots/Firefox_46_0_Darwin/succeed_35_2016-10-14-13-58-45_Firefox_46_0_Darwin.png)
+[tight.bird](Test Translation):[App] Logout...
+[tight.bird](Test Translation):[App] Opening the user dropdown...
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_user_dropdown
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_user_dropdown
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_user_dropdown)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_user_dropdown): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_user_dropdown)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[tight.bird](Test Translation):Waiting until present (sv:header_user_dropdown_open)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_logout_btn
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_logout_btn
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_logout_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_logout_btn): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_logout_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):Assert visible selector(xp://*[contains(text(), 'Register')]) testid(#35)
+[tight.bird](Test Translation):[debug]effective highlight: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (xp://*[contains(text(), 'Register')])
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(text(), 'Register')]), raw selector (xp://*[contains(text(), 'Register')])): element is visible
+[tight.bird](Test Translation):[debug]Finding element with selector: xp://*[contains(text(), 'Register')]
+[tight.bird](Test Translation):[debug]Finding elements with selector: xp://*[contains(text(), 'Register')]
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]effective wait_until_present: False
+[tight.bird](Test Translation):[debug]effective wait_until_visible: False
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(text(), 'Register')]), raw selector (xp://*[contains(text(), 'Register')])): Element found
+[tight.bird](Test Translation):[debug]find (xp://*[contains(text(), 'Register')]): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Register')]')] Is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Register')]')] is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Register')]')] Highlighting element
+[tight.bird](Test Translation):Taking a screenshot...
+[tight.bird](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_tight.bird/assertion_screenshots/Firefox_46_0_Darwin/succeed_35_2016-10-14-13-58-47_Firefox_46_0_Darwin.png)
+[tight.bird](Test Translation):[App] Login...
+[tight.bird](Test Translation):[App] Going to the login page...
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_login_link
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_login_link
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_login_link)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_login_link): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_login_link)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:login_email_input
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:login_email_input
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:login_email_input)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[tight.bird](Test Translation):[debug]find (sv:login_email_input): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:login_password_input
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:login_password_input
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:login_password_input)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[tight.bird](Test Translation):[debug]find (sv:login_password_input): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[tight.bird](Test Translation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:login_submit_btn
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:login_submit_btn
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:login_submit_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[tight.bird](Test Translation):[debug]find (sv:login_submit_btn): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:login_submit_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):[App] Going to the profile page...
+[tight.bird](Test Translation):[App] Opening the user dropdown...
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_user_dropdown
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_user_dropdown
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_user_dropdown)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_user_dropdown): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_user_dropdown)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[tight.bird](Test Translation):Waiting until present (sv:header_user_dropdown_open)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_profile_link
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_profile_link
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_profile_link)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_profile_link): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_profile_link)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):Assert visible selector(xp://span[contains(text(), 'Paramètres profil')]) testid(#35)
+[tight.bird](Test Translation):[debug]effective highlight: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (xp://span[contains(text(), 'Paramètres profil')])
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//span[contains(text(), 'Paramètres profil')]), raw selector (xp://span[contains(text(), 'Paramètres profil')])): element is visible
+[tight.bird](Test Translation):[debug]Finding element with selector: xp://span[contains(text(), 'Paramètres profil')]
+[tight.bird](Test Translation):[debug]Finding elements with selector: xp://span[contains(text(), 'Paramètres profil')]
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]effective wait_until_present: False
+[tight.bird](Test Translation):[debug]effective wait_until_visible: False
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//span[contains(text(), 'Paramètres profil')]), raw selector (xp://span[contains(text(), 'Paramètres profil')])): Element found
+[tight.bird](Test Translation):[debug]find (xp://span[contains(text(), 'Paramètres profil')]): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//span[contains(text(), 'Paramètres profil')]')] Is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//span[contains(text(), 'Paramètres profil')]')] is displayed
+[tight.bird](Test Translation):[debug][WebElement (selector: '//span[contains(text(), 'Paramètres profil')]')] Highlighting element
+[tight.bird](Test Translation):Taking a screenshot...
+[tight.bird](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_tight.bird/assertion_screenshots/Firefox_46_0_Darwin/succeed_35_2016-10-14-13-58-52_Firefox_46_0_Darwin.png)
+[tight.bird](Test Translation):[App] Logout...
+[tight.bird](Test Translation):[App] Opening the user dropdown...
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_user_dropdown
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_user_dropdown
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_user_dropdown)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_user_dropdown): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_user_dropdown)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[tight.bird](Test Translation):Waiting until present (sv:header_user_dropdown_open)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[tight.bird](Test Translation):[debug]Finding element with selector: sv:header_logout_btn
+[tight.bird](Test Translation):[debug]Finding elements with selector: sv:header_logout_btn
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]effective wait_until_present: True
+[tight.bird](Test Translation):[debug]effective wait_until_visible: True
+[tight.bird](Test Translation):Waiting until visible (sv:header_logout_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: False
+[tight.bird](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[tight.bird](Test Translation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[tight.bird](Test Translation):[debug]find (sv:header_logout_btn): Element found
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[tight.bird](Test Translation):Waiting until clickable (sv:header_logout_btn)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[tight.bird](Test Translation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[tight.bird](Test Translation):[App] Waiting until loaded...
+[tight.bird](Test Translation):Waiting until present (sv:app_root_div)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[tight.bird](Test Translation):Waiting until not visible (sv:app_loader)
+[tight.bird](Test Translation):[debug]effective timeout: 5
+[tight.bird](Test Translation):[debug]effective raise_exception: True
+[tight.bird](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[tight.bird](Test Translation):Test ended
+[tight.bird](Test Translation):Quitting the browser...
+[tight.bird](Test Translation):Ending timestamp: 2016-10-14 10:58:53.448336+00:00

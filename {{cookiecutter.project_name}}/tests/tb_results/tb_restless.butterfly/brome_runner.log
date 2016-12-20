@@ -1,0 +1,12 @@
+[restless.butterfly]The test batch is ready.
+[restless.butterfly]Startup
+[restless.butterfly]Test batch interrupted
+[restless.butterfly]The test batch is finished.
+[restless.butterfly]******* TEST BATCH SUMMARY ********
+[restless.butterfly]Total_test: 1; Total_test_successful: 1; Total_test_failed: 0
+[restless.butterfly]Total execution time: 0:00:12.928000
+[restless.butterfly]---------------------
+[restless.butterfly]Failed tests:
+[restless.butterfly]No test failed!
+[restless.butterfly]---------------------
+[restless.butterfly]Finished

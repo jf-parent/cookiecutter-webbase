@@ -1,0 +1,17 @@
+[white.resonance]The test batch is ready.
+[white.resonance]Startup
+[white.resonance]Tear down
+[white.resonance]The test batch is finished.
+[white.resonance]******* TEST BATCH SUMMARY ********
+[white.resonance]Total_test: 13; Total_test_successful: 13; Total_test_failed: 0
+[white.resonance]Total execution time: 0:00:42.221000
+[white.resonance]---------------------
+[white.resonance]Failed tests:
+[white.resonance]No test failed!
+[white.resonance]---------------------
+[white.resonance]Test Profile Firefox-46_0-Darwin
+[white.resonance]Test execution time: 0:00:38.808000
+[white.resonance]Total_test: 13; Total_test_successful: 13; Total_test_failed: 0
+[white.resonance]No crash!
+[white.resonance]---------------------
+[white.resonance]Finished

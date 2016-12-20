@@ -1,0 +1,676 @@
+[lively.salad](Test Register):Loading state...
+[lively.salad](Test Register):No state found.
+[lively.salad](Test Register):Running...
+[lively.salad](Test Register):[App] Going to home...
+[lively.salad](Test Register):[debug]Initializing javascript error interception
+[lively.salad](Test Register):[App] Waiting until loaded...
+[lively.salad](Test Register):Waiting until present (sv:app_root_div)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lively.salad](Test Register):Waiting until not visible (sv:app_loader)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lively.salad](Test Register):[App] Going to the register page...
+[lively.salad](Test Register):[debug]Finding element with selector: sv:header_register_link
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:header_register_link)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[lively.salad](Test Register):[debug]find (sv:header_register_link): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[lively.salad](Test Register):Waiting until clickable (sv:header_register_link)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[lively.salad](Test Register):[App] Waiting until loaded...
+[lively.salad](Test Register):Waiting until present (sv:app_root_div)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lively.salad](Test Register):Waiting until not visible (sv:app_loader)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lively.salad](Test Register):Assert visible selector(sv:register_already_have_account_link) testid(#19)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-23-16-14-26_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Clicking on element
+[lively.salad](Test Register):Waiting until clickable (sv:register_already_have_account_link)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is clickable
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[lively.salad](Test Register):[App] Waiting until loaded...
+[lively.salad](Test Register):Waiting until present (sv:app_root_div)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lively.salad](Test Register):Waiting until not visible (sv:app_loader)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lively.salad](Test Register):Assert visible selector(sv:login_submit_btn) testid(#19)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:login_submit_btn)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:login_submit_btn
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:login_submit_btn
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[lively.salad](Test Register):[debug]find (sv:login_submit_btn): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-23-16-14-27_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):[App] Going to the register page...
+[lively.salad](Test Register):[debug]Finding element with selector: sv:header_register_link
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:header_register_link)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[lively.salad](Test Register):[debug]find (sv:header_register_link): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[lively.salad](Test Register):Waiting until clickable (sv:header_register_link)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[lively.salad](Test Register):[App] Waiting until loaded...
+[lively.salad](Test Register):Waiting until present (sv:app_root_div)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lively.salad](Test Register):Waiting until not visible (sv:app_loader)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lively.salad](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#20)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_20_2016-09-23-16-14-28_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_name_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_name_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_name_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_password_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_password_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_password_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_email_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_email_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_email_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):Assert visible selector(sv:register_name_input_has_success) testid(#32)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_name_input_has_success)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_name_input_has_success
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_success
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_name_input_has_success): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-23-16-14-30_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_password_input_has_success) testid(#32)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_password_input_has_success)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_password_input_has_success
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_success
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_password_input_has_success): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-23-16-14-31_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_email_input_has_error) testid(#32)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_email_input_has_error)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_email_input_has_error)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_email_input_has_error
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_error
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_email_input_has_error)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_email_input_has_error): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-23-16-14-31_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#21)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_21_2016-09-23-16-14-32_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):[App] Waiting until loaded...
+[lively.salad](Test Register):Waiting until present (sv:app_root_div)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lively.salad](Test Register):Waiting until not visible (sv:app_loader)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_email_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_email_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_email_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_password_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_password_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_password_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_name_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_name_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_name_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):Assert visible selector(sv:register_name_input_has_error) testid(#32)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_name_input_has_error)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_name_input_has_error)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_name_input_has_error
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_error
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_name_input_has_error)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_name_input_has_error): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-name') (class: 'form-group has-error')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-name') (class: 'form-group has-error')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-name') (class: 'form-group has-error')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-23-16-14-35_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_password_input_has_success) testid(#32)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_password_input_has_success)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_password_input_has_success
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_success
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_password_input_has_success): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-23-16-14-35_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_email_input_has_success) testid(#32)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_email_input_has_success)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_email_input_has_success
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_success
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_email_input_has_success): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-23-16-14-36_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#22)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_22_2016-09-23-16-14-36_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):[App] Waiting until loaded...
+[lively.salad](Test Register):Waiting until present (sv:app_root_div)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lively.salad](Test Register):Waiting until not visible (sv:app_loader)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_email_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_email_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_email_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_name_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_name_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_name_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_password_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_password_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_password_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):Assert visible selector(sv:register_name_input_has_success) testid(#32)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_name_input_has_success)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_name_input_has_success
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_success
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_name_input_has_success): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-23-16-14-39_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_password_input_has_error) testid(#32)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_password_input_has_error)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_password_input_has_error)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_password_input_has_error
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_error
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_password_input_has_error)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_password_input_has_error): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-23-16-14-40_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_email_input_has_success) testid(#32)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_email_input_has_success)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_email_input_has_success
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_success
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_email_input_has_success): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-23-16-14-40_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#22)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_22_2016-09-23-16-14-41_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#23)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: False
+[lively.salad](Test Register):[debug]effective wait_until_visible: False
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_23_2016-09-23-16-14-41_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):[App] Waiting until loaded...
+[lively.salad](Test Register):Waiting until present (sv:app_root_div)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lively.salad](Test Register):Waiting until not visible (sv:app_loader)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_email_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_email_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_email_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_name_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_name_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_name_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_password_input
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_password_input)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_password_input): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[lively.salad](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[lively.salad](Test Register):[debug]Finding element with selector: sv:register_submit_btn
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:register_submit_btn
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:register_submit_btn)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[lively.salad](Test Register):[debug]find (sv:register_submit_btn): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[lively.salad](Test Register):Waiting until clickable (sv:register_submit_btn)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is clickable
+[lively.salad](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[lively.salad](Test Register):[App] Waiting until loaded...
+[lively.salad](Test Register):Waiting until present (sv:app_root_div)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lively.salad](Test Register):Waiting until not visible (sv:app_loader)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lively.salad](Test Register):Assert text equal selector(xp://span[@name= 'user-name']) testid(#24)
+[lively.salad](Test Register):[debug]effective highlight: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):[debug]Finding element with selector: xp://span[@name= 'user-name']
+[lively.salad](Test Register):[debug]Finding elements with selector: xp://span[@name= 'user-name']
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (xp://span[@name= 'user-name'])
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//span[@name= 'user-name']), raw selector (xp://span[@name= 'user-name'])): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//span[@name= 'user-name']), raw selector (xp://span[@name= 'user-name'])): Element found
+[lively.salad](Test Register):[debug]find (xp://span[@name= 'user-name']): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//span[@name= 'user-name']') (name: 'user-name')] Highlighting element
+[lively.salad](Test Register):Taking a screenshot...
+[lively.salad](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_lively.salad/assertion_screenshots/Firefox_46_0_Darwin/succeed_24_2016-09-23-16-14-46_Firefox_46_0_Darwin.png)
+[lively.salad](Test Register):[App] Logout...
+[lively.salad](Test Register):[App] Opening the user dropdown...
+[lively.salad](Test Register):[debug]Finding element with selector: sv:header_user_dropdown
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:header_user_dropdown
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:header_user_dropdown)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[lively.salad](Test Register):[debug]find (sv:header_user_dropdown): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[lively.salad](Test Register):Waiting until clickable (sv:header_user_dropdown)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[lively.salad](Test Register):Waiting until present (sv:header_user_dropdown_open)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[lively.salad](Test Register):[debug]Finding element with selector: sv:header_logout_btn
+[lively.salad](Test Register):[debug]Finding elements with selector: sv:header_logout_btn
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]effective wait_until_present: True
+[lively.salad](Test Register):[debug]effective wait_until_visible: True
+[lively.salad](Test Register):Waiting until visible (sv:header_logout_btn)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: False
+[lively.salad](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[lively.salad](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[lively.salad](Test Register):[debug]find (sv:header_logout_btn): Element found
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[lively.salad](Test Register):Waiting until clickable (sv:header_logout_btn)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[lively.salad](Test Register):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[lively.salad](Test Register):[App] Waiting until loaded...
+[lively.salad](Test Register):Waiting until present (sv:app_root_div)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lively.salad](Test Register):Waiting until not visible (sv:app_loader)
+[lively.salad](Test Register):[debug]effective timeout: 5
+[lively.salad](Test Register):[debug]effective raise_exception: True
+[lively.salad](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lively.salad](Test Register):Test ended
+[lively.salad](Test Register):Quitting the browser...
+[lively.salad](Test Register):Ending timestamp: 2016-09-23 13:14:47.708228+00:00

@@ -1,0 +1,12 @@
+[billowing.wood]The test batch is ready.
+[billowing.wood]Startup
+[billowing.wood]Test batch interrupted
+[billowing.wood]The test batch is finished.
+[billowing.wood]******* TEST BATCH SUMMARY ********
+[billowing.wood]Total_test: 0; Total_test_successful: 0; Total_test_failed: 0
+[billowing.wood]Total execution time: 0:00:10.405000
+[billowing.wood]---------------------
+[billowing.wood]Failed tests:
+[billowing.wood]No test failed!
+[billowing.wood]---------------------
+[billowing.wood]Finished

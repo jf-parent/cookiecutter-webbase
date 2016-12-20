@@ -1,0 +1,32 @@
+[ancient.block](Test Login):Loading state...
+[ancient.block](Test Login):No state found.
+[ancient.block](Test Login):Running...
+[ancient.block](Test Login):[App] Registering user...
+[ancient.block](Test Login):[App] Going to home...
+[ancient.block](Test Login):[debug]Initializing javascript error interception
+[ancient.block](Test Login):[App] Waiting until loaded...
+[ancient.block](Test Login):Waiting until present (sv:app_root_div)
+[ancient.block](Test Login):[debug]effective timeout: 5
+[ancient.block](Test Login):[debug]effective raise_exception: True
+[ancient.block](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[ancient.block](Test Login):Waiting until not visible (sv:app_loader)
+[ancient.block](Test Login):[debug]effective timeout: 5
+[ancient.block](Test Login):[debug]effective raise_exception: True
+[ancient.block](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[ancient.block](Test Login):[App] Register...
+[ancient.block](Test Login):[App] Going to the register page...
+[ancient.block](Test Login):[debug]Finding element with selector: sv:header_register_link
+[ancient.block](Test Login):[debug]Finding elements with selector: sv:header_register_link
+[ancient.block](Test Login):[debug]effective raise_exception: True
+[ancient.block](Test Login):[debug]effective wait_until_present: True
+[ancient.block](Test Login):[debug]effective wait_until_visible: True
+[ancient.block](Test Login):Waiting until visible (sv:header_register_link)
+[ancient.block](Test Login):[debug]effective timeout: 5
+[ancient.block](Test Login):[debug]effective raise_exception: False
+[ancient.block](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is still not visible
+[ancient.block](Test Login):Waiting until present (sv:header_register_link)
+[ancient.block](Test Login):[debug]effective timeout: 5
+[ancient.block](Test Login):[debug]effective raise_exception: True
+[ancient.block](Test Login):Test ended
+[ancient.block](Test Login):Quitting the browser...
+[ancient.block](Test Login):Ending timestamp: 2016-09-30 09:38:52.283578+00:00

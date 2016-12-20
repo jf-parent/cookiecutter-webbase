@@ -1,0 +1,69 @@
+[lingering.grass](Test Login):Loading state...
+[lingering.grass](Test Login):No state found.
+[lingering.grass](Test Login):Running...
+[lingering.grass](Test Login):[App] Registering user...
+[lingering.grass](Test Login):[App] Going to home...
+[lingering.grass](Test Login):[debug]Initializing javascript error interception
+[lingering.grass](Test Login):[App] Waiting until loaded...
+[lingering.grass](Test Login):Waiting until present (sv:app_root_div)
+[lingering.grass](Test Login):[debug]effective timeout: 5
+[lingering.grass](Test Login):[debug]effective raise_exception: True
+[lingering.grass](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[lingering.grass](Test Login):Waiting until not visible (sv:app_loader)
+[lingering.grass](Test Login):[debug]effective timeout: 5
+[lingering.grass](Test Login):[debug]effective raise_exception: True
+[lingering.grass](Test Login):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[lingering.grass](Test Login):[App] Register...
+[lingering.grass](Test Login):[App] Going to the register page...
+[lingering.grass](Test Login):[debug]Finding element with selector: sv:header_register_link
+[lingering.grass](Test Login):[debug]Finding elements with selector: sv:header_register_link
+[lingering.grass](Test Login):[debug]effective raise_exception: True
+[lingering.grass](Test Login):[debug]effective wait_until_present: True
+[lingering.grass](Test Login):[debug]effective wait_until_visible: True
+[lingering.grass](Test Login):Waiting until visible (sv:header_register_link)
+[lingering.grass](Test Login):[debug]effective timeout: 5
+[lingering.grass](Test Login):[debug]effective raise_exception: False
+[lingering.grass](Test Login):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is still not visible
+[lingering.grass](Test Login):Waiting until present (sv:header_register_link)
+[lingering.grass](Test Login):[debug]effective timeout: 5
+[lingering.grass](Test Login):[debug]effective raise_exception: True
+[lingering.grass](Test Login):[debug]wait_until_present (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is still not present
+[lingering.grass](Test Login):[error]Test failed
+[lingering.grass](Test Login):[error]Crash: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 409, in wait_until_present
+    (getattr(By, _selector.find_by), _selector.get_selector())
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmper5g5fks/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at FirefoxDriver.prototype.findElement (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmper5g5fks/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+    at DelayedCommand.prototype.executeInternal_/h (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmper5g5fks/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+    at DelayedCommand.prototype.executeInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmper5g5fks/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+    at DelayedCommand.prototype.execute/< (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmper5g5fks/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_login.py", line 12, in run
+    user = self.app.register_user(logout=True)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 99, in register_user
+    password=password
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 160, in register
+    self.go_to_register()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 35, in go_to_register
+    self.pdriver.find("sv:header_register_link").click()
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 168, in find
+    elements = self.find_all(selector, **kwargs)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 270, in find_all
+    raise_exception=raise_exception
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 426, in wait_until_present
+    raise exceptions.TimeoutException(msg)
+selenium.common.exceptions.TimeoutException: Message: wait_until_present (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is still not present
+
+
+[lingering.grass](Test Login):Test ended
+[lingering.grass](Test Login):Quitting the browser...
+[lingering.grass](Test Login):Ending timestamp: 2016-09-30 09:40:46.234404+00:00

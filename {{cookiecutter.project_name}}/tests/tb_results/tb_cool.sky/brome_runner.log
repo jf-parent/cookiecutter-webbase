@@ -1,0 +1,12 @@
+[cool.sky]The test batch is ready.
+[cool.sky]Startup
+[cool.sky]Test batch interrupted
+[cool.sky]The test batch is finished.
+[cool.sky]******* TEST BATCH SUMMARY ********
+[cool.sky]Total_test: 4; Total_test_successful: 4; Total_test_failed: 0
+[cool.sky]Total execution time: 0:01:31.928000
+[cool.sky]---------------------
+[cool.sky]Failed tests:
+[cool.sky]No test failed!
+[cool.sky]---------------------
+[cool.sky]Finished

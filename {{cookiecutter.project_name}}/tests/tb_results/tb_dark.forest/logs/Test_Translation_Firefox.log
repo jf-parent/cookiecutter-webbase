@@ -1,0 +1,91 @@
+[dark.forest](Test Translation):Loading state...
+[dark.forest](Test Translation):No state found.
+[dark.forest](Test Translation):Running...
+[dark.forest](Test Translation):[App] Going to home...
+[dark.forest](Test Translation):[debug]Initializing javascript error interception
+[dark.forest](Test Translation):[App] Waiting until loaded...
+[dark.forest](Test Translation):Waiting until present (sv:app_root_div)
+[dark.forest](Test Translation):[debug]effective timeout: 5
+[dark.forest](Test Translation):[debug]effective raise_exception: True
+[dark.forest](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[dark.forest](Test Translation):Waiting until not visible (sv:app_loader)
+[dark.forest](Test Translation):[debug]effective timeout: 5
+[dark.forest](Test Translation):[debug]effective raise_exception: True
+[dark.forest](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[dark.forest](Test Translation):[App] Changing locale...
+[dark.forest](Test Translation):[debug]Finding element with selector: sv:locale_en_btn
+[dark.forest](Test Translation):[debug]Finding elements with selector: sv:locale_en_btn
+[dark.forest](Test Translation):[debug]effective raise_exception: True
+[dark.forest](Test Translation):[debug]effective wait_until_present: True
+[dark.forest](Test Translation):[debug]effective wait_until_visible: True
+[dark.forest](Test Translation):Waiting until visible (sv:locale_en_btn)
+[dark.forest](Test Translation):[debug]effective timeout: 5
+[dark.forest](Test Translation):[debug]effective raise_exception: False
+[dark.forest](Test Translation):[debug]wait_until_visible (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): element is visible
+[dark.forest](Test Translation):[debug]find_all (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): Element found
+[dark.forest](Test Translation):[debug]find (sv:locale_en_btn): Element found
+[dark.forest](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "en"]') (class: 'btn btn-link')] Clicking on element
+[dark.forest](Test Translation):Waiting until clickable (sv:locale_en_btn)
+[dark.forest](Test Translation):[debug]effective timeout: 5
+[dark.forest](Test Translation):[debug]effective raise_exception: True
+[dark.forest](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): element is clickable
+[dark.forest](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "en"]') (class: 'btn btn-link')] Highlighting element
+[dark.forest](Test Translation):Assert visible selector(xp://*[contains(text(), 'Home')]) testid(#30)
+[dark.forest](Test Translation):[debug]effective highlight: True
+[dark.forest](Test Translation):[debug]effective wait_until_visible: True
+[dark.forest](Test Translation):Waiting until visible (xp://*[contains(text(), 'Home')])
+[dark.forest](Test Translation):[debug]effective timeout: 5
+[dark.forest](Test Translation):[debug]effective raise_exception: False
+[dark.forest](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(text(), 'Home')]), raw selector (xp://*[contains(text(), 'Home')])): element is visible
+[dark.forest](Test Translation):[debug]Finding element with selector: xp://*[contains(text(), 'Home')]
+[dark.forest](Test Translation):[debug]Finding elements with selector: xp://*[contains(text(), 'Home')]
+[dark.forest](Test Translation):[debug]effective raise_exception: False
+[dark.forest](Test Translation):[debug]effective wait_until_present: False
+[dark.forest](Test Translation):[debug]effective wait_until_visible: False
+[dark.forest](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(text(), 'Home')]), raw selector (xp://*[contains(text(), 'Home')])): Element found
+[dark.forest](Test Translation):[debug]find (xp://*[contains(text(), 'Home')]): Element found
+[dark.forest](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] Is displayed
+[dark.forest](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] is displayed
+[dark.forest](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] Highlighting element
+[dark.forest](Test Translation):Taking a screenshot...
+[dark.forest](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_dark.forest/assertion_screenshots/Firefox_46_0_Darwin/succeed_30_2016-09-23-15-44-23_Firefox_46_0_Darwin.png)
+[dark.forest](Test Translation):[App] Changing locale...
+[dark.forest](Test Translation):[debug]Finding element with selector: sv:locale_fr_btn
+[dark.forest](Test Translation):[debug]Finding elements with selector: sv:locale_fr_btn
+[dark.forest](Test Translation):[debug]effective raise_exception: True
+[dark.forest](Test Translation):[debug]effective wait_until_present: True
+[dark.forest](Test Translation):[debug]effective wait_until_visible: True
+[dark.forest](Test Translation):Waiting until visible (sv:locale_fr_btn)
+[dark.forest](Test Translation):[debug]effective timeout: 5
+[dark.forest](Test Translation):[debug]effective raise_exception: False
+[dark.forest](Test Translation):[debug]wait_until_visible (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): element is visible
+[dark.forest](Test Translation):[debug]find_all (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): Element found
+[dark.forest](Test Translation):[debug]find (sv:locale_fr_btn): Element found
+[dark.forest](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "fr"]') (class: 'btn btn-link')] Clicking on element
+[dark.forest](Test Translation):Waiting until clickable (sv:locale_fr_btn)
+[dark.forest](Test Translation):[debug]effective timeout: 5
+[dark.forest](Test Translation):[debug]effective raise_exception: True
+[dark.forest](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): element is clickable
+[dark.forest](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "fr"]') (class: 'btn btn-link')] Highlighting element
+[dark.forest](Test Translation):Assert visible selector(xp://*[contains(text(), 'acceuil')]) testid(#30)
+[dark.forest](Test Translation):[debug]effective highlight: True
+[dark.forest](Test Translation):[debug]effective wait_until_visible: True
+[dark.forest](Test Translation):Waiting until visible (xp://*[contains(text(), 'acceuil')])
+[dark.forest](Test Translation):[debug]effective timeout: 5
+[dark.forest](Test Translation):[debug]effective raise_exception: False
+[dark.forest](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(text(), 'acceuil')]), raw selector (xp://*[contains(text(), 'acceuil')])): element is visible
+[dark.forest](Test Translation):[debug]Finding element with selector: xp://*[contains(text(), 'acceuil')]
+[dark.forest](Test Translation):[debug]Finding elements with selector: xp://*[contains(text(), 'acceuil')]
+[dark.forest](Test Translation):[debug]effective raise_exception: False
+[dark.forest](Test Translation):[debug]effective wait_until_present: False
+[dark.forest](Test Translation):[debug]effective wait_until_visible: False
+[dark.forest](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(text(), 'acceuil')]), raw selector (xp://*[contains(text(), 'acceuil')])): Element found
+[dark.forest](Test Translation):[debug]find (xp://*[contains(text(), 'acceuil')]): Element found
+[dark.forest](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'acceuil')]')] Is displayed
+[dark.forest](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'acceuil')]')] is displayed
+[dark.forest](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'acceuil')]')] Highlighting element
+[dark.forest](Test Translation):Taking a screenshot...
+[dark.forest](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_dark.forest/assertion_screenshots/Firefox_46_0_Darwin/succeed_30_2016-09-23-15-44-24_Firefox_46_0_Darwin.png)
+[dark.forest](Test Translation):Test ended
+[dark.forest](Test Translation):Quitting the browser...
+[dark.forest](Test Translation):Ending timestamp: 2016-09-23 12:44:24.292225+00:00

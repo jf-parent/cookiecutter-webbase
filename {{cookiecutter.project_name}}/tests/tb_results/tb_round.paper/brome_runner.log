@@ -1,0 +1,17 @@
+[round.paper]The test batch is ready.
+[round.paper]Startup
+[round.paper]Tear down
+[round.paper]The test batch is finished.
+[round.paper]******* TEST BATCH SUMMARY ********
+[round.paper]Total_test: 19; Total_test_successful: 19; Total_test_failed: 0
+[round.paper]Total execution time: 0:00:28.792000
+[round.paper]---------------------
+[round.paper]Failed tests:
+[round.paper]No test failed!
+[round.paper]---------------------
+[round.paper]Test Register Firefox-46_0-Darwin
+[round.paper]Test execution time: 0:00:25.408000
+[round.paper]Total_test: 19; Total_test_successful: 19; Total_test_failed: 0
+[round.paper]No crash!
+[round.paper]---------------------
+[round.paper]Finished

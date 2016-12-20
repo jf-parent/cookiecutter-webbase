@@ -1,0 +1,47 @@
+[flat.cell]The test batch is ready.
+[flat.cell]Startup
+[flat.cell]Tear down
+[flat.cell]Startup
+[flat.cell]Tear down
+[flat.cell]Startup
+[flat.cell]Tear down
+[flat.cell]Startup
+[flat.cell]Tear down
+[flat.cell]Startup
+[flat.cell]Tear down
+[flat.cell]Startup
+[flat.cell]Test batch interrupted
+[flat.cell]The test batch is finished.
+[flat.cell]******* TEST BATCH SUMMARY ********
+[flat.cell]Total_test: 34; Total_test_successful: 33; Total_test_failed: 1
+[flat.cell]Total execution time: 0:02:49.205000
+[flat.cell]---------------------
+[flat.cell]Failed tests:
+[flat.cell][#13] Profile: updating the user email validation.
+[flat.cell]---------------------
+[flat.cell]Test Login Firefox-46_0-Darwin
+[flat.cell]Test execution time: 0:00:30.393000
+[flat.cell]Total_test: 17; Total_test_successful: 17; Total_test_failed: 0
+[flat.cell]No crash!
+[flat.cell]---------------------
+[flat.cell]Test Logout Firefox-46_0-Darwin
+[flat.cell]Test execution time: 0:00:07.573000
+[flat.cell]Total_test: 2; Total_test_successful: 2; Total_test_failed: 0
+[flat.cell]No crash!
+[flat.cell]---------------------
+[flat.cell]Test Navigation Firefox-46_0-Darwin
+[flat.cell]Test execution time: 0:00:26.408000
+[flat.cell]Total_test: 5; Total_test_successful: 5; Total_test_failed: 0
+[flat.cell]No crash!
+[flat.cell]---------------------
+[flat.cell]Test Notification Firefox-46_0-Darwin
+[flat.cell]Test execution time: 0:00:00.025000
+[flat.cell]Total_test: 0; Total_test_successful: 0; Total_test_failed: 0
+[flat.cell]No crash!
+[flat.cell]---------------------
+[flat.cell]Test Privacy Policy Firefox-46_0-Darwin
+[flat.cell]Test execution time: 0:00:04.692000
+[flat.cell]Total_test: 4; Total_test_successful: 4; Total_test_failed: 0
+[flat.cell]No crash!
+[flat.cell]---------------------
+[flat.cell]Finished

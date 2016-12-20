@@ -1,0 +1,17 @@
+[green.pond]The test batch is ready.
+[green.pond]Startup
+[green.pond]Tear down
+[green.pond]The test batch is finished.
+[green.pond]******* TEST BATCH SUMMARY ********
+[green.pond]Total_test: 20; Total_test_successful: 20; Total_test_failed: 0
+[green.pond]Total execution time: 0:00:27.570000
+[green.pond]---------------------
+[green.pond]Failed tests:
+[green.pond]No test failed!
+[green.pond]---------------------
+[green.pond]Test Register Firefox-46_0-Darwin
+[green.pond]Test execution time: 0:00:24.143000
+[green.pond]Total_test: 20; Total_test_successful: 20; Total_test_failed: 0
+[green.pond]No crash!
+[green.pond]---------------------
+[green.pond]Finished

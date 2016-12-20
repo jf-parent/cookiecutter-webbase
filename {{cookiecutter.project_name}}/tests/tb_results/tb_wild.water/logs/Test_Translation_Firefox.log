@@ -1,0 +1,143 @@
+[wild.water](Test Translation):Loading state...
+[wild.water](Test Translation):No state found.
+[wild.water](Test Translation):Running...
+[wild.water](Test Translation):[App] Going to home...
+[wild.water](Test Translation):[debug]Initializing javascript error interception
+[wild.water](Test Translation):[App] Waiting until loaded...
+[wild.water](Test Translation):Waiting until present (sv:app_root_div)
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: True
+[wild.water](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[wild.water](Test Translation):Waiting until not visible (sv:app_loader)
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: True
+[wild.water](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[wild.water](Test Translation):[App] Changing locale...
+[wild.water](Test Translation):[debug]Finding element with selector: sv:locale_en_btn
+[wild.water](Test Translation):[debug]Finding elements with selector: sv:locale_en_btn
+[wild.water](Test Translation):[debug]effective raise_exception: True
+[wild.water](Test Translation):[debug]effective wait_until_present: True
+[wild.water](Test Translation):[debug]effective wait_until_visible: True
+[wild.water](Test Translation):Waiting until visible (sv:locale_en_btn)
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: False
+[wild.water](Test Translation):[debug]wait_until_visible (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): element is visible
+[wild.water](Test Translation):[debug]find_all (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): Element found
+[wild.water](Test Translation):[debug]find (sv:locale_en_btn): Element found
+[wild.water](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "en"]') (class: 'btn btn-link')] Clicking on element
+[wild.water](Test Translation):Waiting until clickable (sv:locale_en_btn)
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: True
+[wild.water](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//a[@data-locale = "en"]), raw selector (sv:locale_en_btn)): element is clickable
+[wild.water](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "en"]') (class: 'btn btn-link')] Highlighting element
+[wild.water](Test Translation):Assert visible selector(xp://*[contains(text(), 'Home')]) testid(#30)
+[wild.water](Test Translation):[debug]effective highlight: True
+[wild.water](Test Translation):[debug]effective wait_until_visible: True
+[wild.water](Test Translation):Waiting until visible (xp://*[contains(text(), 'Home')])
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: False
+[wild.water](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(text(), 'Home')]), raw selector (xp://*[contains(text(), 'Home')])): element is visible
+[wild.water](Test Translation):[debug]Finding element with selector: xp://*[contains(text(), 'Home')]
+[wild.water](Test Translation):[debug]Finding elements with selector: xp://*[contains(text(), 'Home')]
+[wild.water](Test Translation):[debug]effective raise_exception: False
+[wild.water](Test Translation):[debug]effective wait_until_present: False
+[wild.water](Test Translation):[debug]effective wait_until_visible: False
+[wild.water](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(text(), 'Home')]), raw selector (xp://*[contains(text(), 'Home')])): Element found
+[wild.water](Test Translation):[debug]find (xp://*[contains(text(), 'Home')]): Element found
+[wild.water](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] Is displayed
+[wild.water](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] is displayed
+[wild.water](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'Home')]')] Highlighting element
+[wild.water](Test Translation):Taking a screenshot...
+[wild.water](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_wild.water/assertion_screenshots/Firefox_46_0_Darwin/succeed_30_2016-10-14-13-57-16_Firefox_46_0_Darwin.png)
+[wild.water](Test Translation):[App] Changing locale...
+[wild.water](Test Translation):[debug]Finding element with selector: sv:locale_fr_btn
+[wild.water](Test Translation):[debug]Finding elements with selector: sv:locale_fr_btn
+[wild.water](Test Translation):[debug]effective raise_exception: True
+[wild.water](Test Translation):[debug]effective wait_until_present: True
+[wild.water](Test Translation):[debug]effective wait_until_visible: True
+[wild.water](Test Translation):Waiting until visible (sv:locale_fr_btn)
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: False
+[wild.water](Test Translation):[debug]wait_until_visible (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): element is visible
+[wild.water](Test Translation):[debug]find_all (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): Element found
+[wild.water](Test Translation):[debug]find (sv:locale_fr_btn): Element found
+[wild.water](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "fr"]') (class: 'btn btn-link')] Clicking on element
+[wild.water](Test Translation):Waiting until clickable (sv:locale_fr_btn)
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: True
+[wild.water](Test Translation):[debug]wait_until_clickable (Selector: effective selector (//a[@data-locale = "fr"]), raw selector (sv:locale_fr_btn)): element is clickable
+[wild.water](Test Translation):[debug][WebElement (selector: '//a[@data-locale = "fr"]') (class: 'btn btn-link')] Highlighting element
+[wild.water](Test Translation):Assert visible selector(xp://*[contains(text(), 'acceuil')]) testid(#30)
+[wild.water](Test Translation):[debug]effective highlight: True
+[wild.water](Test Translation):[debug]effective wait_until_visible: True
+[wild.water](Test Translation):Waiting until visible (xp://*[contains(text(), 'acceuil')])
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: False
+[wild.water](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[contains(text(), 'acceuil')]), raw selector (xp://*[contains(text(), 'acceuil')])): element is visible
+[wild.water](Test Translation):[debug]Finding element with selector: xp://*[contains(text(), 'acceuil')]
+[wild.water](Test Translation):[debug]Finding elements with selector: xp://*[contains(text(), 'acceuil')]
+[wild.water](Test Translation):[debug]effective raise_exception: False
+[wild.water](Test Translation):[debug]effective wait_until_present: False
+[wild.water](Test Translation):[debug]effective wait_until_visible: False
+[wild.water](Test Translation):[debug]find_all (Selector: effective selector (//*[contains(text(), 'acceuil')]), raw selector (xp://*[contains(text(), 'acceuil')])): Element found
+[wild.water](Test Translation):[debug]find (xp://*[contains(text(), 'acceuil')]): Element found
+[wild.water](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'acceuil')]')] Is displayed
+[wild.water](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'acceuil')]')] is displayed
+[wild.water](Test Translation):[debug][WebElement (selector: '//*[contains(text(), 'acceuil')]')] Highlighting element
+[wild.water](Test Translation):Taking a screenshot...
+[wild.water](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_wild.water/assertion_screenshots/Firefox_46_0_Darwin/succeed_30_2016-10-14-13-57-17_Firefox_46_0_Darwin.png)
+[wild.water](Test Translation):[App] Going to the profile page...
+[wild.water](Test Translation):[App] Opening the user dropdown...
+[wild.water](Test Translation):[debug]Finding element with selector: sv:header_user_dropdown
+[wild.water](Test Translation):[debug]Finding elements with selector: sv:header_user_dropdown
+[wild.water](Test Translation):[debug]effective raise_exception: True
+[wild.water](Test Translation):[debug]effective wait_until_present: True
+[wild.water](Test Translation):[debug]effective wait_until_visible: True
+[wild.water](Test Translation):Waiting until visible (sv:header_user_dropdown)
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: False
+[wild.water](Test Translation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is still not visible
+[wild.water](Test Translation):Waiting until present (sv:header_user_dropdown)
+[wild.water](Test Translation):[debug]effective timeout: 5
+[wild.water](Test Translation):[debug]effective raise_exception: True
+[wild.water](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is still not present
+[wild.water](Test Translation):[error]Test failed
+[wild.water](Test Translation):[error]Crash: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 409, in wait_until_present
+    (getattr(By, _selector.find_by), _selector.get_selector())
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp9cr7y2x3/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at FirefoxDriver.prototype.findElement (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp9cr7y2x3/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+    at DelayedCommand.prototype.executeInternal_/h (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp9cr7y2x3/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+    at DelayedCommand.prototype.executeInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp9cr7y2x3/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+    at DelayedCommand.prototype.execute/< (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmp9cr7y2x3/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_translation.py", line 28, in run
+    self.app.go_to_profile()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 42, in go_to_profile
+    self.open_user_dropdown()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 131, in open_user_dropdown
+    self.pdriver.find("sv:header_user_dropdown").click()
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 168, in find
+    elements = self.find_all(selector, **kwargs)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 270, in find_all
+    raise_exception=raise_exception
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 426, in wait_until_present
+    raise exceptions.TimeoutException(msg)
+selenium.common.exceptions.TimeoutException: Message: wait_until_present (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is still not present
+
+
+[wild.water](Test Translation):Creating a crash report
+[wild.water](Test Translation):Taking a screenshot...
+[wild.water](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_wild.water/crashes/Firefox_46.0_Darwin_-_Test_Translation.png)
+[wild.water](Test Translation):Test ended
+[wild.water](Test Translation):Quitting the browser...
+[wild.water](Test Translation):Ending timestamp: 2016-10-14 10:57:29.978010+00:00

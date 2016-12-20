@@ -1,0 +1,637 @@
+[royal.shadow](Test Register):Loading state...
+[royal.shadow](Test Register):No state found.
+[royal.shadow](Test Register):Running...
+[royal.shadow](Test Register):[App] Going to home...
+[royal.shadow](Test Register):[debug]Initializing javascript error interception
+[royal.shadow](Test Register):[App] Waiting until loaded...
+[royal.shadow](Test Register):Waiting until present (sv:app_root_div)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[royal.shadow](Test Register):Waiting until not visible (sv:app_loader)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[royal.shadow](Test Register):[App] Going to the register page...
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:header_register_link
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:header_register_link)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[royal.shadow](Test Register):[debug]find (sv:header_register_link): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item')] Clicking on element
+[royal.shadow](Test Register):Waiting until clickable (sv:header_register_link)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[royal.shadow](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item')] Highlighting element
+[royal.shadow](Test Register):[App] Waiting until loaded...
+[royal.shadow](Test Register):Waiting until present (sv:app_root_div)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[royal.shadow](Test Register):Waiting until not visible (sv:app_loader)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[royal.shadow](Test Register):Assert visible selector(sv:register_already_have_account_link) testid(#19)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-30-13-17-26_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Clicking on element
+[royal.shadow](Test Register):Waiting until clickable (sv:register_already_have_account_link)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is clickable
+[royal.shadow](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[royal.shadow](Test Register):[App] Waiting until loaded...
+[royal.shadow](Test Register):Waiting until present (sv:app_root_div)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[royal.shadow](Test Register):Waiting until not visible (sv:app_loader)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[royal.shadow](Test Register):Assert visible selector(sv:login_submit_btn) testid(#19)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:login_submit_btn)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:login_submit_btn
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:login_submit_btn
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[royal.shadow](Test Register):[debug]find (sv:login_submit_btn): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-30-13-17-27_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):[App] Going to the register page...
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:header_register_link
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:header_register_link)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[royal.shadow](Test Register):[debug]find (sv:header_register_link): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item active')] Clicking on element
+[royal.shadow](Test Register):Waiting until clickable (sv:header_register_link)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[royal.shadow](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item active')] Highlighting element
+[royal.shadow](Test Register):[App] Waiting until loaded...
+[royal.shadow](Test Register):Waiting until present (sv:app_root_div)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[royal.shadow](Test Register):Waiting until not visible (sv:app_loader)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[royal.shadow](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#20)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_20_2016-09-30-13-17-28_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_name_input_has_warning) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_name_input_has_warning)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_name_input_has_warning)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_name_input_has_warning
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_warning
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_name_input_has_warning)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_name_input_has_warning): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-name') (class: 'form-group has-warning')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-name') (class: 'form-group has-warning')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-name') (class: 'form-group has-warning')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-28_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_email_input_has_warning) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_email_input_has_warning)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_email_input_has_warning)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_email_input_has_warning
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_warning
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_email_input_has_warning)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_email_input_has_warning): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-29_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_password_input_has_warning) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_password_input_has_warning)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_password_input_has_warning)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_password_input_has_warning
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_warning
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_password_input_has_warning)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_password_input_has_warning): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-29_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_name_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_name_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_name_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_password_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_password_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_password_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_email_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_email_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_email_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):Assert visible selector(sv:register_name_input_has_success) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_name_input_has_success)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_name_input_has_success
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_success
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_name_input_has_success): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-32_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_password_input_has_success) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_password_input_has_success)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_password_input_has_success
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_success
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_password_input_has_success): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-32_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_email_input_has_error) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_email_input_has_error)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_email_input_has_error)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_email_input_has_error
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_error
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_email_input_has_error)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_email_input_has_error): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-33_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#21)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_21_2016-09-30-13-17-33_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):[App] Waiting until loaded...
+[royal.shadow](Test Register):Waiting until present (sv:app_root_div)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[royal.shadow](Test Register):Waiting until not visible (sv:app_loader)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_email_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_email_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_email_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_password_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_password_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_password_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_name_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_name_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_name_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):Assert visible selector(sv:register_name_input_has_error) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_name_input_has_error)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_name_input_has_error)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_name_input_has_error
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_error
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_name_input_has_error)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_name_input_has_error): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-name') (class: 'form-group has-error')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-name') (class: 'form-group has-error')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-name') (class: 'form-group has-error')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-36_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_password_input_has_success) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_password_input_has_success)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_password_input_has_success
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_success
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_password_input_has_success): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-37_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_email_input_has_success) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_email_input_has_success)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_email_input_has_success
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_success
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_email_input_has_success): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-37_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#22)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_22_2016-09-30-13-17-38_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):[App] Waiting until loaded...
+[royal.shadow](Test Register):Waiting until present (sv:app_root_div)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[royal.shadow](Test Register):Waiting until not visible (sv:app_loader)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_email_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_email_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_email_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_name_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_name_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_name_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_password_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_password_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_password_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):Assert visible selector(sv:register_name_input_has_success) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_name_input_has_success)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_name_input_has_success
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_success
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_name_input_has_success): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-41_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_password_input_has_error) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_password_input_has_error)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_password_input_has_error)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_password_input_has_error
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_error
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_password_input_has_error)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_password_input_has_error): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-password') (class: 'form-group has-error')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-42_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_email_input_has_success) testid(#32)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_email_input_has_success)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_email_input_has_success
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_success
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_email_input_has_success): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-17-42_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#23)
+[royal.shadow](Test Register):[debug]effective highlight: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]effective wait_until_present: False
+[royal.shadow](Test Register):[debug]effective wait_until_visible: False
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[royal.shadow](Test Register):Taking a screenshot...
+[royal.shadow](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_royal.shadow/assertion_screenshots/Firefox_46_0_Darwin/succeed_23_2016-09-30-13-17-43_Firefox_46_0_Darwin.png)
+[royal.shadow](Test Register):[App] Waiting until loaded...
+[royal.shadow](Test Register):Waiting until present (sv:app_root_div)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[royal.shadow](Test Register):Waiting until not visible (sv:app_loader)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_email_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_email_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_email_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_name_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_name_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_name_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_password_input
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_password_input)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_password_input): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[royal.shadow](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[royal.shadow](Test Register):[debug]Finding element with selector: sv:register_submit_btn
+[royal.shadow](Test Register):[debug]Finding elements with selector: sv:register_submit_btn
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):[debug]effective wait_until_present: True
+[royal.shadow](Test Register):[debug]effective wait_until_visible: True
+[royal.shadow](Test Register):Waiting until visible (sv:register_submit_btn)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: False
+[royal.shadow](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[royal.shadow](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[royal.shadow](Test Register):[debug]find (sv:register_submit_btn): Element found
+[royal.shadow](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Clicking on element
+[royal.shadow](Test Register):Waiting until clickable (sv:register_submit_btn)
+[royal.shadow](Test Register):[debug]effective timeout: 5
+[royal.shadow](Test Register):[debug]effective raise_exception: True
+[royal.shadow](Test Register):Test ended
+[royal.shadow](Test Register):Quitting the browser...
+[royal.shadow](Test Register):Ending timestamp: 2016-09-30 10:17:48.994180+00:00

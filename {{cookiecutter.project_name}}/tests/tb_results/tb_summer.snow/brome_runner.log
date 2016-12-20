@@ -1,0 +1,26 @@
+[summer.snow]The test batch is ready.
+[summer.snow]Startup
+[summer.snow]Tear down
+[summer.snow]Startup
+[summer.snow]Tear down
+[summer.snow]Startup
+[summer.snow]Test batch interrupted
+[summer.snow]The test batch is finished.
+[summer.snow]******* TEST BATCH SUMMARY ********
+[summer.snow]Total_test: 22; Total_test_successful: 21; Total_test_failed: 1
+[summer.snow]Total execution time: 0:01:59.650000
+[summer.snow]---------------------
+[summer.snow]Failed tests:
+[summer.snow][#28] Navigation: the user is automatically redirect to the login page if he try to access restricted page.
+[summer.snow]---------------------
+[summer.snow]Test Login Firefox-46_0-Darwin
+[summer.snow]Test execution time: 0:00:29.244000
+[summer.snow]Total_test: 17; Total_test_successful: 17; Total_test_failed: 0
+[summer.snow]No crash!
+[summer.snow]---------------------
+[summer.snow]Test Logout Firefox-46_0-Darwin
+[summer.snow]Test execution time: 0:00:07.122000
+[summer.snow]Total_test: 2; Total_test_successful: 2; Total_test_failed: 0
+[summer.snow]No crash!
+[summer.snow]---------------------
+[summer.snow]Finished

@@ -1,0 +1,558 @@
+[cool.sky](Test Navigation):Loading state...
+[cool.sky](Test Navigation):State loaded.
+[cool.sky](Test Navigation):Running...
+[cool.sky](Test Navigation):[App] Registering user...
+[cool.sky](Test Navigation):[App] Going to home...
+[cool.sky](Test Navigation):[debug]Initializing javascript error interception
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[App] Register...
+[cool.sky](Test Navigation):[App] Going to the register page...
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_register_link
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_register_link
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_register_link)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:header_register_link): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:header_register_link)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:register_email_input
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:register_email_input
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:register_email_input)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:register_email_input): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:register_name_input
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:register_name_input
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:register_name_input)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:register_name_input): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:register_password_input
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:register_password_input
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:register_password_input)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:register_password_input): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:register_submit_btn
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:register_submit_btn
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:register_submit_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:register_submit_btn): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:register_submit_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[App] Going to home...
+[cool.sky](Test Navigation):[debug]Initializing javascript error interception
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[App] Going to the profile page...
+[cool.sky](Test Navigation):[App] Opening the user dropdown...
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[cool.sky](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_profile_link)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[App] Going to home...
+[cool.sky](Test Navigation):[debug]Initializing javascript error interception
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#25)
+[cool.sky](Test Navigation):[debug]effective highlight: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]effective wait_until_present: False
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: False
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[cool.sky](Test Navigation):Taking a screenshot...
+[cool.sky](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_cool.sky/assertion_screenshots/Firefox_46_0_Darwin/succeed_25_2016-10-14-14-30-41_Firefox_46_0_Darwin.png)
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[App] Going to home...
+[cool.sky](Test Navigation):[debug]Initializing javascript error interception
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[debug]Initializing javascript error interception
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[App] Going to the profile page...
+[cool.sky](Test Navigation):[App] Opening the user dropdown...
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[cool.sky](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_profile_link)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#26)
+[cool.sky](Test Navigation):[debug]effective highlight: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]effective wait_until_present: False
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: False
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[cool.sky](Test Navigation):Taking a screenshot...
+[cool.sky](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_cool.sky/assertion_screenshots/Firefox_46_0_Darwin/succeed_26_2016-10-14-14-30-46_Firefox_46_0_Darwin.png)
+[cool.sky](Test Navigation):[App] Logout...
+[cool.sky](Test Navigation):[App] Opening the user dropdown...
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[cool.sky](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_logout_btn
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_logout_btn
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_logout_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:header_logout_btn): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:header_logout_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[debug]Initializing javascript error interception
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):Assert visible selector(sv:login_submit_btn) testid(#28)
+[cool.sky](Test Navigation):[debug]effective highlight: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]effective wait_until_present: False
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: False
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[cool.sky](Test Navigation):Taking a screenshot...
+[cool.sky](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_cool.sky/assertion_screenshots/Firefox_46_0_Darwin/succeed_28_2016-10-14-14-30-48_Firefox_46_0_Darwin.png)
+[cool.sky](Test Navigation):[App] Login...
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:login_email_input
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:login_email_input
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:login_email_input)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:login_email_input): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:login_password_input
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:login_password_input
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:login_password_input)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:login_password_input): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:login_submit_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):Assert visible selector(sv:component_library_page) testid(#29)
+[cool.sky](Test Navigation):[debug]effective highlight: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:component_library_page)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "components-library-page"]), raw selector (sv:component_library_page)): element is visible
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:component_library_page
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:component_library_page
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]effective wait_until_present: False
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: False
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "components-library-page"]), raw selector (sv:component_library_page)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:component_library_page): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "components-library-page"]') (name: 'components-library-page')] Is displayed
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "components-library-page"]') (name: 'components-library-page')] is displayed
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "components-library-page"]') (name: 'components-library-page')] Highlighting element
+[cool.sky](Test Navigation):Taking a screenshot...
+[cool.sky](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_cool.sky/assertion_screenshots/Firefox_46_0_Darwin/succeed_29_2016-10-14-14-30-51_Firefox_46_0_Darwin.png)
+[cool.sky](Test Navigation):[App] Logout...
+[cool.sky](Test Navigation):[App] Opening the user dropdown...
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[cool.sky](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_logout_btn
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_logout_btn
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_logout_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[cool.sky](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[cool.sky](Test Navigation):[debug]find (sv:header_logout_btn): Element found
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[cool.sky](Test Navigation):Waiting until clickable (sv:header_logout_btn)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[cool.sky](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[App] Waiting until loaded...
+[cool.sky](Test Navigation):Waiting until present (sv:app_root_div)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[cool.sky](Test Navigation):Waiting until not visible (sv:app_loader)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[cool.sky](Test Navigation):[App] Login...
+[cool.sky](Test Navigation):[App] Going to the login page...
+[cool.sky](Test Navigation):[debug]Finding element with selector: sv:header_login_link
+[cool.sky](Test Navigation):[debug]Finding elements with selector: sv:header_login_link
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]effective wait_until_present: True
+[cool.sky](Test Navigation):[debug]effective wait_until_visible: True
+[cool.sky](Test Navigation):Waiting until visible (sv:header_login_link)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: False
+[cool.sky](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is still not visible
+[cool.sky](Test Navigation):Waiting until present (sv:header_login_link)
+[cool.sky](Test Navigation):[debug]effective timeout: 5
+[cool.sky](Test Navigation):[debug]effective raise_exception: True
+[cool.sky](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is still not present
+[cool.sky](Test Navigation):[error]Test failed
+[cool.sky](Test Navigation):[error]Crash: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 409, in wait_until_present
+    (getattr(By, _selector.find_by), _selector.get_selector())
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpkqmqkh7n/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at FirefoxDriver.prototype.findElement (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpkqmqkh7n/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+    at DelayedCommand.prototype.executeInternal_/h (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpkqmqkh7n/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+    at DelayedCommand.prototype.executeInternal_ (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpkqmqkh7n/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+    at DelayedCommand.prototype.execute/< (file:///var/folders/jj/4xxdfpz97_x6rnv6p2vw47nh0000gn/T/tmpkqmqkh7n/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_navigation.py", line 52, in run
+    self.app.login(user)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 157, in login
+    self.go_to_login()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 28, in go_to_login
+    self.pdriver.find("sv:header_login_link").click()
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 168, in find
+    elements = self.find_all(selector, **kwargs)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 270, in find_all
+    raise_exception=raise_exception
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 426, in wait_until_present
+    raise exceptions.TimeoutException(msg)
+selenium.common.exceptions.TimeoutException: Message: wait_until_present (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is still not present
+
+
+[cool.sky](Test Navigation):Creating a crash report
+[cool.sky](Test Navigation):Taking a screenshot...
+[cool.sky](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_cool.sky/crashes/Firefox_46.0_Darwin_-_Test_Navigation.png)
+[cool.sky](Test Navigation):Test ended
+[cool.sky](Test Navigation):Quitting the browser...

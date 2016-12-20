@@ -1,0 +1,12 @@
+[old.recipe]The test batch is ready.
+[old.recipe]Startup
+[old.recipe]Test batch interrupted
+[old.recipe]The test batch is finished.
+[old.recipe]******* TEST BATCH SUMMARY ********
+[old.recipe]Total_test: 2; Total_test_successful: 2; Total_test_failed: 0
+[old.recipe]Total execution time: 0:00:21.391000
+[old.recipe]---------------------
+[old.recipe]Failed tests:
+[old.recipe]No test failed!
+[old.recipe]---------------------
+[old.recipe]Finished

@@ -1,0 +1,12 @@
+[royal.shadow]The test batch is ready.
+[royal.shadow]Startup
+[royal.shadow]Test batch interrupted
+[royal.shadow]The test batch is finished.
+[royal.shadow]******* TEST BATCH SUMMARY ********
+[royal.shadow]Total_test: 18; Total_test_successful: 18; Total_test_failed: 0
+[royal.shadow]Total execution time: 0:00:28.370000
+[royal.shadow]---------------------
+[royal.shadow]Failed tests:
+[royal.shadow]No test failed!
+[royal.shadow]---------------------
+[royal.shadow]Finished

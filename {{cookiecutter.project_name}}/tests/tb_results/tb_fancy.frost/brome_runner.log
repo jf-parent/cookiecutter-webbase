@@ -1,0 +1,12 @@
+[fancy.frost]The test batch is ready.
+[fancy.frost]Startup
+[fancy.frost]Test batch interrupted
+[fancy.frost]The test batch is finished.
+[fancy.frost]******* TEST BATCH SUMMARY ********
+[fancy.frost]Total_test: 0; Total_test_successful: 0; Total_test_failed: 0
+[fancy.frost]Total execution time: 0:00:17.152000
+[fancy.frost]---------------------
+[fancy.frost]Failed tests:
+[fancy.frost]No test failed!
+[fancy.frost]---------------------
+[fancy.frost]Finished

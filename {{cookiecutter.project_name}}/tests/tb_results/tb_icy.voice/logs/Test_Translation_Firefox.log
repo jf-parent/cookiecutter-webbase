@@ -1,0 +1,28 @@
+[icy.voice](Test Translation):Loading state...
+[icy.voice](Test Translation):No state found.
+[icy.voice](Test Translation):Running...
+[icy.voice](Test Translation):[App] Going to home...
+[icy.voice](Test Translation):[debug]Initializing javascript error interception
+[icy.voice](Test Translation):[App] Waiting until loaded...
+[icy.voice](Test Translation):Waiting until present (sv:app_root_div)
+[icy.voice](Test Translation):[debug]effective timeout: 5
+[icy.voice](Test Translation):[debug]effective raise_exception: True
+[icy.voice](Test Translation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[icy.voice](Test Translation):Waiting until not visible (sv:app_loader)
+[icy.voice](Test Translation):[debug]effective timeout: 5
+[icy.voice](Test Translation):[debug]effective raise_exception: True
+[icy.voice](Test Translation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[icy.voice](Test Translation):[error]Test failed
+[icy.voice](Test Translation):[error]Crash: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_translation.py", line 14, in run
+    self.app.change_locale('en')
+AttributeError: 'App' object has no attribute 'change_locale'
+
+[icy.voice](Test Translation):Creating a crash report
+[icy.voice](Test Translation):Taking a screenshot...
+[icy.voice](Test Translation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_icy.voice/crashes/Firefox_46.0_Darwin_-_Test_Translation.png)
+[icy.voice](Test Translation):Test ended
+[icy.voice](Test Translation):Quitting the browser...
+[icy.voice](Test Translation):Ending timestamp: 2016-09-23 12:43:10.348334+00:00

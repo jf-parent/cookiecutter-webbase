@@ -1,0 +1,498 @@
+[calm.base](Test Register):Loading state...
+[calm.base](Test Register):No state found.
+[calm.base](Test Register):Running...
+[calm.base](Test Register):[App] Going to home...
+[calm.base](Test Register):[debug]Initializing javascript error interception
+[calm.base](Test Register):[App] Waiting until loaded...
+[calm.base](Test Register):Waiting until present (sv:app_root_div)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[calm.base](Test Register):Waiting until not visible (sv:app_loader)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[calm.base](Test Register):[App] Going to the register page...
+[calm.base](Test Register):[debug]Finding element with selector: sv:header_register_link
+[calm.base](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:header_register_link)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[calm.base](Test Register):[debug]find (sv:header_register_link): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item')] Clicking on element
+[calm.base](Test Register):Waiting until clickable (sv:header_register_link)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[calm.base](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item')] Highlighting element
+[calm.base](Test Register):[App] Waiting until loaded...
+[calm.base](Test Register):Waiting until present (sv:app_root_div)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[calm.base](Test Register):Waiting until not visible (sv:app_loader)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[calm.base](Test Register):Assert visible selector(sv:register_already_have_account_link) testid(#19)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[calm.base](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-30-13-16-05_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[calm.base](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Clicking on element
+[calm.base](Test Register):Waiting until clickable (sv:register_already_have_account_link)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is clickable
+[calm.base](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[calm.base](Test Register):[App] Waiting until loaded...
+[calm.base](Test Register):Waiting until present (sv:app_root_div)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[calm.base](Test Register):Waiting until not visible (sv:app_loader)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[calm.base](Test Register):Assert visible selector(sv:login_submit_btn) testid(#19)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:login_submit_btn)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:login_submit_btn
+[calm.base](Test Register):[debug]Finding elements with selector: sv:login_submit_btn
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[calm.base](Test Register):[debug]find (sv:login_submit_btn): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-30-13-16-06_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):[App] Going to the register page...
+[calm.base](Test Register):[debug]Finding element with selector: sv:header_register_link
+[calm.base](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:header_register_link)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[calm.base](Test Register):[debug]find (sv:header_register_link): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item active')] Clicking on element
+[calm.base](Test Register):Waiting until clickable (sv:header_register_link)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[calm.base](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item active')] Highlighting element
+[calm.base](Test Register):[App] Waiting until loaded...
+[calm.base](Test Register):Waiting until present (sv:app_root_div)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[calm.base](Test Register):Waiting until not visible (sv:app_loader)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[calm.base](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#20)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[calm.base](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_20_2016-09-30-13-16-07_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):Assert visible selector(sv:register_name_input_has_warning) testid(#32)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_name_input_has_warning)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_name_input_has_warning)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_name_input_has_warning
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_warning
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_name_input_has_warning)): Element found
+[calm.base](Test Register):[debug]find (sv:register_name_input_has_warning): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-name') (class: 'form-group has-warning')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-name') (class: 'form-group has-warning')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-name') (class: 'form-group has-warning')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-16-07_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):Assert visible selector(sv:register_email_input_has_warning) testid(#32)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_email_input_has_warning)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_email_input_has_warning)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_email_input_has_warning
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_warning
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_email_input_has_warning)): Element found
+[calm.base](Test Register):[debug]find (sv:register_email_input_has_warning): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-email') (class: 'form-group has-warning')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-16-08_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):Assert visible selector(sv:register_password_input_has_warning) testid(#32)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_password_input_has_warning)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_password_input_has_warning)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_password_input_has_warning
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_warning
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]), raw selector (sv:register_password_input_has_warning)): Element found
+[calm.base](Test Register):[debug]find (sv:register_password_input_has_warning): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-warning")]') (name: 'form-control-password') (class: 'form-group has-warning')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-16-08_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_name_input
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_name_input)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[calm.base](Test Register):[debug]find (sv:register_name_input): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_password_input
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_password_input)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[calm.base](Test Register):[debug]find (sv:register_password_input): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_email_input
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_email_input)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[calm.base](Test Register):[debug]find (sv:register_email_input): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[calm.base](Test Register):Assert visible selector(sv:register_name_input_has_success) testid(#32)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_name_input_has_success)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_name_input_has_success
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_success
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_name_input_has_success)): Element found
+[calm.base](Test Register):[debug]find (sv:register_name_input_has_success): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-name') (class: 'form-group has-success')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-16-10_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):Assert visible selector(sv:register_password_input_has_success) testid(#32)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_password_input_has_success)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_password_input_has_success
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_success
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): Element found
+[calm.base](Test Register):[debug]find (sv:register_password_input_has_success): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-16-11_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):Assert visible selector(sv:register_email_input_has_error) testid(#32)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_email_input_has_error)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_email_input_has_error)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_email_input_has_error
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_error
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_email_input_has_error)): Element found
+[calm.base](Test Register):[debug]find (sv:register_email_input_has_error): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-email') (class: 'form-group has-error')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-16-11_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#21)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[calm.base](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_21_2016-09-30-13-16-12_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):[App] Waiting until loaded...
+[calm.base](Test Register):Waiting until present (sv:app_root_div)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[calm.base](Test Register):Waiting until not visible (sv:app_loader)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_email_input
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_email_input)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[calm.base](Test Register):[debug]find (sv:register_email_input): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_password_input
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_password_input)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[calm.base](Test Register):[debug]find (sv:register_password_input): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_name_input
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_name_input)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[calm.base](Test Register):[debug]find (sv:register_name_input): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[calm.base](Test Register):Assert visible selector(sv:register_name_input_has_error) testid(#32)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_name_input_has_error)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_name_input_has_error)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_name_input_has_error
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_name_input_has_error
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]), raw selector (sv:register_name_input_has_error)): Element found
+[calm.base](Test Register):[debug]find (sv:register_name_input_has_error): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-name') (class: 'form-group has-error')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-name') (class: 'form-group has-error')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]//ancestor::div[contains(@class, "has-error")]') (name: 'form-control-name') (class: 'form-group has-error')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-16-15_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):Assert visible selector(sv:register_password_input_has_success) testid(#32)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_password_input_has_success)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_password_input_has_success
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_password_input_has_success
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_password_input_has_success)): Element found
+[calm.base](Test Register):[debug]find (sv:register_password_input_has_success): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-password') (class: 'form-group has-success')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-16-16_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):Assert visible selector(sv:register_email_input_has_success) testid(#32)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_email_input_has_success)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_email_input_has_success
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_email_input_has_success
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]), raw selector (sv:register_email_input_has_success)): Element found
+[calm.base](Test Register):[debug]find (sv:register_email_input_has_success): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]//ancestor::div[contains(@class, "has-success")]') (name: 'form-control-email') (class: 'form-group has-success')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_32_2016-09-30-13-16-16_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):Assert visible selector(sv:register_submit_btn_disabled) testid(#22)
+[calm.base](Test Register):[debug]effective highlight: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_submit_btn_disabled)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): element is visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_submit_btn_disabled
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_submit_btn_disabled
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]effective wait_until_present: False
+[calm.base](Test Register):[debug]effective wait_until_visible: False
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "register-btn" and @disabled]), raw selector (sv:register_submit_btn_disabled)): Element found
+[calm.base](Test Register):[debug]find (sv:register_submit_btn_disabled): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[calm.base](Test Register):[debug][WebElement (selector: '//button[@name = "register-btn" and @disabled]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[calm.base](Test Register):Taking a screenshot...
+[calm.base](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_calm.base/assertion_screenshots/Firefox_46_0_Darwin/succeed_22_2016-09-30-13-16-17_Firefox_46_0_Darwin.png)
+[calm.base](Test Register):[App] Waiting until loaded...
+[calm.base](Test Register):Waiting until present (sv:app_root_div)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[calm.base](Test Register):Waiting until not visible (sv:app_loader)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_email_input
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_email_input
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_email_input)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[calm.base](Test Register):[debug]find (sv:register_email_input): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_name_input
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_name_input
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_name_input)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[calm.base](Test Register):[debug]find (sv:register_name_input): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[calm.base](Test Register):[debug]Finding element with selector: sv:register_password_input
+[calm.base](Test Register):[debug]Finding elements with selector: sv:register_password_input
+[calm.base](Test Register):[debug]effective raise_exception: True
+[calm.base](Test Register):[debug]effective wait_until_present: True
+[calm.base](Test Register):[debug]effective wait_until_visible: True
+[calm.base](Test Register):Waiting until visible (sv:register_password_input)
+[calm.base](Test Register):[debug]effective timeout: 5
+[calm.base](Test Register):[debug]effective raise_exception: False
+[calm.base](Test Register):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[calm.base](Test Register):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[calm.base](Test Register):[debug]find (sv:register_password_input): Element found
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[calm.base](Test Register):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[calm.base](Test Register):Test ended
+[calm.base](Test Register):Quitting the browser...
+[calm.base](Test Register):Ending timestamp: 2016-09-30 10:16:19.759919+00:00

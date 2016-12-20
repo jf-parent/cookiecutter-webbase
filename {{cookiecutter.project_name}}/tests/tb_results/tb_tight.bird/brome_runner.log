@@ -1,0 +1,17 @@
+[tight.bird]The test batch is ready.
+[tight.bird]Startup
+[tight.bird]Tear down
+[tight.bird]The test batch is finished.
+[tight.bird]******* TEST BATCH SUMMARY ********
+[tight.bird]Total_test: 5; Total_test_successful: 5; Total_test_failed: 0
+[tight.bird]Total execution time: 0:00:23.598000
+[tight.bird]---------------------
+[tight.bird]Failed tests:
+[tight.bird]No test failed!
+[tight.bird]---------------------
+[tight.bird]Test Translation Firefox-46_0-Darwin
+[tight.bird]Test execution time: 0:00:20.178000
+[tight.bird]Total_test: 5; Total_test_successful: 5; Total_test_failed: 0
+[tight.bird]No crash!
+[tight.bird]---------------------
+[tight.bird]Finished

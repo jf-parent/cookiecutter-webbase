@@ -1,0 +1,17 @@
+[jolly.firefly]The test batch is ready.
+[jolly.firefly]Startup
+[jolly.firefly]Tear down
+[jolly.firefly]The test batch is finished.
+[jolly.firefly]******* TEST BATCH SUMMARY ********
+[jolly.firefly]Total_test: 17; Total_test_successful: 17; Total_test_failed: 0
+[jolly.firefly]Total execution time: 0:00:31.844000
+[jolly.firefly]---------------------
+[jolly.firefly]Failed tests:
+[jolly.firefly]No test failed!
+[jolly.firefly]---------------------
+[jolly.firefly]Test Login Firefox-46_0-Darwin
+[jolly.firefly]Test execution time: 0:00:28.430000
+[jolly.firefly]Total_test: 17; Total_test_successful: 17; Total_test_failed: 0
+[jolly.firefly]No crash!
+[jolly.firefly]---------------------
+[jolly.firefly]Finished

@@ -1,0 +1,105 @@
+[restless.butterfly](Test Register):Loading state...
+[restless.butterfly](Test Register):No state found.
+[restless.butterfly](Test Register):Running...
+[restless.butterfly](Test Register):[App] Going to home...
+[restless.butterfly](Test Register):[debug]Initializing javascript error interception
+[restless.butterfly](Test Register):[App] Waiting until loaded...
+[restless.butterfly](Test Register):Waiting until present (sv:app_root_div)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[restless.butterfly](Test Register):Waiting until not visible (sv:app_loader)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[restless.butterfly](Test Register):[App] Going to the register page...
+[restless.butterfly](Test Register):[debug]Finding element with selector: sv:header_register_link
+[restless.butterfly](Test Register):[debug]Finding elements with selector: sv:header_register_link
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]effective wait_until_present: True
+[restless.butterfly](Test Register):[debug]effective wait_until_visible: True
+[restless.butterfly](Test Register):Waiting until visible (sv:header_register_link)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: False
+[restless.butterfly](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[restless.butterfly](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[restless.butterfly](Test Register):[debug]find (sv:header_register_link): Element found
+[restless.butterfly](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item')] Clicking on element
+[restless.butterfly](Test Register):Waiting until clickable (sv:header_register_link)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[restless.butterfly](Test Register):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link') (class: 'sidebar-nav-item')] Highlighting element
+[restless.butterfly](Test Register):[App] Waiting until loaded...
+[restless.butterfly](Test Register):Waiting until present (sv:app_root_div)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[restless.butterfly](Test Register):Waiting until not visible (sv:app_loader)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[restless.butterfly](Test Register):Assert visible selector(sv:register_already_have_account_link) testid(#19)
+[restless.butterfly](Test Register):[debug]effective highlight: True
+[restless.butterfly](Test Register):[debug]effective wait_until_visible: True
+[restless.butterfly](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: False
+[restless.butterfly](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[restless.butterfly](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[restless.butterfly](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[restless.butterfly](Test Register):[debug]effective raise_exception: False
+[restless.butterfly](Test Register):[debug]effective wait_until_present: False
+[restless.butterfly](Test Register):[debug]effective wait_until_visible: False
+[restless.butterfly](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[restless.butterfly](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[restless.butterfly](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Is displayed
+[restless.butterfly](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] is displayed
+[restless.butterfly](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[restless.butterfly](Test Register):Taking a screenshot...
+[restless.butterfly](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_restless.butterfly/assertion_screenshots/Firefox_46_0_Darwin/succeed_19_2016-09-30-13-12-10_Firefox_46_0_Darwin.png)
+[restless.butterfly](Test Register):[debug]Finding element with selector: sv:register_already_have_account_link
+[restless.butterfly](Test Register):[debug]Finding elements with selector: sv:register_already_have_account_link
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]effective wait_until_present: True
+[restless.butterfly](Test Register):[debug]effective wait_until_visible: True
+[restless.butterfly](Test Register):Waiting until visible (sv:register_already_have_account_link)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: False
+[restless.butterfly](Test Register):[debug]wait_until_visible (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is visible
+[restless.butterfly](Test Register):[debug]find_all (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): Element found
+[restless.butterfly](Test Register):[debug]find (sv:register_already_have_account_link): Element found
+[restless.butterfly](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Clicking on element
+[restless.butterfly](Test Register):Waiting until clickable (sv:register_already_have_account_link)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "already-having-account-link"]), raw selector (sv:register_already_have_account_link)): element is clickable
+[restless.butterfly](Test Register):[debug][WebElement (selector: '//*[@name = "already-having-account-link"]') (name: 'already-having-account-link')] Highlighting element
+[restless.butterfly](Test Register):[App] Waiting until loaded...
+[restless.butterfly](Test Register):Waiting until present (sv:app_root_div)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[restless.butterfly](Test Register):Waiting until not visible (sv:app_loader)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: True
+[restless.butterfly](Test Register):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[restless.butterfly](Test Register):Assert visible selector(sv:login_submit_btn) testid(#19)
+[restless.butterfly](Test Register):[debug]effective highlight: True
+[restless.butterfly](Test Register):[debug]effective wait_until_visible: True
+[restless.butterfly](Test Register):Waiting until visible (sv:login_submit_btn)
+[restless.butterfly](Test Register):[debug]effective timeout: 5
+[restless.butterfly](Test Register):[debug]effective raise_exception: False
+[restless.butterfly](Test Register):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is still not visible
+[restless.butterfly](Test Register):[debug]Finding element with selector: sv:login_submit_btn
+[restless.butterfly](Test Register):[debug]Finding elements with selector: sv:login_submit_btn
+[restless.butterfly](Test Register):[debug]effective raise_exception: False
+[restless.butterfly](Test Register):[debug]effective wait_until_present: False
+[restless.butterfly](Test Register):[debug]effective wait_until_visible: False
+[restless.butterfly](Test Register):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): No element found
+[restless.butterfly](Test Register):[debug]find (sv:login_submit_btn): No element found
+[restless.butterfly](Test Register):Taking a screenshot...
+[restless.butterfly](Test Register):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_restless.butterfly/assertion_screenshots/Firefox_46_0_Darwin/failed_19_2016-09-30-13-12-16_Firefox_46_0_Darwin.png)
+[restless.butterfly](Test Register):Test ended
+[restless.butterfly](Test Register):Quitting the browser...
+[restless.butterfly](Test Register):Ending timestamp: 2016-09-30 10:12:18.122895+00:00

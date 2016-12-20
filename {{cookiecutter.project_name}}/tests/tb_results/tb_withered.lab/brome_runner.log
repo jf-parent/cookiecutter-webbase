@@ -1,0 +1,12 @@
+[withered.lab]The test batch is ready.
+[withered.lab]Startup
+[withered.lab]Test batch interrupted
+[withered.lab]The test batch is finished.
+[withered.lab]******* TEST BATCH SUMMARY ********
+[withered.lab]Total_test: 4; Total_test_successful: 4; Total_test_failed: 0
+[withered.lab]Total execution time: 0:00:26.517000
+[withered.lab]---------------------
+[withered.lab]Failed tests:
+[withered.lab]No test failed!
+[withered.lab]---------------------
+[withered.lab]Finished

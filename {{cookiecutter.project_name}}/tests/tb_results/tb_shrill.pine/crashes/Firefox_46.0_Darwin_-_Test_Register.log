@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/selector.py", line 42, in __init__
+    xpath_test.xpath(self.get_selector())
+  File "lxml.etree.pyx", line 2175, in lxml.etree._ElementTree.xpath (src/lxml/lxml.etree.c:59914)
+  File "xpath.pxi", line 359, in lxml.etree.XPathDocumentEvaluator.__call__ (src/lxml/lxml.etree.c:152551)
+  File "xpath.pxi", line 227, in lxml.etree._XPathEvaluatorBase._handle_result (src/lxml/lxml.etree.c:150914)
+  File "xpath.pxi", line 213, in lxml.etree._XPathEvaluatorBase._raise_eval_error (src/lxml/lxml.etree.c:150767)
+lxml.etree.XPathEvalError: Invalid expression
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_register.py", line 52, in run
+    "#32"
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 1192, in assert_visible
+    self.wait_until_visible(selector, raise_exception=False)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/proxy_driver.py", line 526, in wait_until_visible
+    _selector = Selector(self, selector)
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/selector.py", line 44, in __init__
+    raise Exception("Invalid xpath: %s" % self.get_selector())
+Exception: Invalid xpath: //input[@name = "name"]..//[contains(@class, "has-success")]

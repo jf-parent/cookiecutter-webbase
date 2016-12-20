@@ -1,0 +1,17 @@
+[plain.dew]The test batch is ready.
+[plain.dew]Startup
+[plain.dew]Tear down
+[plain.dew]The test batch is finished.
+[plain.dew]******* TEST BATCH SUMMARY ********
+[plain.dew]Total_test: 5; Total_test_successful: 5; Total_test_failed: 0
+[plain.dew]Total execution time: 0:00:24.966000
+[plain.dew]---------------------
+[plain.dew]Failed tests:
+[plain.dew]No test failed!
+[plain.dew]---------------------
+[plain.dew]Test Navigation Firefox-46_0-Darwin
+[plain.dew]Test execution time: 0:00:21.515000
+[plain.dew]Total_test: 5; Total_test_successful: 5; Total_test_failed: 0
+[plain.dew]No crash!
+[plain.dew]---------------------
+[plain.dew]Finished

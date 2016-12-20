@@ -1,0 +1,14 @@
+Firefox:
+  browserName: 'Firefox'
+
+Chrome:
+  browserName: 'Chrome'
+
+PhantomJS:
+  browserName: 'PhantomJS'
+
+EdgeSL:
+  saucelabs: True
+  browserName: 'MicrosoftEdge'
+  platform: 'Windows 10'
+  version: '13.10586'

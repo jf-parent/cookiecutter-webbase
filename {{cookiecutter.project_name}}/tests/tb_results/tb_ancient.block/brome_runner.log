@@ -1,0 +1,12 @@
+[ancient.block]The test batch is ready.
+[ancient.block]Startup
+[ancient.block]Test batch interrupted
+[ancient.block]The test batch is finished.
+[ancient.block]******* TEST BATCH SUMMARY ********
+[ancient.block]Total_test: 0; Total_test_successful: 0; Total_test_failed: 0
+[ancient.block]Total execution time: 0:00:11.679000
+[ancient.block]---------------------
+[ancient.block]Failed tests:
+[ancient.block]No test failed!
+[ancient.block]---------------------
+[ancient.block]Finished

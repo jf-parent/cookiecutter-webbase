@@ -1,0 +1,12 @@
+[mute.resonance]The test batch is ready.
+[mute.resonance]Startup
+[mute.resonance]Test batch interrupted
+[mute.resonance]The test batch is finished.
+[mute.resonance]******* TEST BATCH SUMMARY ********
+[mute.resonance]Total_test: 3; Total_test_successful: 3; Total_test_failed: 0
+[mute.resonance]Total execution time: 0:00:22.519000
+[mute.resonance]---------------------
+[mute.resonance]Failed tests:
+[mute.resonance]No test failed!
+[mute.resonance]---------------------
+[mute.resonance]Finished

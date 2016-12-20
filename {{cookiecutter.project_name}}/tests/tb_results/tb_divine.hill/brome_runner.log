@@ -1,0 +1,25 @@
+[divine.hill]The test batch is ready.
+[divine.hill]Startup
+[divine.hill]Tear down
+[divine.hill]The test batch is finished.
+[divine.hill]******* TEST BATCH SUMMARY ********
+[divine.hill]Total_test: 2; Total_test_successful: 2; Total_test_failed: 0
+[divine.hill]Total execution time: 0:00:21.122000
+[divine.hill]---------------------
+[divine.hill]Failed tests:
+[divine.hill]No test failed!
+[divine.hill]---------------------
+[divine.hill]Test Navigation Firefox-46_0-Darwin
+[divine.hill]Test execution time: 0:00:17.717000
+[divine.hill]Total_test: 2; Total_test_successful: 2; Total_test_failed: 0
+[divine.hill][!]Test Navigation Firefox crashed: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_navigation.py", line 36, in run
+    self.app.logout()
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/model/app.py", line 175, in logout
+    sleep(2)
+NameError: name 'sleep' is not defined
+
+[divine.hill]---------------------
+[divine.hill]Finished

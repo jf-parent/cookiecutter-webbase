@@ -1,0 +1,136 @@
+[fancy.frost](Test Navigation):Loading state...
+[fancy.frost](Test Navigation):State loaded.
+[fancy.frost](Test Navigation):Running...
+[fancy.frost](Test Navigation):[App] Registering user...
+[fancy.frost](Test Navigation):[App] Going to home...
+[fancy.frost](Test Navigation):[debug]Initializing javascript error interception
+[fancy.frost](Test Navigation):[App] Waiting until loaded...
+[fancy.frost](Test Navigation):Waiting until present (sv:app_root_div)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[fancy.frost](Test Navigation):Waiting until not visible (sv:app_loader)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[fancy.frost](Test Navigation):[App] Register...
+[fancy.frost](Test Navigation):[App] Going to the register page...
+[fancy.frost](Test Navigation):[debug]Finding element with selector: sv:header_register_link
+[fancy.frost](Test Navigation):[debug]Finding elements with selector: sv:header_register_link
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_present: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_visible: True
+[fancy.frost](Test Navigation):Waiting until visible (sv:header_register_link)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: False
+[fancy.frost](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is visible
+[fancy.frost](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): Element found
+[fancy.frost](Test Navigation):[debug]find (sv:header_register_link): Element found
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Clicking on element
+[fancy.frost](Test Navigation):Waiting until clickable (sv:header_register_link)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "register-link"]), raw selector (sv:header_register_link)): element is clickable
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//*[@name = "register-link"]') (name: 'register-link')] Highlighting element
+[fancy.frost](Test Navigation):[App] Waiting until loaded...
+[fancy.frost](Test Navigation):Waiting until present (sv:app_root_div)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[fancy.frost](Test Navigation):Waiting until not visible (sv:app_loader)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[fancy.frost](Test Navigation):[debug]Finding element with selector: sv:register_email_input
+[fancy.frost](Test Navigation):[debug]Finding elements with selector: sv:register_email_input
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_present: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_visible: True
+[fancy.frost](Test Navigation):Waiting until visible (sv:register_email_input)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: False
+[fancy.frost](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): element is visible
+[fancy.frost](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:register_email_input)): Element found
+[fancy.frost](Test Navigation):[debug]find (sv:register_email_input): Element found
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[fancy.frost](Test Navigation):[debug]Finding element with selector: sv:register_name_input
+[fancy.frost](Test Navigation):[debug]Finding elements with selector: sv:register_name_input
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_present: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_visible: True
+[fancy.frost](Test Navigation):Waiting until visible (sv:register_name_input)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: False
+[fancy.frost](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): element is visible
+[fancy.frost](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "name"]), raw selector (sv:register_name_input)): Element found
+[fancy.frost](Test Navigation):[debug]find (sv:register_name_input): Element found
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Sending keys
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//input[@name = "name"]') (name: 'name') (class: 'form-control')] Highlighting element
+[fancy.frost](Test Navigation):[debug]Finding element with selector: sv:register_password_input
+[fancy.frost](Test Navigation):[debug]Finding elements with selector: sv:register_password_input
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_present: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_visible: True
+[fancy.frost](Test Navigation):Waiting until visible (sv:register_password_input)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: False
+[fancy.frost](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): element is visible
+[fancy.frost](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:register_password_input)): Element found
+[fancy.frost](Test Navigation):[debug]find (sv:register_password_input): Element found
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[fancy.frost](Test Navigation):[debug]Finding element with selector: sv:register_submit_btn
+[fancy.frost](Test Navigation):[debug]Finding elements with selector: sv:register_submit_btn
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_present: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_visible: True
+[fancy.frost](Test Navigation):Waiting until visible (sv:register_submit_btn)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: False
+[fancy.frost](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is visible
+[fancy.frost](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): Element found
+[fancy.frost](Test Navigation):[debug]find (sv:register_submit_btn): Element found
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[fancy.frost](Test Navigation):Waiting until clickable (sv:register_submit_btn)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "register-btn"]), raw selector (sv:register_submit_btn)): element is clickable
+[fancy.frost](Test Navigation):[debug][WebElement (selector: '//button[@name = "register-btn"]') (name: 'register-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[fancy.frost](Test Navigation):[App] Waiting until loaded...
+[fancy.frost](Test Navigation):Waiting until present (sv:app_root_div)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[fancy.frost](Test Navigation):Waiting until not visible (sv:app_loader)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[fancy.frost](Test Navigation):[App] Going to home...
+[fancy.frost](Test Navigation):[debug]Initializing javascript error interception
+[fancy.frost](Test Navigation):[App] Waiting until loaded...
+[fancy.frost](Test Navigation):Waiting until present (sv:app_root_div)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[fancy.frost](Test Navigation):Waiting until not visible (sv:app_loader)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[fancy.frost](Test Navigation):[App] Going to the profile page...
+[fancy.frost](Test Navigation):[App] Opening the user dropdown...
+[fancy.frost](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[fancy.frost](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_present: True
+[fancy.frost](Test Navigation):[debug]effective wait_until_visible: True
+[fancy.frost](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: False
+[fancy.frost](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is still not visible
+[fancy.frost](Test Navigation):Waiting until present (sv:header_user_dropdown)
+[fancy.frost](Test Navigation):[debug]effective timeout: 5
+[fancy.frost](Test Navigation):[debug]effective raise_exception: True
+[fancy.frost](Test Navigation):Test ended
+[fancy.frost](Test Navigation):Quitting the browser...
+[fancy.frost](Test Navigation):Ending timestamp: 2016-10-14 12:06:14.482365+00:00

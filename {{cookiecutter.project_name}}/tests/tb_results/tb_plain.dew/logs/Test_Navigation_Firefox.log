@@ -1,0 +1,630 @@
+[plain.dew](Test Navigation):Loading state...
+[plain.dew](Test Navigation):State loaded.
+[plain.dew](Test Navigation):Running...
+[plain.dew](Test Navigation):[App] Going to home...
+[plain.dew](Test Navigation):[debug]Initializing javascript error interception
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[App] Login...
+[plain.dew](Test Navigation):[App] Going to the login page...
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_login_link
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_login_link
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_login_link)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_login_link): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_login_link)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_email_input
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_email_input
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_email_input)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_email_input): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_password_input
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_password_input
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_password_input)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_password_input): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:login_submit_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[App] Going to the profile page...
+[plain.dew](Test Navigation):[App] Opening the user dropdown...
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[plain.dew](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_profile_link)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[App] Going to home...
+[plain.dew](Test Navigation):[debug]Initializing javascript error interception
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#25)
+[plain.dew](Test Navigation):[debug]effective highlight: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]effective wait_until_present: False
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: False
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[plain.dew](Test Navigation):Taking a screenshot...
+[plain.dew](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_plain.dew/assertion_screenshots/Firefox_46_0_Darwin/succeed_25_2016-09-22-18-44-49_Firefox_46_0_Darwin.png)
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[App] Going to home...
+[plain.dew](Test Navigation):[debug]Initializing javascript error interception
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[debug]Initializing javascript error interception
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[App] Going to the profile page...
+[plain.dew](Test Navigation):[App] Opening the user dropdown...
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[plain.dew](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_profile_link
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_profile_link
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_profile_link)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_profile_link): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_profile_link)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "profile-link"]), raw selector (sv:header_profile_link)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "profile-link"]') (name: 'profile-link')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):Assert visible selector(sv:profile_submit_btn) testid(#26)
+[plain.dew](Test Navigation):[debug]effective highlight: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:profile_submit_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): element is visible
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:profile_submit_btn
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:profile_submit_btn
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]effective wait_until_present: False
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: False
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "profile-btn"]), raw selector (sv:profile_submit_btn)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:profile_submit_btn): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "profile-btn"]') (name: 'profile-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[plain.dew](Test Navigation):Taking a screenshot...
+[plain.dew](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_plain.dew/assertion_screenshots/Firefox_46_0_Darwin/succeed_26_2016-09-22-18-44-53_Firefox_46_0_Darwin.png)
+[plain.dew](Test Navigation):[App] Logout...
+[plain.dew](Test Navigation):[App] Opening the user dropdown...
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[plain.dew](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_logout_btn
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_logout_btn
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_logout_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_logout_btn): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_logout_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[debug]Initializing javascript error interception
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):Assert visible selector(sv:login_submit_btn) testid(#28)
+[plain.dew](Test Navigation):[debug]effective highlight: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]effective wait_until_present: False
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: False
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-danger')] Highlighting element
+[plain.dew](Test Navigation):Taking a screenshot...
+[plain.dew](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_plain.dew/assertion_screenshots/Firefox_46_0_Darwin/succeed_28_2016-09-22-18-44-55_Firefox_46_0_Darwin.png)
+[plain.dew](Test Navigation):[App] Login...
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_email_input
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_email_input
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_email_input)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_email_input): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_password_input
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_password_input
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_password_input)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_password_input): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:login_submit_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):Assert visible selector(sv:settings_page) testid(#29)
+[plain.dew](Test Navigation):[debug]effective highlight: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:settings_page)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "settings-page"]), raw selector (sv:settings_page)): element is visible
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:settings_page
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:settings_page
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]effective wait_until_present: False
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: False
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "settings-page"]), raw selector (sv:settings_page)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:settings_page): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "settings-page"]') (name: 'settings-page')] Is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "settings-page"]') (name: 'settings-page')] is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "settings-page"]') (name: 'settings-page')] Highlighting element
+[plain.dew](Test Navigation):Taking a screenshot...
+[plain.dew](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_plain.dew/assertion_screenshots/Firefox_46_0_Darwin/succeed_29_2016-09-22-18-44-58_Firefox_46_0_Darwin.png)
+[plain.dew](Test Navigation):[App] Logout...
+[plain.dew](Test Navigation):[App] Opening the user dropdown...
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[plain.dew](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_logout_btn
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_logout_btn
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_logout_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_logout_btn): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_logout_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[App] Login...
+[plain.dew](Test Navigation):[App] Going to the login page...
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_login_link
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_login_link
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_login_link)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_login_link): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_login_link)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "login-link"]), raw selector (sv:header_login_link)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "login-link"]') (name: 'login-link')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_email_input
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_email_input
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_email_input)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "email"]), raw selector (sv:login_email_input)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_email_input): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Sending keys
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "email"]') (name: 'email') (class: 'form-control')] Highlighting element
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_password_input
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_password_input
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_password_input)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//input[@name = "password"]), raw selector (sv:login_password_input)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_password_input): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Sending keys
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//input[@name = "password"]') (name: 'password') (class: 'form-control')] Highlighting element
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:login_submit_btn
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:login_submit_btn
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:login_submit_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:login_submit_btn): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:login_submit_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//button[@name = "login-btn"]), raw selector (sv:login_submit_btn)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//button[@name = "login-btn"]') (name: 'login-btn') (class: 'ladda-button btn btn-lg btn-primary btn-block btn-success')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):Assert visible selector(sv:dashboard_page) testid(#27)
+[plain.dew](Test Navigation):[debug]effective highlight: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:dashboard_page)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "dashboard-page"]), raw selector (sv:dashboard_page)): element is visible
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:dashboard_page
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:dashboard_page
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]effective wait_until_present: False
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: False
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "dashboard-page"]), raw selector (sv:dashboard_page)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:dashboard_page): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "dashboard-page"]') (name: 'dashboard-page')] Is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "dashboard-page"]') (name: 'dashboard-page')] is displayed
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "dashboard-page"]') (name: 'dashboard-page')] Highlighting element
+[plain.dew](Test Navigation):Taking a screenshot...
+[plain.dew](Test Navigation):[debug]Screenshot taken (/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tb_results/tb_plain.dew/assertion_screenshots/Firefox_46_0_Darwin/succeed_27_2016-09-22-18-45-03_Firefox_46_0_Darwin.png)
+[plain.dew](Test Navigation):[App] Logout...
+[plain.dew](Test Navigation):[App] Opening the user dropdown...
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_user_dropdown
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_user_dropdown): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_user_dropdown)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "user-dropdown"]), raw selector (sv:header_user_dropdown)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "user-dropdown"]') (name: 'user-dropdown') (class: 'dropdown')] Highlighting element
+[plain.dew](Test Navigation):Waiting until present (sv:header_user_dropdown_open)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@name = "user-dropdown" and contains(@class, "open")]), raw selector (sv:header_user_dropdown_open)): element is present
+[plain.dew](Test Navigation):[debug]Finding element with selector: sv:header_logout_btn
+[plain.dew](Test Navigation):[debug]Finding elements with selector: sv:header_logout_btn
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]effective wait_until_present: True
+[plain.dew](Test Navigation):[debug]effective wait_until_visible: True
+[plain.dew](Test Navigation):Waiting until visible (sv:header_logout_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: False
+[plain.dew](Test Navigation):[debug]wait_until_visible (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is visible
+[plain.dew](Test Navigation):[debug]find_all (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): Element found
+[plain.dew](Test Navigation):[debug]find (sv:header_logout_btn): Element found
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Clicking on element
+[plain.dew](Test Navigation):Waiting until clickable (sv:header_logout_btn)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_clickable (Selector: effective selector (//*[@name = "logout-link"]), raw selector (sv:header_logout_btn)): element is clickable
+[plain.dew](Test Navigation):[debug][WebElement (selector: '//*[@name = "logout-link"]') (name: 'logout-link')] Highlighting element
+[plain.dew](Test Navigation):[App] Waiting until loaded...
+[plain.dew](Test Navigation):Waiting until present (sv:app_root_div)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_present (Selector: effective selector (//*[@id = "root"]), raw selector (sv:app_root_div)): element is present
+[plain.dew](Test Navigation):Waiting until not visible (sv:app_loader)
+[plain.dew](Test Navigation):[debug]effective timeout: 5
+[plain.dew](Test Navigation):[debug]effective raise_exception: True
+[plain.dew](Test Navigation):[debug]wait_until_not_visible (Selector: effective selector (//*[@name = "loader"]), raw selector (sv:app_loader)): element is not visible
+[plain.dew](Test Navigation):Test ended
+[plain.dew](Test Navigation):Quitting the browser...
+[plain.dew](Test Navigation):Ending timestamp: 2016-09-22 15:45:04.535013+00:00

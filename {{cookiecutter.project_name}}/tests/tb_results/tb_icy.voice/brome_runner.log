@@ -1,0 +1,23 @@
+[icy.voice]The test batch is ready.
+[icy.voice]Startup
+[icy.voice]Tear down
+[icy.voice]The test batch is finished.
+[icy.voice]******* TEST BATCH SUMMARY ********
+[icy.voice]Total_test: 0; Total_test_successful: 0; Total_test_failed: 0
+[icy.voice]Total execution time: 0:00:07.232000
+[icy.voice]---------------------
+[icy.voice]Failed tests:
+[icy.voice]No test failed!
+[icy.voice]---------------------
+[icy.voice]Test Translation Firefox-46_0-Darwin
+[icy.voice]Test execution time: 0:00:03.803000
+[icy.voice]Total_test: 0; Total_test_successful: 0; Total_test_failed: 0
+[icy.voice][!]Test Translation Firefox crashed: Traceback (most recent call last):
+  File "/Users/pyrat/.virtualenvs/cob_v1/lib/python3.5/site-packages/brome/core/basetest.py", line 692, in execute
+    self.run(**self._test_config)
+  File "/Users/pyrat/Documents/PROG/PYTHON/webbase/tests/tests/test_translation.py", line 14, in run
+    self.app.change_locale('en')
+AttributeError: 'App' object has no attribute 'change_locale'
+
+[icy.voice]---------------------
+[icy.voice]Finished
