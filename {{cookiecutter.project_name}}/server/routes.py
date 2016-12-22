@@ -10,7 +10,9 @@ from server.auth.views import (
     api_confirm_email,
     api_reset_password,
     Login,
+{%- if cookiecutter.include_registration == 'y' %}
     Register,
+{%- endif %}
     Logout
 )
 from server.crud.views import CRUD
@@ -44,6 +46,8 @@ routes = [
     ),
     ('*', '/api/crud', CRUD, 'api_crud'),
     ('*', '/api/login', Login, 'api_login'),
+{%- if cookiecutter.include_registration == 'y' %}
     ('*', '/api/register', Register, 'api_register'),
+{%- endif %}
     ('*', '/api/logout', Logout, 'api_logout'),
 ]

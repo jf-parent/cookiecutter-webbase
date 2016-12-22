@@ -34,6 +34,10 @@ copy-webbase:
 copy-webbase-fast:
 	rm -fr "{{cookiecutter.project_name}}"
 	cp -r main "{{cookiecutter.project_name}}"
+	rm -fr "{{cookiecutter.project_name}}/node_modules"
 
 cookiecutter: escape-all-bracket
-	cookiecutter -f .
+	rm -fr Webbase
+	cookiecutter .
+	ln -s `pwd`/main/node_modules/ Webbase/node_modules
+	cd Webbase && npm run build:dev

@@ -96,6 +96,7 @@ class Login extends BaseComponent {
             </div>
           </div>
         </Form>
+{%- if cookiecutter.include_registration == 'y' %}
         <div className='row'>
           <div className='medium-6 columns'>
             <Link name='dont-have-account-link' to='/register'>
@@ -106,6 +107,7 @@ class Login extends BaseComponent {
             </Link>
           </div>
         </div>
+{%- endif %}
         <div className='row'>
           <div className='medium-6 columns'>
             <Link name='forgottenpassword-link' to='/forgottenpassword'>

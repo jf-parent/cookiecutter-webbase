@@ -59,6 +59,7 @@ class Login(web.View):
         return web.json_response(resp_data)
 
 
+{%- if cookiecutter.include_registration == 'y' %}
 class Register(web.View):
 
     @exception_handler()
@@ -97,6 +98,7 @@ class Register(web.View):
             'token': session['csrf_token']
         }
         return web.json_response(resp_data)
+{%- endif %}
 
 
 class Logout(web.View):

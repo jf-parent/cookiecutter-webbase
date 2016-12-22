@@ -16,6 +16,7 @@ class UnAuthenticatedNav extends BaseComponent {
           defaultMessage='Home'
         />
       </span>,
+{%- if cookiecutter.include_registration == 'y' %}
       <span to='/register'>
         <i className='fa fa-id-card-o' aria-hidden='true'></i>
         {' '}
@@ -24,6 +25,7 @@ class UnAuthenticatedNav extends BaseComponent {
           defaultMessage='Register'
         />
       </span>,
+{%- endif %}
       <span to='/login'>
         <i className='fa fa-sign-in' aria-hidden='true'></i>
         {' '}

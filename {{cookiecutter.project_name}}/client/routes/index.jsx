@@ -21,24 +21,24 @@ export const createRoutes = (store) => ({
     PrivacyPolicy(store),
     Dashboard(store),
 {%- if cookiecutter.include_registration == 'y' %}
-    ResetPassword(store),
+    Register(store),
 {%- endif %}
     Login(store),
     Profile(store),
     ForgottenPassword(store),
     ComponentLibrary(store),
-    Register(store),
+    ResetPassword(store),
     Confirmation(store),
     ErrorPage(store)
   ]
 })
 
 export const notAuthRoutes = [
-    '/login',
+  '/login',
 {%- if cookiecutter.include_registration == 'y' %}
-    '/register',
+  '/register',
 {%- endif %}
-    '/forgottenpassword',
-    '/privacy-policy',
-    '/browsernotsupported'
+  '/forgottenpassword',
+  '/privacy-policy',
+  '/browsernotsupported'
 ]
